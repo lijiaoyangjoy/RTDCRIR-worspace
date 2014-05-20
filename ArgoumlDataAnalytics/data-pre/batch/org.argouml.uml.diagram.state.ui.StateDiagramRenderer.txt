@@ -1,4 +1,0 @@
-org.argouml.uml.diagram.state.ui.StateDiagramRenderer
-org.argouml.uml.diagram.state.ui.StateDiagramRenderer.LOG
-org.argouml.uml.diagram.state.ui.StateDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
-org.argouml.uml.diagram.state.ui.StateDiagramRenderer.getFigEdgeFor(GraphModel, Layer, Object, Map)

@@ -1,9 +1,0 @@
-org.argouml.cognitive.ui.TabToDo
-org.argouml.ui.ProjectBrowser
-org.argouml.ui.TabText
-org.argouml.ui.cmd.GenericArgoMenuBar
-org.argouml.uml.diagram.ui.UMLDiagram
-org.argouml.uml.ui.PropPanel
-org.argouml.uml.ui.TabConstraints
-org.argouml.uml.ui.TabTaggedValues
-org.argouml.ui.cmd.GenericArgoMenuBar

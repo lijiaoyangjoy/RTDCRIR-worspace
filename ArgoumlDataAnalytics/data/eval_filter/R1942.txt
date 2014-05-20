@@ -1,6 +1,0 @@
-org.argouml.model.mdr.ModelManagementFactoryMDRImpl
-org.argouml.model.mdr.ModelManagementHelperMDRImpl
-org.argouml.uml.ui.model_management.ActionAddPackageImport
-org.argouml.uml.ui.model_management.ActionRemovePackageImport
-org.argouml.model.mdr.FacadeMDRImpl
-org.argouml.ui.DisplayTextTree

@@ -1,9 +1,0 @@
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.FigComponentInstance(Object, Rectangle, DiagramSettings)
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.getNotationProviderType()
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.clone()
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.updateListeners(Object, Object)
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.makeSelection()
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.mouseClicked(MouseEvent)
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.mousePressed(MouseEvent)
-org.argouml.uml.diagram.deployment.ui.FigComponentInstance.setEnclosingFig(Fig)

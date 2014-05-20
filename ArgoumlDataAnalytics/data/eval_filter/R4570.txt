@@ -1,3 +1,0 @@
-org.argouml.uml.ui.behavior.activity_graphs.PropPanelObjectFlowState.UMLObjectFlowStateParameterListModel
-org.argouml.model.mdr.ActivityGraphsHelperMDRImpl
-org.argouml.model.AbstractActivityGraphsHelperDecorator

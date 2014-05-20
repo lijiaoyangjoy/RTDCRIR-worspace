@@ -1,2 +1,0 @@
-org.argouml.model.mdr.MetaTypesMDRImpl
-org.argouml.uml.ui.behavior.state_machines.UMLStateMachineContextComboBoxModel

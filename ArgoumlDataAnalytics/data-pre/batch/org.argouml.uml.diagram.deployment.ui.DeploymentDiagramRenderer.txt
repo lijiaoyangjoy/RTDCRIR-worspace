@@ -1,5 +1,0 @@
-org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer
-org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer.serialVersionUID
-org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer.LOG
-org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
-org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer.getFigEdgeFor(GraphModel, Layer, Object, Map)

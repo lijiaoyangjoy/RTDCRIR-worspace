@@ -1,5 +1,0 @@
-org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer
-org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer.LOG
-org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
-org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer.getFigEdgeFor(GraphModel, Layer, Object, Map)
-org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer.getFigNodeForAssociationEnd(ArgoDiagram, Object)

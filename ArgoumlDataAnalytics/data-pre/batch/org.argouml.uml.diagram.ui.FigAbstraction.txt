@@ -1,3 +1,0 @@
-org.argouml.uml.diagram.ui.FigAbstraction
-org.argouml.uml.diagram.ui.FigAbstraction.createEndArrow()
-org.argouml.uml.diagram.ui.FigAbstraction.FigAbstraction(Object, DiagramSettings)

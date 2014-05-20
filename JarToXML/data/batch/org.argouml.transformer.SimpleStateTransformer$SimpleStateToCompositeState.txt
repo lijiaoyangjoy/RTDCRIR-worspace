@@ -1,8 +1,0 @@
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.SimpleStateToCompositeState(Project, Object)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.actionPerformed(ActionEvent)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.makeTransition(DiagramSettings, Layer, Object)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.setPorts(Layer, FigEdge)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.setSourcePort(FigEdge, FigNode)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.setDestPort(FigEdge, FigNode)
-org.argouml.transformer.SimpleStateTransformer.SimpleStateToCompositeState.getNodePresentationFor(Layer, Object)

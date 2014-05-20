@@ -1,4 +1,0 @@
-R1942	enhance argouml by support for model. sub system. element import
-R3197	implement call state
-R4969	hide association names in diagramm when there are many associations. the diagram is unreadable
-R5014	better indication of default settings vs. project specific settings

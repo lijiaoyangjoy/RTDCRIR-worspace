@@ -1,3 +1,0 @@
-org.argouml.uml.ui.UMLDeprecatedCheckBox
-org.argouml.uml.ui.UMLDerivedCheckBox
-org.argouml.uml.ui.UMLTaggedValueCheckBox

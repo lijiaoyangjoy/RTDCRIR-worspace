@@ -1,4 +1,0 @@
-org.argouml.uml.ui.AbstractActionNavigate
-org.argouml.uml.ui.ActionNavigateUpNextDown
-org.argouml.uml.ui.ActionNavigateUpPreviousDown
-org.argouml.uml.ui.PropPanel
