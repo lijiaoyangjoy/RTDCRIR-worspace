@@ -1,0 +1,478 @@
+......................
+C:/workspace/JarToXML/data/argouml.xml
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.ui.targetmanager.TargetManager$HistoryRemover cannot access its superclass org.argouml.ui.targetmanage
+r.TargetManager$Remover
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.ui.targetmanager.TargetManager$TargetRemover cannot access its superclass org.argouml.ui.targetmanager
+.TargetManager$Remover
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.profile.internal.ProfileManagerImpl$1 cannot access its superinterface org.argouml.profile.internal.De
+pendencyChecker
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.static_structure.layout.ClassdiagramNote cannot access its superclass org.argouml.uml.diag
+ram.static_structure.layout.ClassdiagramNode
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.generator.TempFileUtils$1 cannot access its superinterface org.argouml.uml.generator.TempFileUtils
+$FileAction
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.generator.TempFileUtils$2 cannot access its superinterface org.argouml.uml.generator.TempFileUtils
+$FileAction
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.generator.TempFileUtils$3 cannot access its superinterface org.argouml.uml.generator.TempFileUtils
+$FileAction
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$1 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$10 cannot access its superinterface org.argouml.notation.pro
+viders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$2 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$3 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$4 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$5 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$6 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$7 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$8 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.notation.providers.uml.NotationUtilityUml$9 cannot access its superinterface org.argouml.notation.prov
+iders.uml.NotationUtilityUml$PropertyOperation
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.cognitive.AndCM cannot access its superclass org.argouml.cognitive.CompositeCM
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.cognitive.OrCM cannot access its superclass org.argouml.cognitive.CompositeCM
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.cognitive.StandardCM cannot access its superclass org.argouml.cognitive.AndCM
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.DiagramMemberFilePersister cannot access its superclass org.argouml.persistence.MemberFile
+Persister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ModelMemberFilePersister cannot access its superclass org.argouml.persistence.MemberFilePe
+rsister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.TodoTokenTable cannot access its superclass org.argouml.persistence.XMLTokenTableBase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ArgoTokenTable cannot access its superclass org.argouml.persistence.XMLTokenTableBase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.SaveException cannot access its superclass org.argouml.persistence.PersistenceException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.TodoListMemberFilePersister cannot access its superclass org.argouml.persistence.MemberFil
+ePersister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.OldZargoFilePersister cannot access its superclass org.argouml.persistence.ZargoFilePersis
+ter
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.XmlFilePersister cannot access its superclass org.argouml.persistence.XmiFilePersister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.TodoParser cannot access its superclass org.argouml.persistence.SAXParserBase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ProfileConfigurationFilePersister cannot access its superclass org.argouml.persistence.Mem
+berFilePersister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ProfileConfigurationParser$ProfileConfigurationTokenTable cannot access its superclass org
+.argouml.persistence.XMLTokenTableBase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ProfileConfigurationParser cannot access its superclass org.argouml.persistence.SAXParserB
+ase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.OpenException cannot access its superclass org.argouml.persistence.PersistenceException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.OldModelMemberFilePersister cannot access its superclass org.argouml.persistence.ModelMemb
+erFilePersister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.XmiFilePersister cannot access its superinterface org.argouml.persistence.XmiExtensionPars
+er
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ZipFilePersister cannot access its superclass org.argouml.persistence.XmiFilePersister
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.persistence.ArgoParser cannot access its superclass org.argouml.persistence.SAXParserBase
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.static_structure.ui.SelectionEnumeration cannot access its superclass org.argouml.uml.diag
+ram.static_structure.ui.SelectionDataType
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionModifierLeaf cannot access its superclass org.argouml.uml.diagram.ui.AbstractActi
+onCheckBoxMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionModifierActive cannot access its superclass org.argouml.uml.diagram.ui.AbstractAc
+tionCheckBoxMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionVisibilityPrivate cannot access its superclass org.argouml.uml.diagram.ui.Abstrac
+tActionRadioMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionVisibilityProtected cannot access its superclass org.argouml.uml.diagram.ui.Abstr
+actActionRadioMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionModifierAbstract cannot access its superclass org.argouml.uml.diagram.ui.Abstract
+ActionCheckBoxMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionVisibilityPackage cannot access its superclass org.argouml.uml.diagram.ui.Abstrac
+tActionRadioMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionModifierRoot cannot access its superclass org.argouml.uml.diagram.ui.AbstractActi
+onCheckBoxMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionStereotypeView cannot access its superclass org.argouml.uml.diagram.ui.AbstractAc
+tionRadioMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.ActionVisibilityPublic cannot access its superclass org.argouml.uml.diagram.ui.Abstract
+ActionRadioMenuItem
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.ui.FigNameWithAbstractAndBold cannot access its superclass org.argouml.uml.diagram.ui.FigN
+ameWithAbstract
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.state.ui.ButtonActionNewSignalEvent cannot access its superclass org.argouml.uml.diagram.s
+tate.ui.ButtonActionNewEvent
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.state.ui.ButtonActionNewChangeEvent cannot access its superclass org.argouml.uml.diagram.s
+tate.ui.ButtonActionNewEvent
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.state.ui.ButtonActionNewCallEvent cannot access its superclass org.argouml.uml.diagram.sta
+te.ui.ButtonActionNewEvent
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.uml.diagram.state.ui.ButtonActionNewTimeEvent cannot access its superclass org.argouml.uml.diagram.sta
+te.ui.ButtonActionNewEvent
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.kernel.DefaultUndoManager$RedoStack cannot access its superclass org.argouml.kernel.DefaultUndoManager
+$InteractionStack
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+defineClass IllegalAccessError
+java.lang.IllegalAccessError: class org.argouml.kernel.DefaultUndoManager$UndoStack cannot access its superclass org.argouml.kernel.DefaultUndoManager
+$InteractionStack
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at DynamicTraceability.Toolkit.Tool.SimpleLoader.findClass(SimpleLoader.java:33)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.classDetailToMap(PackageUtil.java:310)
+	at DynamicTraceability.Toolkit.JavaToXML.PackageUtil.main(PackageUtil.java:72)
+ÎÄ¼þ´æÔÚ

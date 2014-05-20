@@ -1,0 +1,14 @@
+org.argouml.uml.diagram.ui.FigAssociationEnd
+org.argouml.uml.diagram.ui.FigAssociationEnd.destGroup
+org.argouml.uml.diagram.ui.FigAssociationEnd.destMult
+org.argouml.uml.diagram.ui.FigAssociationEnd.FigAssociationEnd(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigAssociationEnd.getNotationProviderType()
+org.argouml.uml.diagram.ui.FigAssociationEnd.initNotationProviders(Object)
+org.argouml.uml.diagram.ui.FigAssociationEnd.initializeNotationProvidersInternal(Object)
+org.argouml.uml.diagram.ui.FigAssociationEnd.initNotationArguments()
+org.argouml.uml.diagram.ui.FigAssociationEnd.updateListeners(Object, Object)
+org.argouml.uml.diagram.ui.FigAssociationEnd.textEdited(FigText)
+org.argouml.uml.diagram.ui.FigAssociationEnd.textEditStarted(FigText)
+org.argouml.uml.diagram.ui.FigAssociationEnd.renderingChanged()
+org.argouml.uml.diagram.ui.FigAssociationEnd.updateStereotypeText()
+org.argouml.uml.diagram.ui.FigAssociationEnd.updateMultiplicity()

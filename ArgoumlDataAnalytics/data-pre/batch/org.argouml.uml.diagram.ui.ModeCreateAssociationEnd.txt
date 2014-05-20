@@ -1,0 +1,6 @@
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd.serialVersionUID
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd.getMetaType()
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd.buildConnection(MutableGraphModel, Object, Fig, Fig)
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd.convertToFigNode(Fig)
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd.isConnectionValid(Fig, Fig)

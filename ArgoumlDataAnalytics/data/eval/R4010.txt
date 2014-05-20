@@ -1,0 +1,16 @@
+org.argouml.uml.diagram.state.ui.FigTransition
+org.argouml.uml.diagram.state.ui.UMLStateDiagram
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram
+org.argouml.uml.diagram.ui.UMLDiagram
+org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCallAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCreateAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewDestroyAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewReturnAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewSendAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewTerminateAction
+org.argouml.uml.ui.behavior.common_behavior.ActionNewUninterpretedAction
+org.argouml.uml.ui.behavior.common_behavior.PopupMenuNewAction
+org.argouml.uml.ui.behavior.state_machines.ButtonActionNewGuard
+org.argouml.uml.ui.behavior.state_machines.PropPanelTransition
+org.argouml.uml.ui.PropPanel

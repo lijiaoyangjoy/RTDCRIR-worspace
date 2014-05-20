@@ -1,0 +1,16 @@
+org.argouml.uml.diagram.ui.FigGeneralization
+org.argouml.uml.diagram.ui.FigGeneralization.TEXT_HEIGHT
+org.argouml.uml.diagram.ui.FigGeneralization.DISCRIMINATOR_WIDTH
+org.argouml.uml.diagram.ui.FigGeneralization.serialVersionUID
+org.argouml.uml.diagram.ui.FigGeneralization.middleGroup
+org.argouml.uml.diagram.ui.FigGeneralization.discriminator
+org.argouml.uml.diagram.ui.FigGeneralization.endArrow
+org.argouml.uml.diagram.ui.FigGeneralization.initialize()
+org.argouml.uml.diagram.ui.FigGeneralization.FigGeneralization(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigGeneralization.canEdit(Fig)
+org.argouml.uml.diagram.ui.FigGeneralization.modelChanged(PropertyChangeEvent)
+org.argouml.uml.diagram.ui.FigGeneralization.updateListeners(Object, Object)
+org.argouml.uml.diagram.ui.FigGeneralization.addListener(Object)
+org.argouml.uml.diagram.ui.FigGeneralization.updateDiscriminatorText()
+org.argouml.uml.diagram.ui.FigGeneralization.paint(Graphics)
+org.argouml.uml.diagram.ui.FigGeneralization.fixup(Object)

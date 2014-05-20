@@ -1,0 +1,17 @@
+org.argouml.uml.cognitive.critics.CrMissingStateName	-1
+org.argouml.uml.cognitive.critics.CrMissingClassName	-1
+org.argouml.ui.cmd.ActionFind	-1
+org.argouml.uml.cognitive.critics.CrMissingOperName	-1
+org.argouml.uml.cognitive.critics.CrMissingAttrName	-1
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedMissingStaticAttr	-1
+org.argouml.ui.FindDialog	-1
+org.argouml.notation.InitNotation	-1
+org.argouml.notation.providers.uml.InitNotationUml	-1
+org.argouml.uml.diagram.state.ui.InitStateDiagram	-1
+org.argouml.uml.cognitive.critics.CrUnconventionalClassName	-1
+org.argouml.ui.cmd.ActionSystemInfo	-1
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedOnlyPrivateConstructors	-1
+org.argouml.ui.TabResults	-1
+org.argouml.notation.ui.InitNotationUI	-1
+org.argouml.uml.diagram.ui.FigAssociation	-1
+org.argouml.uml.ui.PropPanelFactory	-1

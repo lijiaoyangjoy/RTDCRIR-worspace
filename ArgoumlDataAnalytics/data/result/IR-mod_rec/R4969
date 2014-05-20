@@ -1,0 +1,17 @@
+org.argouml.notation.ui.SettingsTabNotation	-1
+org.argouml.notation.Notation	-1
+org.argouml.kernel.ProjectSettings	-1
+org.argouml.persistence.ArgoTokenTable	-1
+org.argouml.notation.providers.uml.AssociationNameNotationUml	-1
+org.argouml.persistence.ArgoParser	-1
+org.argouml.notation.providers.AssociationNameNotation	-1
+org.argouml.notation.NotationSettings	-1
+org.argouml.notation.providers.uml.AssociationRoleNotationUml	-1
+org.argouml.uml.diagram.ui.SettingsTabDiagramAppearance	-1
+org.argouml.ui.SettingsTabUser	-1
+org.argouml.uml.diagram.ui.FigNodeModelElement	-1
+org.argouml.notation.providers.uml.ModelElementNameNotationUml	-1
+org.argouml.notation.providers.java.AssociationNameNotationJava	-1
+org.argouml.uml.diagram.DiagramSettings	-1
+org.argouml.notation.providers.uml.MessageNotationUml	-1
+org.argouml.uml.ui.AbstractActionAddModelElement2	-1

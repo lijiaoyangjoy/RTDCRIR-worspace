@@ -1,0 +1,11 @@
+org.argouml.uml.diagram.static_structure.ui.FigLink
+org.argouml.uml.diagram.static_structure.ui.FigLink.middleGroup
+org.argouml.uml.diagram.static_structure.ui.FigLink.initialize()
+org.argouml.uml.diagram.static_structure.ui.FigLink.FigLink(Object, DiagramSettings)
+org.argouml.uml.diagram.static_structure.ui.FigLink.canEdit(Fig)
+org.argouml.uml.diagram.static_structure.ui.FigLink.updateListeners(Object, Object)
+org.argouml.uml.diagram.static_structure.ui.FigLink.notationRenderingChanged(NotationProvider, String)
+org.argouml.uml.diagram.static_structure.ui.FigLink.updateLayout(UmlChangeEvent)
+org.argouml.uml.diagram.static_structure.ui.FigLink.updateNameText()
+org.argouml.uml.diagram.static_structure.ui.FigLink.getDestination()
+org.argouml.uml.diagram.static_structure.ui.FigLink.getSource()

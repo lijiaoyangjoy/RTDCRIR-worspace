@@ -1,0 +1,31 @@
+@relation 'class_requirement-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute class_class {1}
+@attribute auto numeric
+@attribute birt numeric
+@attribute build numeric
+@attribute client numeric
+@attribute completion numeric
+@attribute daily numeric
+@attribute eclipse numeric
+@attribute error numeric
+@attribute expected numeric
+@attribute issue numeric
+@attribute junit numeric
+@attribute model numeric
+@attribute occurs numeric
+@attribute org numeric
+@attribute print numeric
+@attribute provide numeric
+@attribute report numeric
+@attribute swt numeric
+@attribute templates numeric
+@attribute test numeric
+@attribute tests numeric
+
+@data
+
+{16 0.693147,18 0.693147,19 1.098612}
+{4 0.693147,10 0.693147,15 0.693147,17 0.693147}
+{2 0.693147,3 0.693147,6 0.693147,7 0.693147,8 0.693147,11 0.693147,12 0.693147,13 0.693147,14 0.693147,17 0.693147,20 0.693147,21 0.693147}
+{1 0.693147,5 0.693147,9 0.693147}

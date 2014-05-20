@@ -1,0 +1,10 @@
+org.argouml.uml.diagram.ui.FigDependency
+org.argouml.uml.diagram.ui.FigDependency.serialVersionUID
+org.argouml.uml.diagram.ui.FigDependency.middleGroup
+org.argouml.uml.diagram.ui.FigDependency.constructFigs()
+org.argouml.uml.diagram.ui.FigDependency.createEndArrow()
+org.argouml.uml.diagram.ui.FigDependency.FigDependency(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigDependency.setFig(Fig)
+org.argouml.uml.diagram.ui.FigDependency.canEdit(Fig)
+org.argouml.uml.diagram.ui.FigDependency.updateNameText()
+org.argouml.uml.diagram.ui.FigDependency.updateStereotypeText()

@@ -1,0 +1,2 @@
+org.argouml.uml.diagram.ui.FigPermission
+org.argouml.uml.diagram.ui.FigPermission.FigPermission(Object, DiagramSettings)

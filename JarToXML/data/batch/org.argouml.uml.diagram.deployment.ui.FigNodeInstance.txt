@@ -1,0 +1,6 @@
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance.FigNodeInstance(Object, Rectangle, DiagramSettings)
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance.getNotationProviderType()
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance.clone()
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance.makeSelection()
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance.setEnclosingFig(Fig)

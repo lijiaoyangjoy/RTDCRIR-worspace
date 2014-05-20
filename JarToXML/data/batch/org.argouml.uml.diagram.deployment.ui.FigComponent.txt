@@ -1,0 +1,6 @@
+org.argouml.uml.diagram.deployment.ui.FigComponent
+org.argouml.uml.diagram.deployment.ui.FigComponent.FigComponent(Object, Rectangle, DiagramSettings)
+org.argouml.uml.diagram.deployment.ui.FigComponent.textEditStarted(FigText)
+org.argouml.uml.diagram.deployment.ui.FigComponent.makeSelection()
+org.argouml.uml.diagram.deployment.ui.FigComponent.setEnclosingFig(Fig)
+org.argouml.uml.diagram.deployment.ui.FigComponent.getPopUpActions(MouseEvent)

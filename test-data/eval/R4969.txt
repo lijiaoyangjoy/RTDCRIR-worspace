@@ -1,0 +1,8 @@
+org.argouml.kernel.ProjectSettings
+org.argouml.persistence.ArgoParser
+org.argouml.uml.ui.ActionGenerateAll
+org.argouml.notation.ui.SettingsTabNotation
+org.argouml.persistence.ArgoParser
+rg.argouml.uml.diagram.ui.FigAssociationClass
+org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer
+org.argouml.uml.ui.ActionAddDiagram

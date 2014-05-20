@@ -1,0 +1,9 @@
+org.argouml.uml.diagram.ui.SelectionRerouteEdge
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.sourceFig
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.destFig
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.armed
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.pointIndex
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.SelectionRerouteEdge(FigEdgeModelElement)
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.mousePressed(MouseEvent)
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.mouseDragged(MouseEvent)
+org.argouml.uml.diagram.ui.SelectionRerouteEdge.mouseReleased(MouseEvent)

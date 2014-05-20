@@ -1,0 +1,17 @@
+org.argouml.core.propertypanels.ui.UMLExtendedElementsListModel	-1
+org.argouml.model.ExtensionMechanismsHelper	-1
+org.argouml.ui.explorer.rules.GoModelToBaseElements	-1
+org.argouml.model.mdr.ExtensionMechanismsHelperMDRImpl	-1
+org.argouml.model.AbstractExtensionMechanismsHelperDecorator	-1
+org.argouml.uml.ActionAddStereotype	-1
+org.argouml.core.propertypanels.ui.UMLStereotypeBaseClassListModel	-1
+org.argouml.model.euml.ExtensionMechanismsHelperEUMLImpl	-1
+org.argouml.uml.diagram.ui.ActionAddStereotype	-1
+org.argouml.model.euml.ExtensionMechanismsFactoryEUMLImpl	-1
+org.argouml.model.Facade	-1
+org.argouml.ui.explorer.rules.GoModelToCollaboration	-1
+org.argouml.model.mdr.UseCasesHelperMDRImpl	-1
+org.argouml.uml.diagram.ui.FigNodeModelElement	-1
+org.argouml.core.propertypanels.ui.XMLPropPanelFactory	-1
+org.argouml.model.euml.FacadeEUMLImpl	-1
+org.argouml.uml.ui.foundation.core.ActionAddAttribute	-1

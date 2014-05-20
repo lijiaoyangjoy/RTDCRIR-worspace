@@ -1,0 +1,10 @@
+weka.filters.unsupervised.attribute.StringToWordVector -R first-last -W 1000 -prune-rate -1.0 -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+weka.filters.unsupervised.attribute.StringToWordVector -R first-last -W 1000 -prune-rate -1.0 -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+-S
+-stopwords 听用词文件
+默认一行一个词
+StringToWordVector过滤器可以使用不同的停词表，它自身也有一个内嵌的停词表(基于Rainbow系统)。
+你可以用-stopwords选择来加载外部的停词文件，
+停词文件的格式就是一行一个停词，
+如果前面有’#’就会被认为是注释被忽略。

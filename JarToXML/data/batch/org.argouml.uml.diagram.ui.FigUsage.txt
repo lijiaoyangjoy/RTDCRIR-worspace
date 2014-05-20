@@ -1,0 +1,2 @@
+org.argouml.uml.diagram.ui.FigUsage
+org.argouml.uml.diagram.ui.FigUsage.FigUsage(Object, DiagramSettings)

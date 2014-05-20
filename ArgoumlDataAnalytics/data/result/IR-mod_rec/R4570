@@ -1,0 +1,16 @@
+org.argouml.core.propertypanels.ui.UMLObjectFlowStateParameterListModel	-1
+org.argouml.notation.providers.ObjectFlowStateStateNotation	-1
+org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml	-1
+org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml	-1
+org.argouml.notation.providers.ObjectFlowStateTypeNotation	-1
+org.argouml.notation.providers.uml.ObjectNotationUml	-1
+org.argouml.uml.diagram.layout.LayoutedObject	-1
+org.argouml.notation.providers.ObjectNotation	-1
+org.argouml.model.MetaTypes	-1
+org.argouml.model.mdr.ActivityGraphsFactoryMDRImpl	-1
+org.argouml.core.propertypanels.ui.UMLOFSStateListModel	-1
+org.argouml.notation.providers.uml.OperationNotationUml	-1
+org.argouml.notation.providers.OperationNotation	-1
+org.argouml.uml.reveng.Import	-1
+org.argouml.model.UUIDManager	-1
+org.argouml.model.mdr.StateMachinesFactoryMDRImpl	-1

@@ -1,0 +1,12 @@
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole.messages
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole.FigAssociationRole(DiagramEdgeSettings, DiagramSettings)
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole.getNotationProviderType()
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole.addMessage(FigMessage)
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole.computeRouteImpl()
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup.FigMessageGroup(Object, DiagramSettings)
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup.updateFigPositions()
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup.calcBounds()
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup.addFig(Fig)
+org.argouml.uml.diagram.collaboration.ui.FigMessageGroup.updateArrows()

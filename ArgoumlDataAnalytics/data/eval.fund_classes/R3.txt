@@ -1,0 +1,17 @@
+GenericArgoMenuBar
+ShortcutMgr
+Critic
+Poster
+Designer
+Goal
+GoalModel
+CrUselessAbstract
+CrUselessInterface
+GoalsDialog
+CompoundCritic
+Critic
+StandardCM
+DesignGoalsCM
+ControlMech
+PriorityNode
+ActionOpenCritics

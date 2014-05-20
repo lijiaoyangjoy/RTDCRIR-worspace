@@ -1,0 +1,22 @@
+org.argouml.uml.diagram.ui.FigNodeAssociation
+org.argouml.uml.diagram.ui.FigNodeAssociation.X
+org.argouml.uml.diagram.ui.FigNodeAssociation.Y
+org.argouml.uml.diagram.ui.FigNodeAssociation.head
+org.argouml.uml.diagram.ui.FigNodeAssociation.createBigPortFig()
+org.argouml.uml.diagram.ui.FigNodeAssociation.initFigs()
+org.argouml.uml.diagram.ui.FigNodeAssociation.FigNodeAssociation(Object, Rectangle, DiagramSettings)
+org.argouml.uml.diagram.ui.FigNodeAssociation.clone()
+org.argouml.uml.diagram.ui.FigNodeAssociation.updateLayout(UmlChangeEvent)
+org.argouml.uml.diagram.ui.FigNodeAssociation.reduceToBinary()
+org.argouml.uml.diagram.ui.FigNodeAssociation.getGravityPoints()
+org.argouml.uml.diagram.ui.FigNodeAssociation.setLineColor(Color)
+org.argouml.uml.diagram.ui.FigNodeAssociation.getLineColor()
+org.argouml.uml.diagram.ui.FigNodeAssociation.setFillColor(Color)
+org.argouml.uml.diagram.ui.FigNodeAssociation.getFillColor()
+org.argouml.uml.diagram.ui.FigNodeAssociation.setFilled(boolean)
+org.argouml.uml.diagram.ui.FigNodeAssociation.isFilled()
+org.argouml.uml.diagram.ui.FigNodeAssociation.setLineWidth(int)
+org.argouml.uml.diagram.ui.FigNodeAssociation.getLineWidth()
+org.argouml.uml.diagram.ui.FigNodeAssociation.setStandardBounds(int, int, int, int)
+org.argouml.uml.diagram.ui.FigNodeAssociation.getMinimumSize()
+org.argouml.uml.diagram.ui.FigNodeAssociation.removeFromDiagramImpl()

@@ -1,0 +1,8 @@
+org.argouml.uml.ui.model_management.ActionAddPackageImport
+org.argouml.uml.ui.model_management.ActionRemovePackageImport
+org.argouml.model.mdr.FacadeMDRImpl
+org.argouml.core.propertypanels.ui.EnumerationListModel
+org.argouml.notation.providers.ObjectNotation	
+org.argouml.model.UmlFactory
+org.argouml.model.ModelManagementFactory
+org.argouml.kernel.ProfileConfiguration

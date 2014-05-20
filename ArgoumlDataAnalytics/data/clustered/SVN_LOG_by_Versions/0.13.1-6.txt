@@ -1,0 +1,418 @@
+45	mkl	lepekhine	linus	jhraigniac	kataka
+46	bobtarling
+47	thn	mkl
+48	thn	bobtarling	linus	jhraigniac	kataka	alexb
+49	mkl	thn	lepekhine	jhraigniac	kataka
+50	mkl	kataka	alexb
+51	mkl	bobtarling	linus	jhraigniac	kataka	alexb
+52	mkl	bobtarling	linus	d00mst	alexb	kataka
+53	thn	lepekhine	linus	kataka	alexb
+54	mkl	linus	d00mst	kataka
+55	bobtarling	d00mst	kataka
+56	d00mst
+57	mkl	thn	bobtarling	linus	jhraigniac	alexb	kataka
+58	kataka
+59	mkl	d00mst
+60	mkl	linus	alexb
+61	thn	jhraigniac	kataka	alexb
+62	linus	jhraigniac	d00mst	kataka	alexb
+63	bobtarling	jhraigniac	kataka	alexb
+64	thn	alexb
+65	mkl	thn	kataka
+66	mkl	bobtarling	linus	kataka
+67	mkl	thn	bobtarling	jhraigniac	kataka
+68	mkl	linus	kataka	alexb
+69	jhraigniac
+70	mkl	bobtarling
+71	d00mst	kataka
+72	mkl	linus
+73	mkl
+74	mkl	kataka
+75	kataka	alexb
+76	bobtarling	linus
+77	mkl	thn	bobtarling	linus	jhraigniac	kataka
+78	lepekhine	alexb	kataka
+79	thn	linus	kataka
+80	mkl	linus	d00mst	alexb	kataka
+81	mkl	bobtarling	linus	jhraigniac	thierrylach	d00mst	kataka
+82	mkl	d00mst	alexb	kataka
+83	linus	kataka
+84	thn	jhraigniac	kataka
+85	mkl	lepekhine
+86	thn	linus	kataka	alexb
+87	thn	mkl	bobtarling	linus	kataka
+88	alexb
+89	mkl	jhraigniac	alexb	kataka
+90	linus	alexb	kataka
+91	linus	d00mst	kataka
+92	jhraigniac	kataka
+93	mkl	linus	jhraigniac	kataka
+94	mkl	linus	d00mst	alexb
+95	mkl	bobtarling	linus	kataka	alexb
+96	bobtarling	kataka	alexb
+97	mkl	jhraigniac	kataka
+98	bobtarling	linus	kataka	alexb
+99	mkl	bobtarling	kataka
+100	mkl	linus	jhraigniac	kataka	alexb
+101	bobtarling	linus	jhraigniac	kataka
+102	bobtarling	kataka
+103	thn	kataka
+104	bobtarling	linus	kataka
+105	linus
+106	mkl	thn	alexb	kataka
+107	mkl	linus	kataka
+108	mkl	bobtarling	kataka	alexb
+org.argouml.uml.ui.ActionImportFromSources	45
+org.argouml.ui.JasonsTheme	46
+org.argouml.uml.diagram.ui.ActionAddAssociationRole	46
+org.argouml.util.ArgoDialog	46
+org.argouml.ui.JasonsBigTheme	46
+org.argouml.ui.JasonsHugeTheme	46
+org.argouml.uml.DocumentationManager	47
+org.argouml.uml.ui.TabSrc	48
+org.argouml.uml.ui.ActionGenerateAll	49
+org.argouml.uml.diagram.ui.FigDependency	50
+org.argouml.uml.diagram.use_case.ui.FigInclude	50
+org.argouml.uml.ui.UMLTreeCellRenderer	50
+org.argouml.uml.diagram.use_case.ui.FigExtend	50
+org.argouml.ui.ProjectBrowser	51
+org.argouml.kernel.ProjectImpl	52
+org.argouml.uml.reveng.Import	53
+org.argouml.uml.reveng.DiagramInterface	53
+org.argouml.cognitive.Agency	54
+org.argouml.cognitive.ui.AddToDoItemDialog	55
+org.argouml.cognitive.UnresolvableException	56
+org.argouml.cognitive.ResolvedCritic	56
+org.argouml.uml.ui.ActionCollaborationDiagram	57
+org.argouml.uml.ui.ActionDeploymentDiagram	57
+org.argouml.ui.NavigatorPane	57
+org.argouml.uml.diagram.deployment.ui.FigComponentInstance	58
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementLeaf	58
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndOrdering	58
+org.argouml.uml.ui.UMLLinkedListCellRenderer	58
+org.argouml.ui.ActionExportXMI	58
+org.argouml.uml.diagram.deployment.ui.FigComponent	58
+org.argouml.uml.ui.foundation.core.ActionSetStructuralFeatureTargetScope	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewTerminateAction	58
+org.argouml.cognitive.ui.ToDoTreeRenderer	58
+org.argouml.uml.cognitive.critics.CrMultiComposite	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCallAction	58
+org.argouml.ui.StylePanelFigText	58
+org.argouml.uml.ui.UMLListCellRenderer2	58
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementAbstract	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewSendAction	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewSynchState	58
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementLeafCheckBox	58
+org.argouml.uml.diagram.state.ui.FigSimpleState	58
+org.argouml.uml.ui.UMLChangeDispatch	58
+org.argouml.uml.diagram.state.ui.FigDeepHistoryState	58
+org.argouml.uml.diagram.ui.FigGeneralization	58
+org.argouml.uml.diagram.state.ui.FigInitialState	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewPseudoState	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewReturnAction	58
+org.argouml.uml.diagram.collaboration.ui.PropPanelUMLCollaborationDiagram	58
+org.argouml.uml.ui.foundation.core.ActionSetFeatureOwnerScope	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewSubmachineState	58
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementAbstractCheckBox	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewCallEvent	58
+org.argouml.application.events.ArgoNotationEvent	58
+org.argouml.uml.ui.foundation.core.UMLAssociationEndNavigableCheckBox	58
+org.argouml.uml.cognitive.critics.CrMissingStateName	58
+org.argouml.ui.targetmanager.TargettableModelView	58
+org.argouml.uml.ui.UMLRadioButtonPanel	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewAction	58
+org.argouml.uml.diagram.state.ui.FigCompositeState	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewUninterpretedAction	58
+org.argouml.uml.diagram.static_structure.ui.StylePanelFigClass	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCreateAction	58
+org.argouml.ui.targetmanager.TargetListener	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewCompositeState	58
+org.argouml.uml.diagram.static_structure.ui.FigEdgeNote	58
+org.argouml.uml.ui.foundation.core.UMLModelElementNameDocument	58
+org.argouml.uml.ui.UMLPlainTextDocument	58
+org.argouml.uml.ui.foundation.core.UMLModelElementVisibilityRadioButtonPanel	58
+org.argouml.uml.ui.UMLTextArea2	58
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementRootCheckBox	58
+org.argouml.uml.ui.UMLEditableComboBox	58
+org.argouml.cognitive.ui.ActionGoToCritique	58
+org.argouml.uml.ui.UMLTextField2	58
+org.argouml.uml.ui.foundation.core.ActionSetModelElementVisibility	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewTransition	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewChangeEvent	58
+org.argouml.uml.ui.behavior.state_machines.PopupMenuNewEvent	58
+org.argouml.uml.diagram.state.ui.FigBranchState	58
+org.argouml.uml.diagram.state.ui.FigHistoryState	58
+org.argouml.ui.targetmanager.TargetEvent	58
+org.argouml.uml.diagram.state.ui.FigShallowHistoryState	58
+org.argouml.uml.diagram.state.ui.FigState	58
+org.argouml.uml.ui.behavior.use_cases.UMLExtensionPointLocationDocument	58
+org.argouml.uml.diagram.state.ui.FigJoinState	58
+org.argouml.uml.diagram.static_structure.ui.FigFeature	58
+org.argouml.uml.diagram.use_case.ui.UseCaseDiagramRenderer	58
+org.argouml.uml.diagram.activity.ui.PropPanelUMLActivityDiagram	58
+org.argouml.uml.ui.AbstractActionRemoveElement	58
+org.argouml.uml.cognitive.critics.CrAlreadyRealizes	58
+org.argouml.configuration.ConfigurationHandler	58
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndNavigable	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewStubState	58
+org.argouml.uml.ui.UMLComboBoxNavigator	58
+org.argouml.uml.ui.UMLUserInterfaceContainer	58
+org.argouml.uml.ui.foundation.core.UMLFeatureOwnerScopeCheckBox	58
+org.argouml.uml.ui.foundation.core.ActionAddAssociationSpecification	58
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementRoot	58
+org.argouml.uml.diagram.activity.ui.FigActionState	58
+org.argouml.uml.diagram.static_structure.ui.PropPanelUMLClassDiagram	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewEvent	58
+org.argouml.uml.diagram.static_structure.ui.FigComment	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewSignalEvent	58
+org.argouml.ui.targetmanager.TargetManager	58
+org.argouml.uml.ui.UMLSearchableComboBox	58
+org.argouml.uml.ui.foundation.core.UMLStructuralFeatureChangeabilityRadioButtonPanel	58
+org.argouml.uml.diagram.use_case.ui.FigActor	58
+org.argouml.uml.diagram.ui.FigMessage	58
+org.argouml.uml.ui.UMLStereotypeList	58
+org.argouml.uml.diagram.state.ui.FigFinalState	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewSimpleState	58
+org.argouml.uml.ui.foundation.core.UMLAssociationEndChangeabilityRadioButtonPanel	58
+org.argouml.uml.diagram.state.ui.FigForkState	58
+org.argouml.uml.cognitive.critics.WizMEName	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewGuard	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewTimeEvent	58
+org.argouml.uml.diagram.deployment.ui.PropPanelUMLDeploymentDiagram	58
+org.argouml.application.helpers.ResourceLoaderWrapper	58
+org.argouml.uml.ui.foundation.core.UMLStructuralFeatureTargetScopeCheckBox	58
+org.argouml.uml.diagram.state.ui.FigStateVertex	58
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndTargetScope	58
+org.argouml.uml.ui.behavior.state_machines.ActionNewFinalState	58
+org.argouml.uml.ui.behavior.common_behavior.ActionNewDestroyAction	58
+org.argouml.uml.diagram.use_case.ui.PropPanelUMLUseCaseDiagram	58
+org.argouml.util.ItemUID	59
+org.argouml.uml.diagram.static_structure.ui.ClassDiagramRenderer	60
+org.argouml.uml.ui.SourcePathDialog	61
+org.argouml.uml.ui.ActionOpenProject	62
+org.argouml.cognitive.ui.TabToDo	63
+org.argouml.uml.ui.TabProps	63
+org.argouml.ocl.OCLUtil	64
+org.argouml.uml.diagram.static_structure.ui.FigInterface	65
+org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel	66
+org.argouml.uml.diagram.collaboration.CollabDiagramGraphModel	66
+org.argouml.uml.diagram.collaboration.ui.UMLCollaborationDiagram	66
+org.argouml.uml.ui.ActionActivityDiagram	67
+org.argouml.uml.ui.ActionSequenceDiagram	67
+org.argouml.uml.ui.ActionStateDiagram	67
+org.argouml.uml.diagram.ui.FigAssociation	68
+org.argouml.uml.diagram.ui.TabDiagram	68
+org.argouml.uml.cognitive.critics.InitCognitiveCritics	68
+org.argouml.kernel.ProjectManager	68
+org.argouml.ui.DisplayTextTree	68
+org.argouml.cognitive.ui.ToDoByDecision	69
+org.argouml.cognitive.ui.ToDoByGoal	69
+org.argouml.cognitive.ui.ToDoByType	69
+org.argouml.cognitive.ui.ToDoByPoster	69
+org.argouml.cognitive.ui.ToDoByOffender	69
+org.argouml.cognitive.ui.ToDoByPriority	69
+org.argouml.ui.LookAndFeelMgr	70
+org.argouml.uml.diagram.UMLMutableGraphSupport	70
+org.argouml.uml.diagram.ArgoDiagramImpl	71
+org.argouml.kernel.ProjectMember	71
+org.argouml.cognitive.DecisionModel	72
+org.argouml.util.osdep.StartBrowser	72
+org.argouml.uml.cognitive.critics.CrUnconventionalAttrName	72
+org.argouml.pattern.cognitive.critics.CrConsiderFacade	72
+org.argouml.uml.cognitive.critics.CrTooManyOper	72
+org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer	72
+org.argouml.ui.AboutBox	73
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramLayouter	73
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramAssociationEdge	73
+org.argouml.cognitive.ui.DesignIssuesDialog	73
+org.argouml.ocl.OCLEvaluator	73
+org.argouml.uml.diagram.layout.LayoutHelper	73
+org.argouml.uml.diagram.ui.FigPermission	73
+org.argouml.application.StartCritics	73
+org.argouml.cognitive.Poster	73
+org.argouml.uml.diagram.static_structure.ui.FigSubsystem	73
+org.argouml.cognitive.ControlMech	73
+org.argouml.util.FileConstants	73
+org.argouml.ui.cmd.CmdSetPreferredSize	73
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramNode	73
+org.argouml.uml.cognitive.critics.CrIllegalName	73
+org.argouml.uml.cognitive.critics.CrIllegalGeneralization	73
+org.argouml.uml.cognitive.critics.CrMergeClasses	73
+org.argouml.uml.diagram.collaboration.ui.SelectionClassifierRole	73
+org.argouml.uml.GenDescendantClasses	73
+org.argouml.util.Tools	73
+org.argouml.uml.cognitive.critics.CrNoInitialState	73
+org.argouml.uml.cognitive.critics.CrUnconventionalPackName	73
+org.argouml.uml.diagram.static_structure.ui.FigModel	73
+org.argouml.uml.ui.ActionRemoveModelElement	74
+org.argouml.uml.diagram.collaboration.ui.FigClassifierRole	74
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole	74
+org.argouml.uml.ui.foundation.core.ActionSetElementOwnershipSpecification	74
+org.argouml.uml.diagram.deployment.ui.FigObject	74
+org.argouml.uml.diagram.ui.FigUsage	74
+org.argouml.uml.diagram.static_structure.ui.FigPackage	74
+org.argouml.uml.ui.behavior.use_cases.ActionAddExtendExtensionPoint	74
+org.argouml.ui.CmdCreateNode	74
+org.argouml.uml.ui.behavior.use_cases.ActionNewExtendExtensionPoint	74
+org.argouml.application.events.ArgoEventPump	74
+org.argouml.uml.cognitive.critics.CrNameConflict	74
+org.argouml.uml.diagram.state.ui.FigTransition	74
+org.argouml.uml.diagram.ui.ActionAddExistingEdge	74
+org.argouml.uml.ui.foundation.core.ActionNewModelElementConstraint	74
+org.argouml.uml.ui.behavior.collaborations.ActionAddMessagePredecessor	74
+org.argouml.uml.diagram.ui.ActionAddExistingNode	74
+org.argouml.uml.ui.behavior.use_cases.ActionNewUseCaseExtensionPoint	74
+org.argouml.uml.diagram.use_case.ui.FigUseCase	74
+org.argouml.ui.TabResults	74
+org.argouml.cognitive.checklist.ui.TabChecklist	75
+org.argouml.uml.diagram.ui.CompartmentFigText	75
+org.argouml.ui.TreeModelSupport	75
+org.argouml.ui.StylePanel	75
+org.argouml.uml.ui.ActionAddDiagram	75
+org.argouml.uml.ui.ActionAddPackage	75
+org.argouml.ui.TabToDoTarget	75
+org.argouml.uml.ui.UMLComboBox2	75
+org.argouml.uml.ui.UMLAddDialog	75
+org.argouml.ui.TabTarget	75
+org.argouml.ui.PerspectiveSupport	75
+org.argouml.cognitive.ToDoItem	76
+org.argouml.uml.ui.ActionClassDiagram	77
+org.argouml.uml.ui.ActionUseCaseDiagram	77
+org.argouml.uml.ui.UMLComboBoxModel2	78
+org.argouml.uml.generator.ui.ClassGenerationDialog	79
+org.argouml.cognitive.Designer	80
+org.argouml.uml.diagram.ui.FigNodeModelElement	80
+org.argouml.application.Main	81
+org.argouml.uml.diagram.ui.FigEdgeModelElement	82
+org.argouml.uml.diagram.static_structure.ui.FigLink	83
+org.argouml.uml.cognitive.critics.CrOppEndConflict	83
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedOnlyPrivateConstructors	83
+org.argouml.uml.ProjectMemberModel	83
+org.argouml.uml.diagram.deployment.ui.SelectionNode	83
+org.argouml.configuration.ConfigurationFactory	83
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedMissingStaticAttr	83
+org.argouml.uml.cognitive.critics.CrReservedName	83
+org.argouml.uml.ui.UMLCheckBox2	83
+org.argouml.ui.StylePanelFig	83
+org.argouml.configuration.ConfigurationProperties	83
+org.argouml.cognitive.GoalModel	83
+org.argouml.uml.diagram.use_case.ui.SelectionActor	83
+org.argouml.uml.cognitive.critics.CrOperNameConflict	83
+org.argouml.uml.cognitive.critics.CrConstructorNeeded	83
+org.argouml.uml.diagram.ui.PropPanelDiagram	83
+org.argouml.uml.ui.UMLModelElementListModel2	83
+org.argouml.uml.cognitive.critics.CrAttrNameConflict	83
+org.argouml.uml.diagram.state.ui.ActionCreatePseudostate	83
+org.argouml.uml.cognitive.critics.CrCrossNamespaceAssoc	83
+org.argouml.uml.ui.UMLModelElementTaggedValueDocument	83
+org.argouml.uml.diagram.state.ui.StateDiagramRenderer	83
+org.argouml.uml.cognitive.critics.CrOppEndVsAttr	83
+org.argouml.uml.diagram.deployment.ui.SelectionNodeInstance	83
+org.argouml.uml.diagram.activity.ui.SelectionActionState	83
+org.argouml.uml.diagram.deployment.ui.SelectionObject	83
+org.argouml.uml.diagram.static_structure.ui.SelectionInterface	83
+org.argouml.uml.diagram.use_case.ui.SelectionUseCase	83
+org.argouml.uml.cognitive.critics.CrCircularInheritance	83
+org.argouml.cognitive.checklist.Checklist	83
+org.argouml.ui.SplashPanel	83
+org.argouml.uml.diagram.ProjectMemberDiagram	83
+org.argouml.configuration.Configuration	83
+org.argouml.uml.diagram.state.ui.SelectionState	83
+org.argouml.uml.ui.ActionGenerationSettings	84
+org.argouml.uml.ui.ActionSetSourcePath	84
+org.argouml.uml.ui.ActionGenerateProjectCode	84
+org.argouml.util.FileFilters	85
+org.argouml.ocl.ArgoFacade	86
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram	87
+org.argouml.uml.ui.UMLExpressionLanguageField	88
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramInheritanceEdge	88
+org.argouml.uml.ui.UMLStimulusActionTextProperty	88
+org.argouml.uml.ui.UMLStimulusActionTextField	88
+org.argouml.uml.ui.UMLExpressionBodyField	88
+org.argouml.cognitive.ui.ToDoPerspective	88
+org.argouml.ui.TabFigTarget	88
+org.argouml.ui.TabModelTarget	88
+org.argouml.uml.diagram.ui.SelectionRerouteEdge	88
+org.argouml.uml.ui.TabTaggedValues	89
+org.argouml.uml.ui.TabStyle	89
+org.argouml.ui.TreeModelComposite	90
+org.argouml.ui.MultiEditorPane	90
+org.argouml.cognitive.ui.WizStep	90
+org.argouml.uml.diagram.ui.PropPanelString	90
+org.argouml.cognitive.ui.DismissToDoItemDialog	91
+org.argouml.ui.ActionSettings	92
+org.argouml.uml.ui.ActionLayout	92
+org.argouml.uml.ui.ActionSaveProject	92
+org.argouml.i18n.Translator	92
+org.argouml.uml.ui.AbstractActionNewModelElement	92
+org.argouml.uml.ui.ActionSaveGraphics	93
+org.argouml.cognitive.ToDoList	94
+org.argouml.uml.diagram.static_structure.ClassDiagramGraphModel	95
+org.argouml.uml.diagram.state.StateDiagramGraphModel	95
+org.argouml.ui.TabText	96
+org.argouml.uml.ui.TabConstraints	96
+org.argouml.uml.ui.ActionPaste	97
+org.argouml.uml.ui.ActionCopy	97
+org.argouml.uml.ui.ActionSaveProjectAs	97
+org.argouml.uml.ui.ActionAddTopLevelPackage	97
+org.argouml.uml.ui.ActionGenerateOne	97
+org.argouml.uml.ui.ActionCut	97
+org.argouml.uml.diagram.state.ui.UMLStateDiagram	98
+org.argouml.uml.ui.TabDocumentation	98
+org.argouml.uml.diagram.ui.UMLDiagram	98
+org.argouml.cognitive.ui.ToDoPane	98
+org.argouml.uml.diagram.use_case.UseCaseDiagramGraphModel	99
+org.argouml.ui.DetailsPane	100
+org.argouml.application.api.Argo	101
+org.argouml.cognitive.ui.WizDescription	102
+org.argouml.uml.ui.foundation.core.UMLAssociationEndTargetScopeCheckbox	102
+org.argouml.uml.ui.foundation.core.UMLAssociationEndOrderingCheckBox	102
+org.argouml.uml.generator.AbstractSection	103
+org.argouml.uml.diagram.deployment.ui.FigMNode	103
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance	103
+org.argouml.uml.diagram.activity.ui.UMLActivityDiagram	104
+org.argouml.uml.diagram.deployment.ui.UMLDeploymentDiagram	104
+org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram	104
+org.argouml.uml.cognitive.critics.CrNavFromInterface	105
+org.argouml.uml.cognitive.critics.WizOperName	105
+org.argouml.cognitive.Goal	105
+org.argouml.uml.cognitive.critics.CrTooManyAttr	105
+org.argouml.uml.cognitive.critics.CrDisambigStateName	105
+org.argouml.uml.cognitive.critics.CrTooManyClasses	105
+org.argouml.cognitive.critics.SnoozeOrder	105
+org.argouml.uml.cognitive.critics.CrTooManyAssoc	105
+org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer	105
+org.argouml.uml.cognitive.critics.CrCircularAssocClass	105
+org.argouml.uml.cognitive.critics.CrNonAggDataType	105
+org.argouml.ui.SettingsTabUser	105
+org.argouml.uml.cognitive.critics.CrDupRoleNames	105
+org.argouml.uml.cognitive.critics.CrUselessInterface	105
+org.argouml.uml.cognitive.critics.CrSubclassReference	105
+org.argouml.uml.cognitive.critics.CrAssocNameConflict	105
+org.argouml.uml.cognitive.critics.CrFinalSubclassed	105
+org.argouml.uml.cognitive.critics.CrUselessAbstract	105
+org.argouml.ui.SettingsTabPreferences	105
+org.argouml.cognitive.CompoundCritic	105
+org.argouml.ui.SettingsTabEnvironment	105
+org.argouml.uml.cognitive.critics.WizNavigable	105
+org.argouml.uml.cognitive.critics.CrDupParamName	105
+org.argouml.cognitive.ui.WizStepTextField	105
+org.argouml.uml.cognitive.critics.CrNameConflictAC	105
+org.argouml.uml.diagram.static_structure.ui.FigClass	106
+org.argouml.uml.cognitive.critics.CrEmptyPackage	107
+org.argouml.pattern.cognitive.critics.CrConsiderSingleton	107
+org.argouml.ui.FindDialog	107
+org.argouml.cognitive.critics.ui.CriticBrowserDialog	107
+org.argouml.uml.cognitive.critics.CrNoAssociations	107
+org.argouml.uml.TMResults	107
+org.argouml.uml.diagram.static_structure.ui.SelectionClass	107
+org.argouml.uml.cognitive.critics.CrNoOperations	107
+org.argouml.uml.cognitive.critics.ChildGenUML	107
+org.argouml.uml.cognitive.critics.CrClassMustBeAbstract	107
+org.argouml.uml.cognitive.critics.CrUML	107
+org.argouml.uml.cognitive.critics.CrUtilityViolated	107
+org.argouml.uml.cognitive.critics.CrNoInstanceVariables	107
+org.argouml.uml.diagram.deployment.ui.SelectionComponent	107
+org.argouml.uml.diagram.deployment.ui.SelectionComponentInstance	107
+org.argouml.cognitive.Critic	107
+org.argouml.uml.ui.PropPanel	108

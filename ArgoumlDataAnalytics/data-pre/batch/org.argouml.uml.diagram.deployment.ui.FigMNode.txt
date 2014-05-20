@@ -1,0 +1,4 @@
+org.argouml.uml.diagram.deployment.ui.FigMNode
+org.argouml.uml.diagram.deployment.ui.FigMNode.FigMNode(Object, Rectangle, DiagramSettings)
+org.argouml.uml.diagram.deployment.ui.FigMNode.textEditStarted(FigText)
+org.argouml.uml.diagram.deployment.ui.FigMNode.getPopUpActions(MouseEvent)

@@ -1,0 +1,17 @@
+org.argouml.ui.explorer.rules.GoTransitiontoEffect	-1
+org.argouml.uml.cognitive.critics.CrNoTriggerOrGuard	-1
+org.argouml.ui.explorer.rules.GoTransitionToGuard	-1
+org.argouml.core.propertypanels.ui.UMLGuardTransitionListModel	-1
+org.argouml.notation.providers.uml.TransitionNotationUml	-1
+org.argouml.uml.diagram.state.ui.ButtonActionNewEffect	-1
+org.argouml.uml.cognitive.critics.CrInvalidForkTriggerOrGuard	-1
+org.argouml.uml.cognitive.critics.CrInvalidJoinTriggerOrGuard	-1
+org.argouml.core.propertypanels.ui.UMLTransitionTriggerComboBoxModel	-1
+org.argouml.uml.ui.behavior.activity_graphs.ActionAddEventAsTrigger	-1
+org.argouml.uml.cognitive.critics.CrUnconventionalAttrName	-1
+org.argouml.ui.explorer.rules.GoTransitionToSource	-1
+org.argouml.core.propertypanels.ui.UMLTransitionStatemachineListModel	-1
+org.argouml.uml.diagram.ui.FigNodeModelElement	-1
+org.argouml.uml.diagram.state.ui.ButtonActionNewEvent	-1
+org.argouml.uml.cognitive.critics.CrJoinIncomingTransition	-1
+org.argouml.uml.ui.behavior.state_machines.ActionAddEventAsDeferrableEvent	-1

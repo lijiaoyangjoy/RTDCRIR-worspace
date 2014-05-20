@@ -1,0 +1,8 @@
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.serialVersionUID
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.LOG
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.DISTANCE
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.getMetaType()
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.endAttached(FigEdge)
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.buildInActiveLayer(Editor, Object)
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass.buildParts(Editor, FigAssociationClass, Layer)

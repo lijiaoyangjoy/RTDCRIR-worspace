@@ -1,0 +1,7 @@
+R1308	hide or show toolbars
+R1802	show association name on a link in the diagram
+R1942	enhance argouml by support for model. sub system. element import
+R3197	implement call state
+R4010	add buttons for trigger. guard and effect on the properties panel of a transition
+R4969	hide association names in diagramm when there are many associations. the diagram is unreadable
+R5014	better indication of default settings vs. project specific settings

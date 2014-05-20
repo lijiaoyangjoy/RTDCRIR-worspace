@@ -1,0 +1,17 @@
+org.argouml.ui.explorer.ActionExportProfileXMI	-1
+org.argouml.ui.ActionImportXMI	-1
+org.argouml.persistence.XmiFilePersister	-1
+org.argouml.model.XmiWriter	-1
+org.argouml.persistence.XmiFormatException	-1
+org.argouml.model.mdr.XmiReference	-1
+org.argouml.ui.explorer.rules.GoModelToDiagrams	-1
+org.argouml.persistence.XmiExtensionParser	-1
+org.argouml.ui.ActionExportXMI	-1
+org.argouml.model.XmiExtensionWriter	-1
+org.argouml.ui.explorer.rules.GoProfileToModel	-1
+org.argouml.ui.ProjectBrowser	-1
+org.argouml.persistence.ZargoFilePersister	-1
+org.argouml.persistence.ModelMemberFilePersister	-1
+org.argouml.model.mdr.XmiReferenceResolverImpl	-1
+org.argouml.ui.explorer.rules.GoSummaryToInheritance	-1
+org.argouml.persistence.XmiInputStream	-1

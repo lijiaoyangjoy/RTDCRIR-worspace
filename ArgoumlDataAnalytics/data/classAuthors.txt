@@ -1,0 +1,1630 @@
+org.argouml.ui.AboutBox:	eugenio.alvarez	linus	thierrylach	mkl	alexb	bobtarling	jhraigniac	mvw	tfmorris	dthompson	thn
+org.argouml.persistence.AbstractFilePersister:	bobtarling	linus	mvw	thn	tfmorris
+org.argouml.uml.cognitive.critics.CrMultipleShallowHistoryStates:	mvw	bobtarling	mkl	tfmorris	maurelio1234
+org.argouml.persistence.XmiInputStream:	bobtarling	linus	thn	tfmorris
+org.argouml.persistence.VersionException:	bobtarling	tfmorris
+org.argouml.model.MetaTypes:	linus	bobtarling	mvw	tfmorris	thn
+org.argouml.ui.explorer.rules.GoProjectToStateMachine:	alexb	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.uml.diagram.static_structure.ui.FigAttribute:	mvw	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLComboBox:	penyaskito	bobtarling	linus
+org.argouml.ui.ProjectSettingsDialog:	mvw	maurelio1234
+org.argouml.ui.explorer.ExplorerTreeModel:	alexb	d00mst	linus	mvw	bobtarling	mkl	tfmorris
+org.argouml.profile.internal.ocl.uml14.OclType:	maurelio1234	tfmorris	linus
+org.argouml.application.events.ArgoStatusEvent:	tfmorris	linus
+org.argouml.uml.GenAncestorClasses:	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.uml.diagram.activity.ui.UMLActivityDiagram:	mkl	kataka	linus	bobtarling	alexb	thierrylach	jjones	jhraigniac	mvw	tfmorris	euluis	bszanto
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementAbstract:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.uml.ui.foundation.core.UMLParameterDirectionKindRadioButtonPanel:	mkl	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLInstanceLinkEndListModel:	bobtarling	linus
+org.argouml.uml.PredicateNotInTrash:	mkl	tfmorris
+org.argouml.ui.explorer.PerspectiveComboBox:	alexb	linus	mvw
+org.argouml.state2.diagram.UMLStateDiagram:	bobtarling
+org.argouml.model.mdr.UmlHelperMDRImpl:	tfmorris	linus	bobtarling
+org.argouml.uml.cognitive.critics.CrCircularAssocClass:	linus	alexb	mvw	mkl	maurelio1234
+org.argouml.uml.ui.foundation.extension_mechanisms.ActionNewStereotype:	mvw	bobtarling	linus	thn
+org.argouml.configuration.IConfigurationFactory:	tfmorris	mvw
+org.argouml.uml.cognitive.critics.CrMergeClasses:	mkl	linus	alexb	bobtarling	mvw	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLStimulusSenderListModel:	bobtarling	linus
+org.argouml.notation.providers.java.InitNotationJava:	mvw	thn	tfmorris
+org.argouml.uml.cognitive.critics.CrCompInstanceWithoutNode:	linus	alexb	mkl	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionNewUninterpretedAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.sequence2.SequenceDiagramModule:	penyaskito	bobtarling	tfmorris	mvw	thn	linus
+org.argouml.sequence2.diagram.SequenceDiagramFactory:	penyaskito	bobtarling	linus
+org.argouml.model.Model:	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.ArgoDiagram:	tfmorris	mvw	bobtarling	linus
+org.argouml.uml.ui.UMLModelElementTaggedValueDocument:	linus	kataka	bobtarling	alexb	d00mst	tfmorris	mvw
+org.argouml.uml.ui.ActionDeleteModelElements:	bobtarling	tfmorris	mvw
+org.argouml.core.propertypanels.ui.UMLActivityGraphPartitionListModel:	penyaskito	bobtarling	linus
+org.argouml.ui.explorer.rules.GoTransitionToTarget:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.uml.ui.UMLEditableComboBox:	kataka	linus	mkl	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.foundation.core.UMLAssociationEndOrderingCheckBox:	kataka	bobtarling	linus	alexb	jhraigniac	mvw
+org.argouml.ui.explorer.ExplorerPopup:	alexb	linus	jhraigniac	bobtarling	mvw	thn	rastaman	mkl	tfmorris	euluis	maurelio1234	lepekhine
+org.argouml.notation.ui.InitNotationUI:	mvw	tfmorris	linus
+org.argouml.uml.diagram.ui.ActionStereotypeView:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.activity.ui.FigPool:	bobtarling	tfmorris	mvw	linus
+org.argouml.notation.providers.uml.ExtensionPointNotationUml:	mvw	tfmorris
+org.argouml.uml.diagram.ui.ActionAddAllClassesFromModel:	linus	mvw	bobtarling
+org.argouml.core.propertypanels.ui.UMLCommentBodyDocument:	penyaskito	bobtarling	linus
+org.argouml.gefext.ArgoModeCreateFigSpline:	mvw	linus
+org.argouml.uml.ui.ActionAddTopLevelPackage:	thierrylach	kataka	mkl	jhraigniac	linus	bobtarling	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoEnumerationToLiterals:	rastaman	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLDiscriminatorNameDocument:	bobtarling	linus
+org.argouml.uml.ui.ActionSaveProject:	linus	thierrylach	jhraigniac	d00mst	kataka	jjones	bobtarling	mvw	tfmorris
+org.argouml.model.euml.ChangeCommand:	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLPartitionContentListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.ui.UMLModelElementCommentDocument:	tfmorris	mvw
+org.argouml.uml.ui.UMLExpressionModel2:	mkl	linus	bobtarling	tfmorris	mvw
+org.argouml.model.euml.CommonBehaviorHelperEUMLImpl:	tfmorris	linus
+org.argouml.kernel.Owned:	bobtarling
+org.argouml.core.propertypanels.ui.UMLLinkConnectionListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLCommentAnnotatedElementListModel:	bobtarling	linus
+org.argouml.uml.ui.behavior.state_machines.ActionNewEvent:	kataka	linus	mvw	rastaman
+org.argouml.ui.cmd.NavigateTargetForwardAction:	mvw	tfmorris
+org.argouml.uml.ui.behavior.collaborations.ActionAddMessagePredecessor:	kataka	mkl	linus	bobtarling	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.ui.ActionAddExistingNode:	jhraigniac	kataka	mkl	linus	mvw	bobtarling	tfmorris	euluis
+org.argouml.ui.HeapMonitor:	tfmorris	linus
+org.argouml.activity2.diagram.NameDisplayer:	bobtarling
+org.argouml.uml.ui.behavior.state_machines.ActionNewSignalEvent:	kataka	mkl	linus	jhraigniac	mvw	bobtarling
+org.argouml.uml.diagram.SequenceDiagram:	tfmorris	linus
+org.argouml.cognitive.critics.Wizard:	mkl	mvw	tfmorris
+org.argouml.notation.providers.NotationUtilityProviders:	mvw
+org.argouml.uml.ui.PropPanel:	jeremybennett	kataka	bobtarling	linus	mkl	alexb	d00mst	jhraigniac	thn	mvw	tfmorris	euluis	penyaskito
+org.argouml.uml.util.namespace.StringNamespace:	mkl	linus	tfmorris
+org.argouml.model.Facade:	linus	mvw	bobtarling	mkl	rastaman	tfmorris	thn
+org.argouml.model.mdr.UndoStateMachinesHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.model.OrderingKind:	linus
+org.argouml.uml.ui.foundation.core.UMLAssociationEndChangeabilityRadioButtonPanel:	kataka	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.swingext.LeftArrowIcon:	mvw	linus
+org.argouml.uml.diagram.state.ui.UMLStateDiagram:	kataka	mkl	linus	bobtarling	alexb	thierrylach	jjones	jhraigniac	mvw	tfmorris	euluis	bszanto
+org.argouml.notation.providers.uml.TransitionNotationUml:	mvw	tfmorris
+org.argouml.model.UmlChangeEvent:	bobtarling	tfmorris
+org.argouml.model.AbstractUseCasesHelperDecorator:	linus	tfmorris	mvw	bobtarling
+org.argouml.uml.diagram.static_structure.ui.SelectionInterface:	thierrylach	kataka	linus	alexb	mvw	bobtarling	mkl	tfmorris
+org.argouml.notation.providers.uml.OperationNotationUml:	mvw	tfmorris	penyaskito
+org.argouml.activity2.diagram.FigBaseEdge:	bobtarling
+org.argouml.ui.explorer.rules.GoDiagramToNode:	alexb	kataka	bobtarling	d00mst	mvw	tfmorris
+org.argouml.ui.MenuBarFactory:	bobtarling	linus
+org.argouml.uml.ui.UMLDeprecatedCheckBox:	mkl	linus	tfmorris
+org.argouml.uml.diagram.GraphChangeAdapter:	bobtarling	mvw
+org.argouml.cognitive.ToDoList:	linus	kataka	d00mst	alexb	mkl	thierrylach	mvw	bobtarling	andrea_nironi	tfmorris
+org.argouml.uml.diagram.state.ui.ButtonActionNewTimeEvent:	mvw
+org.argouml.uml.cognitive.critics.CrMultiComposite:	kataka	linus	mkl	mvw	maurelio1234
+org.argouml.uml.diagram.state.ui.PropPanelUMLStateDiagram:	alexb	jhraigniac	linus	mvw	tfmorris
+org.argouml.cognitive.ResolvedCritic:	d00mst	linus	thierrylach	mvw	bobtarling	thn	tfmorris
+org.argouml.uml.reveng.ImporterManager:	tfmorris	thn	linus
+org.argouml.core.propertypanels.ui.UMLGuardTransitionListModel:	bobtarling	linus
+org.argouml.application.api.InitSubsystem:	mvw	tfmorris	linus
+org.argouml.uml.diagram.state.ui.FigInitialState:	kataka	mkl	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.uml.ui.UMLAddDialog:	kataka	bobtarling	alexb	linus	jhraigniac	mkl	mvw	tfmorris	penyaskito
+org.argouml.core.propertypanels.ui.UMLStimulusReceiverListModel:	bobtarling	linus
+org.argouml.uml.diagram.static_structure.ui.FigLink:	kataka	linus	bobtarling	mvw	tfmorris	dthompson
+org.argouml.model.CommonBehaviorHelper:	linus	mkl	mvw	tfmorris
+org.argouml.uml.ui.ActionAddPackage:	alexb	kataka	linus	bobtarling	d00mst	mvw
+org.argouml.core.propertypanels.ui.UMLParameterBehavioralFeatListModel:	bobtarling	linus
+org.argouml.profile.internal.ocl.CrOCL:	maurelio1234	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLExpressionLanguageField:	penyaskito	mvw	linus	thn
+org.argouml.uml.diagram.deployment.ui.CubePortFigRect:	mvw
+org.argouml.application.api.GUISettingsTabInterface:	linus	mvw
+org.argouml.cognitive.CompoundCritic:	linus	alexb	mvw	bobtarling	tfmorris	maurelio1234
+org.argouml.model.euml.ConcurrencyKindEUMLImpl:	tfmorris	linus
+org.argouml.uml.diagram.ui.FigClassAssociationClass:	bobtarling	mvw	tfmorris
+org.argouml.ui.Clarifier:	linus	alexb	mvw
+org.argouml.cognitive.ui.ToDoPerspective:	linus	alexb	thierrylach	tfmorris	bobtarling
+org.argouml.language.ui.LanguageComboBox:	mvw
+org.argouml.core.propertypanels.ui.UMLModelElementNamespaceComboBoxModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLSubmachineStateComboBoxModel:	bobtarling	linus
+org.argouml.uml.ui.ActionAddDiagram:	kataka	alexb	linus	bobtarling	thierrylach	mvw	tfmorris	thn
+org.argouml.profile.internal.ocl.ComputeTriggers:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.deployment.ui.InitDeploymentDiagram:	mvw	linus
+org.argouml.model.mdr.UmlFactoryMDRImpl:	tfmorris	mvw	bobtarling	lepekhine	euluis
+org.argouml.gefext.ArgoModeCreateFigRRect:	mvw	linus
+org.argouml.ui.explorer.rules.GoClassifierToStateMachine:	alexb	kataka	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.uml.diagram.ui.ModeLabelDrag:	dthompson	linus
+org.argouml.sequence2.SequenceDiagramPropPanelFactory:	bobtarling	mvw	linus
+org.argouml.uml.ui.TabTaggedValues:	linus	thierrylach	kataka	d00mst	alexb	jhraigniac	mkl	bobtarling	mvw	rastaman	tfmorris	lepekhine	thn
+org.argouml.uml.diagram.activity.layout.ActivityDiagramLayouter:	tfmorris	mvw
+org.argouml.uml.diagram.state.ui.FigHistoryState:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.core.propertypanels.ui.UMLCollaborationRepresentedOperationComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.application.api.AbstractArgoJPanel:	mvw	linus	tfmorris	bobtarling
+org.argouml.ui.NavigatorPane:	bobtarling	jhraigniac	kataka	thierrylach	thn	alexb	mkl	linus	d00mst	jjones	mvw	tfmorris
+org.argouml.model.XmiReader:	bobtarling	rastaman	tfmorris	linus
+org.argouml.uml.ui.UMLDerivedCheckBox:	tfmorris	linus
+org.argouml.uml.diagram.static_structure.ui.FigFeature:	kataka	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrAlreadyRealizes:	mkl	kataka	linus	mvw	tfmorris	maurelio1234
+org.argouml.uml.ui.ActionGenerationSettings:	thn	jhraigniac	kataka	linus	mvw	tfmorris	bobtarling
+org.argouml.notation.providers.uml.InitNotationUml:	mvw	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLGeneralizationChildListModel:	bobtarling	linus
+org.argouml.model.euml.DataTypesHelperEUMLImpl:	tfmorris	linus	thn	bobtarling
+org.argouml.model.euml.XmiWriterEUMLImpl:	tfmorris	linus
+org.argouml.uml.diagram.state.ui.StateDiagramRenderer:	kataka	linus	bobtarling	thierrylach	alexb	mvw	mkl	tfmorris	euluis
+org.argouml.model.euml.CopyHelperEUMLImpl:	tfmorris	linus
+org.argouml.kernel.MemberList:	bobtarling	linus	tfmorris	mvw	euluis
+org.argouml.ui.cmd.ShortcutChangedListener:	andrea_nironi	linus
+org.argouml.model.Factory:	tfmorris
+org.argouml.model.AbstractDataTypesHelperDecorator:	linus	tfmorris	bobtarling
+org.argouml.profile.internal.ocl.CompositeModelInterpreter:	maurelio1234	tfmorris	linus
+org.argouml.ui.SplashPanel:	thierrylach	kataka	linus	mvw
+org.argouml.activity2.ActivityDiagramModule:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrCircularComposition:	kataka	linus	bobtarling	alexb	thierrylach	mkl	d00mst	mvw	tfmorris	maurelio1234
+org.argouml.uml.diagram.activity.ui.FigCallState:	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionNewException:	tfmorris	linus
+org.argouml.uml.cognitive.critics.CrNoOperations:	linus	kataka	mkl	alexb	bobtarling	mvw	d00mst	tfmorris	maurelio1234
+org.argouml.uml.cognitive.critics.CrJoinIncomingTransition:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.ui.explorer.NameOrder:	alexb	jhraigniac	d00mst	linus	bobtarling	tfmorris	mvw	euluis
+org.argouml.ui.JasonsTheme:	bobtarling	linus	alexb
+org.argouml.kernel.Command:	bobtarling	tfmorris	linus
+org.argouml.notation.providers.AssociationNameNotation:	mvw	linus
+org.argouml.model.UmlHelper:	linus	bobtarling	tfmorris
+org.argouml.model.ModelManagementFactory:	linus	bobtarling	tfmorris	mvw	thn
+org.argouml.uml.diagram.ui.StereotypeStyled:	tfmorris	linus
+org.argouml.notation.providers.uml.NodeInstanceNotationUml:	mvw	penyaskito	tfmorris
+org.argouml.core.propertypanels.ui.UMLClassifierParameterListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UmlControl:	bobtarling	tfmorris
+org.argouml.uml.diagram.state.ui.FigForkState:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.profile.ZipModelLoader:	maurelio1234	tfmorris	euluis	bobtarling	linus
+org.argouml.uml.diagram.DiagramFactory:	bobtarling	mvw	tfmorris	penyaskito
+org.argouml.sequence2.diagram.ActionAddClassifierRole:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.ui.FigProfileIcon:	maurelio1234	tfmorris	mvw	euluis	linus
+org.argouml.uml.diagram.ui.ModeCreateGraphEdge:	bobtarling	tfmorris	linus
+org.argouml.core.propertypanels.model.CheckBoxData:	bobtarling
+org.argouml.uml.ui.ActionPaste:	mkl	jhraigniac	kataka	jjones	linus	mvw
+org.argouml.uml.cognitive.critics.CrNoInitialState:	mkl	linus	bobtarling	alexb	mvw	maurelio1234
+org.argouml.profile.internal.ProfileUML:	maurelio1234	tfmorris	euluis	thn	mvw	linus
+org.argouml.cognitive.ui.ToDoByPriority:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	tfmorris	bobtarling
+org.argouml.core.propertypanels.ui.UMLUseCaseExtendListModel:	bobtarling	linus
+org.argouml.uml.ui.foundation.core.ActionAddAttribute:	bobtarling	mvw	tfmorris
+org.argouml.ui.ContextActionFactoryManager:	bobtarling	linus
+org.argouml.core.propertypanels.module.XmlPropertyPanelsModule:	penyaskito	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrInvalidFork:	mkl	linus	alexb	mvw	tfmorris	maurelio1234
+org.argouml.uml.cognitive.UMLDecision:	mkl
+org.argouml.notation.providers.java.ModelElementNameNotationJava:	mvw	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionNewTerminateAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.notation.providers.uml.AttributeNotationUml:	mvw	tfmorris	bobtarling	penyaskito	linus	thn
+org.argouml.cognitive.Highlightable:	bobtarling	tfmorris
+org.argouml.model.mdr.StateMachinesHelperMDRImpl:	tfmorris	mvw
+org.argouml.core.propertypanels.ui.LabelledComponent:	bobtarling	linus
+org.argouml.application.SubsystemUtility:	mvw	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLValueSpecificationPanel:	thn
+org.argouml.configuration.ConfigurationProperties:	linus	kataka	thierrylach	jhraigniac	jjones	mvw	rastaman	tfmorris	penyaskito
+org.argouml.uml.cognitive.critics.CrNoAssociations:	linus	kataka	mkl	alexb	bobtarling	thierrylach	mvw	tfmorris	maurelio1234
+org.argouml.ui.StylePanelFigText:	kataka	linus	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetElementOwnershipSpecification:	kataka	mkl	linus	bobtarling	mvw
+org.argouml.uml.ui.AbstractActionNavigate:	mkl	linus	mvw	bobtarling
+org.argouml.core.propertypanels.model.Named:	bobtarling
+org.argouml.uml.diagram.ui.FigMultiLineText:	bobtarling	linus	tfmorris	mvw
+org.argouml.notation.providers.uml.EnumerationLiteralNotationUml:	mvw	tfmorris	linus
+org.argouml.profile.Profile:	maurelio1234	tfmorris	euluis	bobtarling	linus
+org.argouml.uml.diagram.static_structure.ui.SelectionSignal:	tfmorris	linus
+org.argouml.kernel.DelayedChangeNotify:	linus	alexb	mkl
+org.argouml.uml.diagram.ui.FigNameWithAbstract:	mvw	tfmorris	linus
+org.argouml.uml.diagram.ui.SPFigEdgeModelElement:	kataka	jjones	linus	thierrylach	bobtarling	mkl	mvw
+org.argouml.ui.explorer.rules.GoStateMachineToTransition:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.model.euml.UseCasesHelperEUMLImpl:	tfmorris	linus
+org.argouml.profile.internal.ocl.EvaluateExpression:	maurelio1234	tfmorris	bobtarling	euluis	linus
+org.argouml.uml.util.SortedListModel:	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLExtendExtensionListModel:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoOperationToCollaborationDiagram:	alexb	jhraigniac	d00mst	mvw	linus	mkl	tfmorris
+org.argouml.uml.diagram.activity.ui.ModePlacePartition:	bobtarling	mvw	linus
+org.argouml.model.DirectionKind:	linus
+org.argouml.persistence.PersistenceException:	bobtarling	tfmorris
+org.argouml.uml.ui.SaveGraphicsManager:	mvw	linus	tfmorris	bobtarling
+org.argouml.ui.LookAndFeelMgr:	bobtarling	mkl	linus	thierrylach	jjones	mvw
+org.argouml.model.mdr.UndoExtensionMechanismsHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLModelElementSourceFlowListModel:	bobtarling	linus
+org.argouml.gefext.ArgoFigRRect:	mvw	linus
+org.argouml.ui.TabToDoTarget:	kataka	alexb	linus	mvw	tfmorris
+org.argouml.application.events.ArgoHelpEventListener:	mvw	linus
+org.argouml.uml.diagram.deployment.ui.DeploymentDiagramRenderer:	kataka	linus	bobtarling	thierrylach	alexb	mvw	tfmorris	euluis
+org.argouml.uml.diagram.PathContainer:	mvw
+org.argouml.cognitive.ui.GoListToPriorityToItem:	linus	alexb	mvw	mkl	tfmorris	penyaskito
+org.argouml.cognitive.checklist.CheckItem:	linus	alexb	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLStateMachineContextComboBoxModel:	bobtarling	linus
+org.argouml.model.AbstractCoreHelperDecorator:	linus	mvw	bobtarling	rastaman	tfmorris	thn
+org.argouml.uml.ui.SourcePathController:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrUnnavigableAssoc:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.uml.diagram.ui.ActionMultiplicity:	alexb	mkl	mvw	linus	tfmorris	bobtarling
+org.argouml.ui.explorer.rules.GoSummaryToAttribute:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.ui.TreeModelSupport:	alexb	kataka	linus	thierrylach	tfmorris
+org.argouml.ui.cmd.ActionSystemInfo:	bobtarling	mvw	tfmorris
+org.argouml.ui.explorer.TreeModelUMLEventListener:	alexb	tfmorris
+org.argouml.core.propertypanels.ui.UMLRecurrenceExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.uml.diagram.ui.SettingsTabDiagramAppearance:	mvw	euluis	tfmorris	linus
+org.argouml.notation.providers.AttributeNotation:	mvw	bobtarling
+org.argouml.util.ItemUID:	d00mst	mkl	linus	bobtarling	thierrylach	alexb	tfmorris	mvw
+org.argouml.uml.diagram.state.PredIsFinalState:	linus	bobtarling	alexb
+org.argouml.kernel.ProjectFactory:	tfmorris	mvw	thn	linus
+org.argouml.util.PredicateStringMatch:	tfmorris	linus
+org.argouml.ui.explorer.rules.GoCriticsToCritic:	maurelio1234	linus
+org.argouml.uml.diagram.static_structure.ui.StylePanelFigPackage:	mvw	mkl	bobtarling
+org.argouml.uml.diagram.use_case.ui.FigInclude:	jeremybennett	thierrylach	kataka	alexb	mkl	linus	tfmorris	bobtarling	mvw	dthompson
+org.argouml.uml.diagram.ui.FigTrace:	linus	alexb	bobtarling	tfmorris
+org.argouml.ui.SettingsDialog:	tfmorris	linus	bobtarling	mvw	euluis
+org.argouml.core.propertypanels.ui.UMLMultiplicityPanel:	penyaskito	bobtarling	linus	tfmorris
+org.argouml.core.propertypanels.ui.RowSelector:	bobtarling	mvw	linus	tfmorris
+org.argouml.uml.cognitive.critics.WizAddOperation:	mkl	linus	bobtarling	mvw	tfmorris
+org.argouml.notation.providers.ObjectFlowStateStateNotation:	mvw
+org.argouml.gefext.ArgoFigInk:	mvw	penyaskito	linus
+org.argouml.uml.cognitive.critics.CrInterfaceWithoutComponent:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.persistence.ProfileConfigurationFilePersister:	maurelio1234	tfmorris	euluis	bobtarling	thn
+org.argouml.core.propertypanels.ui.UMLFeatureOwnerListModel:	bobtarling	linus
+org.argouml.cognitive.ui.ToDoItemAction:	mvw	bobtarling
+org.argouml.uml.ui.foundation.core.UMLFeatureOwnerScopeCheckBox:	kataka	linus	bobtarling	alexb	jhraigniac	mvw	mkl	tfmorris
+org.argouml.ui.SettingsTabUser:	jhraigniac	thierrylach	linus	alexb	mvw	euluis	tfmorris
+org.argouml.notation.providers.ClassifierRoleNotation:	mvw
+org.argouml.model.DataTypesFactory:	linus	tfmorris	bobtarling
+org.argouml.core.propertypanels.ui.UMLExtendBaseListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLExtensionPointUseCaseListModel:	bobtarling	linus
+org.argouml.cognitive.ui.WizStepTextField:	linus	alexb	mkl	mvw	tfmorris
+org.argouml.ui.PerspectiveSupport:	alexb	kataka	linus	jhraigniac	tfmorris
+org.argouml.core.propertypanels.ui.ScrollList:	bobtarling	mvw	linus
+org.argouml.application.events.ArgoProfileEvent:	mvw	linus
+org.argouml.ui.FindDialog:	jhraigniac	kataka	mkl	jjones	linus	mvw	tfmorris	penyaskito	bobtarling
+org.argouml.uml.ui.ActionReopenProject:	linus	jhraigniac	bobtarling	jjones	mvw	tfmorris
+org.argouml.application.helpers.ResourceLoader:	tfmorris	euluis
+org.argouml.uml.ui.foundation.core.ActionNewInterface:	mvw	linus
+org.argouml.ui.explorer.rules.GoStateToEntry:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.ui.UMLModelElementTaggedValueProxy:	tfmorris
+org.argouml.core.propertypanels.ui.UMLAssociationEndRoleBaseListModel:	bobtarling	linus
+org.argouml.model.AbstractCommonBehaviorHelperDecorator:	linus	mvw	tfmorris	bobtarling
+org.argouml.notation.providers.uml.AssociationEndNameNotationUml:	mvw	bobtarling	penyaskito	tfmorris
+org.argouml.notation.providers.ObjectNotation:	mvw
+org.argouml.ui.explorer.rules.GoUseCaseToExtensionPoint:	alexb	kataka	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelElementToContainedDiagrams:	mvw	tfmorris
+org.argouml.cognitive.ui.ActionResolve:	mkl	mvw	linus	tfmorris
+org.argouml.model.euml.CollaborationsHelperEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.cognitive.ui.AddToDoItemDialog:	mkl	kataka	jhraigniac	d00mst	bobtarling	jjones	linus	mvw	tfmorris
+org.argouml.ui.UndoableAction:	bobtarling	linus
+org.argouml.ui.SaveSwingWorker:	mvw	tfmorris	linus	bobtarling
+org.argouml.uml.diagram.ui.ActionModifierAbstract:	mvw	linus	tfmorris	bobtarling
+org.argouml.ui.SettingsTabAppearance:	jjones	jhraigniac	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramInheritanceEdge:	mkl	alexb	linus	jhraigniac	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.foundation.core.UMLOperationSpecificationDocument:	tfmorris
+org.argouml.uml.diagram.activity.ui.SelectionActionState:	thierrylach	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndTargetScope:	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.activity2.diagram.ActivityDiagramGraphModel:	bobtarling
+org.argouml.ui.SplashScreen:	thierrylach	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.behavior.activity_graphs.ActionNewEntryCallAction:	mvw	bobtarling
+org.argouml.ui.cmd.ActionShowXMLDump:	mvw	bobtarling	andrea_nironi	tfmorris	thn
+org.argouml.uml.diagram.ui.FeaturesCompartmentContainer:	bobtarling	mvw
+org.argouml.uml.diagram.ui.ActionStereotypeViewBigIcon:	maurelio1234	tfmorris	mvw	linus
+org.argouml.core.propertypanels.ui.UMLStubStateComboBoxModel:	bobtarling	linus
+org.argouml.transformer.EventTransformer:	bobtarling	mvw
+org.argouml.core.propertypanels.ui.UMLPartitionActivityGraphListModel:	penyaskito	bobtarling	linus
+org.argouml.model.MessageSort:	bobtarling
+org.argouml.persistence.ProjectFileView:	mvw	thn
+org.argouml.uml.diagram.ui.CompartmentFigText:	jeremybennett	linus	kataka	alexb	bobtarling	thierrylach	mvw	tfmorris
+org.argouml.ui.JasonsHugeTheme:	bobtarling	linus	alexb
+org.argouml.ui.explorer.rules.GoOperationToCollaboration:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.ui.ActionBooleanTaggedValue:	mkl	linus	mvw	tfmorris	bobtarling
+org.argouml.cognitive.Agency:	linus	kataka	d00mst	mkl	thierrylach	mvw	bobtarling	thn	tfmorris	maurelio1234
+org.argouml.uml.ui.behavior.common_behavior.ActionNewActionSequence:	tfmorris	mvw	linus
+org.argouml.ui.explorer.rules.GoNodeToResidentComponent:	mvw	tfmorris
+org.argouml.persistence.TodoListMemberFilePersister:	bobtarling	mkl	tfmorris	mvw
+org.argouml.uml.ui.UMLComboBox2:	kataka	alexb	linus	mkl	mvw	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLOFSStateListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.activity.ui.FigPartition:	mkl	mvw	bobtarling	linus	tfmorris	thn
+org.argouml.uml.diagram.ui.ActionAddAssociationRole:	bobtarling	linus	alexb	jjones	jhraigniac	mvw	tfmorris
+org.argouml.cognitive.ui.DesignIssuesDialog:	mkl	linus	alexb	jjones	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionRemoveArgument:	mkl	mvw	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionAddCreateActionInstantiation:	mkl	tfmorris
+org.argouml.ui.cmd.ActionWrapper:	andrea_nironi	linus	mvw
+org.argouml.persistence.ProjectFilePersister:	bobtarling	mvw
+org.argouml.ui.MenuBar14:	bobtarling	linus
+org.argouml.uml.ui.UMLRadioButtonPanel:	kataka	linus	bobtarling	d00mst	mvw	mkl	tfmorris	andrea_nironi	penyaskito
+org.argouml.ui.explorer.TypeThenNameOrder:	alexb	jhraigniac	d00mst	linus	tfmorris
+org.argouml.uml.cognitive.critics.ClOperationCompartment:	linus	alexb	bobtarling	mvw	mkl
+org.argouml.uml.cognitive.critics.CrConstructorNeeded:	linus	kataka	mkl	d00mst	mvw	tfmorris
+org.argouml.uml.diagram.deployment.ui.FigObject:	thierrylach	kataka	mkl	linus	bobtarling	jjones	jhraigniac	d00mst	mvw	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCreateAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.uml.ui.UMLTableCellRenderer:	rastaman	mkl	tfmorris
+org.argouml.model.euml.PseudostateKindEUMLImpl:	tfmorris	linus
+org.argouml.uml.ui.UMLPlainTextDocument:	kataka	linus	bobtarling	thierrylach	d00mst	mvw	tfmorris
+org.argouml.ui.ActionRedo:	bobtarling	linus
+org.argouml.sequence2.diagram.FigMessageComparator:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.ui.AbstractActionRadioMenuItem:	mvw	bobtarling
+org.argouml.ui.TabText:	kataka	bobtarling	alexb	linus	thierrylach	d00mst	mvw	tfmorris	thn
+org.argouml.uml.diagram.activity.ui.FigObjectFlowState:	mvw	linus	bobtarling	tfmorris
+org.argouml.uml.ui.UMLRecurrenceExpressionModel:	mkl
+org.argouml.core.propertypanels.ui.UMLTransitionSourceListModel:	bobtarling	linus
+org.argouml.profile.internal.ocl.uml14.Uml14ModelInterpreter:	maurelio1234	tfmorris	penyaskito	euluis	linus
+org.argouml.uml.diagram.ui.ActionVisibilityPublic:	mvw	linus	tfmorris	bobtarling
+org.argouml.core.propertypanels.ui.UMLMessageActivatorComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.ui.HelpListener:	mvw	linus
+org.argouml.uml.diagram.ui.ActionVisibilityPackage:	tfmorris	linus	mvw	bobtarling
+org.argouml.profile.DefaultTypeStrategy:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.diagram.state.ui.FigBranchState:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.cognitive.ToDoListEvent:	linus	mvw	tfmorris	bobtarling
+org.argouml.uml.diagram.ui.FigUsage:	mkl	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.LabelledLayout:	bobtarling	linus
+org.argouml.core.propertypanels.ui.NavigateNextAction:	bobtarling
+org.argouml.uml.diagram.ui.ActionVisibilityProtected:	mvw	linus	tfmorris	bobtarling
+org.argouml.profile.internal.DependencyResolver:	euluis
+org.argouml.profile.ProfileFacade:	euluis	mvw	tfmorris	maurelio1234	linus	bobtarling
+org.argouml.core.propertypanels.ui.UMLModelElementStereotypeListModel:	bobtarling	linus
+org.argouml.ui.TabFigTarget:	alexb	linus
+org.argouml.uml.ui.foundation.core.ActionNewModelElementConstraint:	kataka	mkl	linus	bobtarling	mvw
+org.argouml.gefext.DeferredBufferedImage:	tfmorris	linus
+org.argouml.model.CollaborationDiagram:	bobtarling
+org.argouml.model.UmlFactory:	linus	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLClassifierRoleAvailableFeaturesListModel:	bobtarling	linus
+org.argouml.uml.ui.UMLComboBoxModel2:	kataka	lepekhine	alexb	linus	bobtarling	thierrylach	jjones	d00mst	mvw	mkl	rastaman	tfmorris	penyaskito
+org.argouml.uml.ui.behavior.state_machines.ActionNewStubState:	kataka	linus	jhraigniac	mvw
+org.argouml.uml.ui.ActionSequenceDiagram:	kataka	mkl	bobtarling	thn	jhraigniac	linus	alexb	mvw	tfmorris
+org.argouml.activity2.diagram.StereotypeDisplayer:	bobtarling
+org.argouml.uml.diagram.collaboration.ui.CollaborationDiagramPropPanelFactory:	mvw	linus
+org.argouml.core.propertypanels.ui.UMLDefaultValueExpressionModel:	penyaskito	mvw	linus	bobtarling
+org.argouml.notation.providers.java.AttributeNotationJava:	mvw	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoCollaborationToInteraction:	linus	tfmorris
+org.argouml.ui.cmd.LastRecentlyUsedMenuList:	mvw	tfmorris
+org.argouml.model.euml.DirectionKindEUMLImpl:	tfmorris	linus
+org.argouml.notation.providers.uml.SDMessageNotationUml:	mvw	bobtarling	tfmorris	penyaskito	linus
+org.argouml.notation.ui.NotationComboBox:	mvw
+org.argouml.cognitive.ToDoItem:	linus	bobtarling	alexb	mkl	mvw	tfmorris	andrea_nironi
+org.argouml.uml.ui.behavior.common_behavior.ActionNewSignal:	mkl	tfmorris
+org.argouml.core.propertypanels.ui.ExpressionLanguageField:	bobtarling	linus
+org.argouml.uml.diagram.collaboration.ui.CollabDiagramRenderer:	kataka	mkl	linus	bobtarling	alexb	thierrylach	tfmorris	mvw	euluis
+org.argouml.core.propertypanels.ui.UMLTransitionStateListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLExtendedElementsListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.ui.TabSrc:	linus	thn	alexb	bobtarling	jhraigniac	kataka	thierrylach	mvw	rastaman	tfmorris	penyaskito	euluis
+org.argouml.model.euml.ActivityGraphsHelperEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.activity2.diagram.ActivityDiagramFactory:	bobtarling	linus
+org.argouml.profile.internal.ocl.ModelInterpreter:	maurelio1234	tfmorris	linus
+org.argouml.model.mdr.AbstractUmlModelFactoryMDR:	tfmorris
+org.argouml.core.propertypanels.ui.UMLExpressionPanel:	penyaskito	mvw	linus	thn
+org.argouml.uml.PredicateSearch:	tfmorris	linus
+org.argouml.gefext.ArgoModeCreateFigInk:	mvw	linus
+org.argouml.model.euml.VisibilityKindEUMLImpl:	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLTemplateParameterTemplateListModel:	bobtarling	linus
+org.argouml.ui.SettingsTabEnvironment:	thierrylach	jhraigniac	linus	alexb	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrReservedName:	linus	kataka	alexb	thierrylach	mkl	mvw	d00mst	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLIncludeAdditionListModel:	bobtarling	linus
+org.argouml.uml.ui.foundation.extension_mechanisms.UMLTagDefinitionComboBoxModel:	rastaman	tfmorris	thn
+org.argouml.model.mdr.XmiReferenceResolverImpl:	tfmorris	euluis	thn
+org.argouml.uml.diagram.ui.StylePanelFigAssociationClass:	mvw	linus
+org.argouml.ui.explorer.rules.GoStateToDownstream:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.profile.internal.ocl.OclInterpreter:	maurelio1234	tfmorris	linus
+org.argouml.pattern.cognitive.critics.CrConsiderFacade:	mkl	linus	alexb	thierrylach	bobtarling	mvw
+org.argouml.uml.diagram.state.ui.ActionCreatePseudostate:	kataka	linus	alexb	bobtarling	jhraigniac	mvw
+org.argouml.model.DummyModelCommand:	bobtarling	tfmorris	linus
+org.argouml.cognitive.critics.SnoozeOrder:	linus	alexb	jhraigniac
+org.argouml.cognitive.Poster:	linus	mkl	bobtarling	andrea_nironi	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.UMLStructuralFeatureTargetScopeCheckBox:	kataka	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLGeneralizationParentListModel:	bobtarling	linus
+org.argouml.uml.reveng.MethodImportInterface:	thn	linus
+org.argouml.uml.diagram.deployment.ui.FigComponentInstance:	mkl	kataka	linus	bobtarling	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.Relocatable:	mkl	mvw
+org.argouml.uml.diagram.static_structure.ui.InitClassDiagram:	mvw	linus
+org.argouml.ui.cmd.ActionPageSetup:	mvw	bobtarling	linus	tfmorris
+org.argouml.ui.cmd.ActionAdjustGrid:	mvw	tfmorris	linus
+org.argouml.ui.TreeModelComposite:	linus	jhraigniac	kataka	alexb	thierrylach	tfmorris
+org.argouml.sequence2.diagram.FigMessage:	penyaskito	bobtarling	mvw	tfmorris	thn	linus
+org.argouml.core.propertypanels.ui.UMLExpressionModel:	penyaskito	mvw	linus	thn
+org.argouml.uml.reveng.ImportSettings:	tfmorris	linus
+org.argouml.uml.diagram.static_structure.ui.FigModel:	mkl	linus	bobtarling	thierrylach	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.ui.FigStereotypeDeclaration:	tfmorris	mvw	bobtarling	mkl
+org.argouml.core.propertypanels.ui.UMLSignalContextListModel:	bobtarling	linus
+org.argouml.pattern.cognitive.critics.CrConsiderSingleton:	linus	kataka	mkl	alexb	mvw	thn	tfmorris
+org.argouml.uml.cognitive.critics.WizOperName:	thierrylach	linus	kataka	bobtarling	alexb	mkl	tfmorris	mvw	thn
+org.argouml.uml.ui.UMLListCellRenderer2:	kataka	linus	bobtarling	thierrylach	alexb	mvw	d00mst	mkl	tfmorris
+org.argouml.ui.explorer.ExplorerPerspective:	alexb	jhraigniac	linus	mvw	tfmorris
+org.argouml.model.ActivityGraphsFactory:	linus	tfmorris	mvw
+org.argouml.model.DiagramInterchangeFactory:	bobtarling	linus	tfmorris
+org.argouml.ui.DisplayTextTree:	jeremybennett	linus	thierrylach	kataka	alexb	mkl	jjones	bobtarling	mvw	tfmorris	thn
+org.argouml.uml.diagram.ui.ActionStereotypeViewSmallIcon:	maurelio1234	tfmorris	mvw	linus
+org.argouml.util.logging.SimpleTimer:	linus	mkl	tfmorris	penyaskito
+org.argouml.uml.cognitive.critics.WizTooMany:	mkl	mvw	tfmorris
+org.argouml.uml.generator.GeneratorHelper:	mvw
+org.argouml.uml.cognitive.critics.CrNoOutgoingTransitions:	linus	bobtarling	alexb	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.diagram.static_structure.ui.FigClassifierBox:	bobtarling	tfmorris	mvw
+org.argouml.uml.diagram.state.ui.StateDiagramPropPanelFactory:	mvw	linus
+org.argouml.uml.ui.foundation.core.ActionSetFeatureOwnerScope:	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.model.UseCasesFactory:	linus	tfmorris
+org.argouml.core.propertypanels.ui.NavigateSiblingAction:	bobtarling
+org.argouml.uml.diagram.static_structure.ui.FigPackage:	mkl	d00mst	linus	kataka	jjones	bobtarling	alexb	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrDisambigStateName:	linus	bobtarling	alexb	jhraigniac	d00mst	mvw	mkl	maurelio1234
+org.argouml.model.ConcurrencyKind:	linus
+org.argouml.uml.cognitive.critics.CrProfile:	maurelio1234	tfmorris	linus
+org.argouml.uml.ui.InitUmlUI:	mvw	thn	linus	bobtarling
+org.argouml.uml.reveng.ui.ImportClasspathDialog:	thn	tfmorris	linus
+org.argouml.uml.ui.ActionSaveProjectAs:	thierrylach	linus	thn	jhraigniac	mkl	kataka	jjones	mvw	bobtarling
+org.argouml.uml.diagram.ui.ArgoFigGroup:	tfmorris	mvw	bobtarling	linus
+org.argouml.model.euml.DataTypesFactoryEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.application.events.ArgoGeneratorEventListener:	mvw
+org.argouml.core.propertypanels.ui.UMLConditionExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.ui.explorer.rules.GoElementToMachine:	alexb	kataka	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.profile.internal.ocl.uml14.CollectionsModelInterpreter:	maurelio1234	tfmorris	linus
+org.argouml.ui.explorer.rules.GoClassifierToStructuralFeature:	alexb	kataka	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.uml.diagram.static_structure.ui.ClassDiagramPropPanelFactory:	mvw	linus
+org.argouml.uml.diagram.static_structure.ui.FigEdgeNote:	kataka	linus	jjones	mvw	bobtarling	rastaman	tfmorris
+org.argouml.uml.cognitive.critics.CrInvalidSynch:	mvw	mkl	maurelio1234
+org.argouml.uml.reveng.ui.ImportStatusScreen:	thn	tfmorris	linus
+org.argouml.gefext.ArgoModeCreateFigPoly:	mvw	linus
+org.argouml.uml.cognitive.critics.CrObjectWithoutComponent:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.UMLModelElementVisibilityRadioButtonPanel:	kataka	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.notation.providers.java.OperationNotationJava:	mvw	tfmorris
+org.argouml.uml.ui.UMLTextArea2:	kataka	linus	mvw	mkl	tfmorris
+org.argouml.ui.cmd.ShortcutMgr:	andrea_nironi	linus	tfmorris	mvw	andreas
+org.argouml.uml.ui.ActionGenerateAll:	mkl	thn	lepekhine	jhraigniac	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLExpressionBodyField:	penyaskito	mvw	linus
+org.argouml.core.propertypanels.ui.RadioButtonPanel:	bobtarling	linus
+org.argouml.cognitive.ui.WizStepCue:	linus	alexb	mkl	mvw
+org.argouml.ui.explorer.PerspectiveManagerListener:	alexb
+org.argouml.model.mdr.StateMachinesFactoryMDRImpl:	tfmorris	bobtarling	mvw
+org.argouml.util.ArgoDialog:	bobtarling	jjones	linus	jhraigniac	mvw	andrea_nironi	tfmorris
+org.argouml.ui.explorer.ActionDeployProfile:	thn	linus	euluis
+org.argouml.model.InstanceChangeEvent:	bobtarling
+org.argouml.uml.diagram.ui.FigStereotype:	bobtarling	linus	mvw	tfmorris
+org.argouml.ui.ActionCreateContainedModelElement:	bobtarling	linus
+org.argouml.uml.reveng.ImportInterface:	tfmorris	mvw	thn	linus
+org.argouml.moduleloader.ModuleInterface:	linus
+org.argouml.uml.diagram.static_structure.ui.SelectionStereotype:	mvw	tfmorris
+org.argouml.persistence.PrivateHandler:	bobtarling	thn	mvw	tfmorris	dthompson
+org.argouml.model.euml.UmlHelperEUMLImpl:	tfmorris	bobtarling	linus
+org.argouml.util.CollectionUtil:	bobtarling
+org.argouml.core.propertypanels.ui.ExpressionModel:	bobtarling	linus	thn
+org.argouml.uml.ui.ActionNavigateTransition:	mvw	linus
+org.argouml.uml.cognitive.critics.CrUnconventionalOperName:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.uml.diagram.static_structure.ui.PropPanelUMLClassDiagram:	kataka	linus	jhraigniac	mvw
+org.argouml.core.propertypanels.ui.UMLTextField:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrInvalidBranch:	mkl	linus	alexb	mvw	tfmorris	maurelio1234
+org.argouml.uml.ui.ActionCut:	mkl	jhraigniac	kataka	jjones	linus	mvw	tfmorris
+org.argouml.activity2.ActivityDiagramPropPanelFactory:	bobtarling
+org.argouml.notation.providers.uml.MessageNotationUml:	mvw	linus	tfmorris	penyaskito
+org.argouml.application.events.ArgoHelpEvent:	mvw	tfmorris	linus
+org.argouml.uml.cognitive.critics.AbstractCrUnconventionalName:	mkl
+org.argouml.uml.diagram.layout.LayoutedEdge:	mkl	linus	jhraigniac
+org.argouml.ui.TabTarget:	alexb	kataka	linus	mkl	mvw	tfmorris
+org.argouml.ui.explorer.ExplorerEventAdaptor:	alexb	jhraigniac	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.uml.diagram.ui.ActionSetAddCommentLinkMode:	bobtarling	tfmorris	mvw
+org.argouml.core.propertypanels.ui.UMLEventParameterListModel:	bobtarling	linus
+org.argouml.uml.diagram.ui.FigTextGroup:	kataka	linus	bobtarling	d00mst	mvw	tfmorris	dthompson
+org.argouml.util.logging.AwtExceptionHandler:	tfmorris	linus
+org.argouml.uml.diagram.ui.FigAbstraction:	tfmorris	mvw	bobtarling
+org.argouml.ui.cmd.ShortcutField:	andrea_nironi	linus	mvw	tfmorris
+org.argouml.cognitive.ui.ActionNewToDoItem:	mkl	mvw	bobtarling	tfmorris
+org.argouml.model.ModelCommand:	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrAssocNameConflict:	linus	bobtarling	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.diagram.deployment.ui.SelectionObject:	thierrylach	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.kernel.NonUndoableCommand:	bobtarling	linus
+org.argouml.ui.ProjectBrowser:	bobtarling	thierrylach	thn	linus	eugenio.alvarez	jhraigniac	kataka	d00mst	mkl	alexb	jjones	mvw	tfmorris	andrea_nironi	dthompson	penyaskito	euluis
+org.argouml.sequence2.diagram.FigActivation:	penyaskito	bobtarling	tfmorris	linus	mvw
+org.argouml.uml.ui.foundation.core.ActionNewClass:	mvw	linus
+org.argouml.uml.ui.PropPanelFactory:	mvw	bobtarling	linus
+org.argouml.swingext.SpacerPanel:	mkl
+org.argouml.ui.explorer.rules.GoModelElementToContainedLostElements:	mvw
+org.argouml.uml.cognitive.critics.CrClassMustBeAbstract:	kataka	mkl	linus	alexb	d00mst	mvw	maurelio1234
+org.argouml.uml.diagram.VisibilityContainer:	mvw
+org.argouml.core.propertypanels.ui.UMLMessagePredecessorListModel:	bobtarling	linus
+org.argouml.uml.ui.foundation.core.UMLOperationConcurrencyRadioButtonPanel:	mkl	linus	tfmorris	mvw
+org.argouml.ui.MenuBar2:	bobtarling	linus
+org.argouml.uml.cognitive.critics.WizManyNames:	jhraigniac	kataka	linus	alexb	thierrylach	bobtarling	mkl	mvw	tfmorris
+org.argouml.cognitive.ui.GoListToGoalsToItems:	linus	alexb	mvw	mkl	tfmorris
+org.argouml.core.propertypanels.ui.UMLTransitionStatemachineListModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrOppEndVsAttr:	kataka	linus	bobtarling	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLCallEventOperationComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.uml.reveng.ImportCommon:	tfmorris	thn	mvw	euluis	bobtarling	linus
+org.argouml.ui.StylePanelFigRRect:	kataka	jjones	linus	bobtarling	mkl	mvw
+org.argouml.uml.diagram.use_case.ui.SelectionUseCase:	thierrylach	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.ui.FigKeyword:	mvw	tfmorris	linus
+org.argouml.uml.reveng.ui.ProblemsDialog:	thn	tfmorris	linus
+org.argouml.uml.cognitive.critics.CrUnconventionalPackName:	mkl	linus	alexb	bobtarling	mvw	tfmorris	penyaskito	maurelio1234
+org.argouml.uml.ui.behavior.state_machines.ActionNewSubmachineState:	kataka	linus	jhraigniac	mvw
+org.argouml.ui.StatusBar:	linus	alexb	tfmorris
+org.argouml.cognitive.ui.ToDoPane:	bobtarling	jhraigniac	kataka	alexb	linus	thierrylach	mkl	mvw	tfmorris
+org.argouml.ui.cmd.ActionSelectAll:	mvw	linus
+org.argouml.gefext.ArgoFigRect:	mvw	linus
+org.argouml.core.propertypanels.ui.SimpleListModel:	bobtarling	linus
+org.argouml.uml.diagram.ui.FigNameWithAbstractAndBold:	mvw	tfmorris	linus
+org.argouml.uml.ui.behavior.common_behavior.ActionNewAction:	kataka	linus	mvw	tfmorris
+org.argouml.ui.cmd.ActionNew:	mvw	bobtarling	tfmorris
+org.argouml.ui.cmd.ZoomActionProxy:	mvw	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLTransitionTriggerComboBoxModel:	bobtarling	mvw
+org.argouml.uml.diagram.ui.SelectionNodeClarifiers2:	tfmorris	penyaskito	bobtarling	mvw	linus
+org.argouml.ui.explorer.PerspectiveManager:	alexb	kataka	d00mst	linus	mvw	mkl	rastaman	tfmorris	maurelio1234	lepekhine	penyaskito	bobtarling
+org.argouml.uml.cognitive.critics.CrMissingOperName:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.ui.explorer.rules.GoOperationToSequenceDiagram:	kataka	alexb	d00mst	mvw	linus	tfmorris
+org.argouml.uml.ui.behavior.state_machines.ActionAddEventAsDeferrableEvent:	rastaman	mvw	tfmorris
+org.argouml.application.events.ArgoEventTypes:	linus	thierrylach	mkl	mvw	bobtarling	tfmorris
+org.argouml.cognitive.Translator:	mkl
+org.argouml.uml.cognitive.critics.CrNameConflictAC:	linus	alexb	mvw	mkl	maurelio1234
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramAssociationEdge:	mkl	linus	jhraigniac	mvw	tfmorris
+org.argouml.persistence.ModelMemberFilePersister:	bobtarling	linus	mkl	rastaman	mvw	thn	tfmorris	euluis
+org.argouml.uml.diagram.state.ui.ButtonActionNewEvent:	mvw	tfmorris	bobtarling
+org.argouml.uml.diagram.ui.ActionAddExtensionPoint:	alexb	jjones	mvw	linus	bobtarling
+org.argouml.model.euml.ActivityGraphsFactoryEUMLlImpl:	tfmorris	linus	bobtarling
+org.argouml.profile.ProfileException:	maurelio1234	tfmorris	euluis	linus
+org.argouml.util.MyTokenizer:	d00mst	linus	jjones	mkl	penyaskito	tfmorris
+org.argouml.model.mdr.UseCasesFactoryMDRImpl:	tfmorris	bobtarling
+org.argouml.uml.diagram.StereotypeContainer:	mvw
+org.argouml.core.propertypanels.ui.UMLModelElementNamespaceListModel:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoSummaryToOperation:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.taskmgmt.ProgressListener:	bobtarling	mvw
+org.argouml.profile.ResourceModelLoader:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.diagram.activity.ui.PropPanelUMLActivityDiagram:	kataka	linus	jhraigniac	mvw
+org.argouml.ui.explorer.rules.GoStateMachineToState:	linus	tfmorris	bobtarling
+org.argouml.uml.TMResults:	kataka	mkl	linus	jjones	jhraigniac	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndNavigable:	kataka	linus	bobtarling	mvw
+org.argouml.ui.ChildGenSearch:	tfmorris	linus
+org.argouml.core.propertypanels.ui.ActionNewAction:	bobtarling	linus
+org.argouml.uml.cognitive.critics.ClAttributeCompartment:	kataka	linus	alexb	thierrylach	bobtarling	mvw	mkl
+org.argouml.uml.cognitive.critics.CrInvalidPseudoStateTrigger:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.persistence.SAXParserBase:	bobtarling	linus	tfmorris
+org.argouml.model.euml.UmlFactoryEUMLImpl:	tfmorris	bobtarling	thn	linus
+org.argouml.model.mdr.UndoActivityGraphsHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrFinalSubclassed:	linus	alexb	bobtarling	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.generator.SourceUnit:	mvw	tfmorris
+org.argouml.ui.JasonsBigTheme:	bobtarling	linus	alexb
+org.argouml.model.NotImplementedException:	tfmorris
+org.argouml.uml.diagram.ui.ActionEdgesDisplay:	alexb	jhraigniac	d00mst	bobtarling	mkl	mvw	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLInteractionContextListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLCallActionOperationComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.ui.LoadSwingWorker:	mvw	tfmorris	linus	bobtarling
+org.argouml.ui.explorer.rules.GoClassifierToBehavioralFeature:	linus	tfmorris
+org.argouml.activity2.diagram.FigActivityEdge:	bobtarling
+org.argouml.core.propertypanels.ui.UMLTransitionTargetListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLModelElementListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLLinkedList:	bobtarling	linus
+org.argouml.core.propertypanels.model.GetterSetterManager:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLTimeExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.model.ActivityGraphsHelper:	linus	tfmorris	mvw	bobtarling
+org.argouml.application.events.ArgoStatusEventListener:	tfmorris	linus
+org.argouml.uml.diagram.ui.ModeCreateAssociation:	bobtarling	linus
+org.argouml.ui.explorer.rules.AbstractPerspectiveRule:	alexb	d00mst	mvw	linus
+org.argouml.uml.diagram.ui.Clarifiable:	tfmorris	linus
+org.argouml.model.CollaborationsHelper:	linus	mvw	tfmorris	bobtarling
+org.argouml.uml.cognitive.checklist.UMLCheckItem:	kataka	linus	alexb	thierrylach	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.ActionSaveGraphics:	thierrylach	kataka	mkl	linus	jhraigniac	alexb	d00mst	bobtarling	mvw	tfmorris
+org.argouml.uml.DocumentationManager:	thn	kataka	mkl	linus	bobtarling	alexb	d00mst	mvw	tfmorris
+org.argouml.uml.diagram.DiagramElementSettings:	bobtarling	linus
+org.argouml.uml.cognitive.critics.WizAddConstructor:	d00mst	linus	mkl	mvw	bobtarling	tfmorris	thn
+org.argouml.persistence.UmlFilePersister:	bobtarling	linus	mvw	tfmorris	thn	euluis
+org.argouml.uml.ui.foundation.core.ActionAddDataType:	mvw	linus
+org.argouml.uml.ui.SourcePathDialog:	thn	jhraigniac	kataka	alexb	linus	mkl	jjones	mvw	bobtarling	tfmorris
+org.argouml.ui.ActionImportXMI:	mvw	bobtarling	linus
+org.argouml.uml.diagram.ui.ArgoFig:	tfmorris	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrNoGuard:	mkl	linus	alexb	bobtarling	mvw	tfmorris	maurelio1234
+org.argouml.uml.ui.foundation.core.ActionNewParameter:	kataka	mkl	mvw	bobtarling	linus	tfmorris
+org.argouml.profile.internal.ocl.ContextApplicable:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.ui.UMLLinkedListCellRenderer:	kataka	linus	mkl	tfmorris
+org.argouml.uml.ui.UMLConditionExpressionModel:	mkl	mvw	linus	bobtarling	tfmorris
+org.argouml.model.euml.OrderingKindEUMLImpl:	tfmorris	linus
+org.argouml.core.propertypanels.ui.GenericUMLPlainTextDocument:	penyaskito	bobtarling	linus
+org.argouml.profile.internal.ui.ProfilePropPanelFactory:	maurelio1234	tfmorris	linus	bobtarling
+org.argouml.notation.providers.uml.ComponentInstanceNotationUml:	mvw	penyaskito	tfmorris
+org.argouml.uml.cognitive.critics.CrInvalidInitial:	mkl	linus	alexb	mvw	tfmorris	maurelio1234
+org.argouml.uml.cognitive.critics.CrTooManyStates:	linus	bobtarling	alexb	mkl	mvw	maurelio1234
+org.argouml.uml.ui.UMLLinkMouseListener:	kataka	mvw	linus
+org.argouml.kernel.AbstractCommand:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLStateMachineContextListModel:	bobtarling	linus
+org.argouml.uml.diagram.ui.TabDiagram:	kataka	mkl	alexb	linus	bobtarling	thierrylach	d00mst	jjones	jhraigniac	mvw	tfmorris	maurelio1234	dthompson
+org.argouml.model.euml.FacadeEUMLImpl:	tfmorris	thn	mvw	linus	bobtarling	andreas
+org.argouml.core.propertypanels.ui.UMLAssociationRoleBaseComboBoxModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLStereotypeBaseClassListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.activity.ui.ActivityDiagramRenderer:	mkl	mvw	bobtarling	linus	euluis	tfmorris
+org.argouml.persistence.XmiFormatException:	tfmorris
+org.argouml.uml.diagram.state.ui.SelectionState:	thierrylach	kataka	linus	alexb	bobtarling	mvw	mkl	tfmorris
+org.argouml.uml.diagram.static_structure.ui.FigClass:	thn	thierrylach	d00mst	kataka	linus	mkl	alexb	bobtarling	jjones	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramLayouter:	mkl	kataka	linus	bobtarling	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.activity2.diagram.FigAcceptEventPoly:	bobtarling
+org.argouml.uml.cognitive.critics.CrWrongDepEnds:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLStateMachineTransitionListModel:	bobtarling	linus
+org.argouml.sequence2.diagram.UMLSequenceDiagram:	penyaskito	euluis	bszanto	tfmorris	bobtarling	mvw	linus
+org.argouml.uml.ui.UMLStimulusActionTextField:	alexb	linus	bobtarling	jhraigniac
+org.argouml.ui.targetmanager.TargettableModelView:	kataka	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrNodesOverlap:	mkl	bobtarling	mvw	tfmorris	maurelio1234
+org.argouml.uml.generator.GeneratorManager:	mvw	tfmorris
+org.argouml.model.euml.CommonBehaviorFactoryEUMLImpl:	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLExpressionExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.cognitive.ui.ActionOpenGoals:	mvw	linus	tfmorris
+org.argouml.model.mdr.XmiHeaderProviderImpl:	tfmorris	bobtarling
+org.argouml.kernel.UmlModelMutator:	bobtarling	linus
+org.argouml.uml.ui.behavior.state_machines.UMLChangeExpressionModel:	mvw
+org.argouml.model.euml.ExtensionMechanismsHelperEUMLImpl:	tfmorris	thn	linus
+org.argouml.ui.HelpBox:	andreas	mvw	tfmorris	thn	linus
+org.argouml.uml.cognitive.critics.CrConflictingComposites:	linus	bobtarling	alexb	d00mst	mvw	mkl	maurelio1234
+org.argouml.application.security.ArgoAwtExceptionHandler:	linus	jjones	bobtarling
+org.argouml.uml.ui.foundation.core.ActionSetOperationConcurrencyKind:	mkl	mvw	linus	bobtarling
+org.argouml.cognitive.ui.ActionGoToCritique:	kataka	linus	mvw	bobtarling	tfmorris
+org.argouml.ui.cmd.NavigateTargetBackAction:	mvw	tfmorris
+org.argouml.uml.ui.behavior.state_machines.ActionNewChangeEvent:	kataka	mkl	linus	jhraigniac	mvw	bobtarling
+org.argouml.uml.ui.behavior.state_machines.PopupMenuNewEvent:	kataka	linus	mvw	mkl	tfmorris	bobtarling
+org.argouml.uml.CommentEdge:	kataka	mvw	bobtarling	linus	tfmorris
+org.argouml.activity2.diagram.FigNamedRect:	bobtarling
+org.argouml.ui.explorer.rules.GoNamespaceToClassifierAndPackage:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.ui.SelectionException:	tfmorris	linus
+org.argouml.uml.ui.ActionUseCaseDiagram:	kataka	d00mst	mkl	bobtarling	thn	linus	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.ui.FigCompartment:	bobtarling	mvw	tfmorris
+org.argouml.profile.internal.ModelUtils:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.diagram.ui.ModeCreateAssociationClass:	bobtarling	tfmorris	mvw	linus
+org.argouml.uml.ui.behavior.use_cases.ActionNewUseCase:	mkl
+org.argouml.model.ModelManagementHelper:	linus	tfmorris	mvw	thn
+org.argouml.kernel.ActionList:	bobtarling
+org.argouml.model.mdr.UseCasesHelperMDRImpl:	tfmorris	mvw	bobtarling
+org.argouml.util.EnumerationIterator:	tfmorris	linus
+org.argouml.uml.reveng.FileImportUtils:	tfmorris	linus
+org.argouml.model.SequenceDiagram:	bobtarling
+org.argouml.uml.diagram.use_case.ui.UMLUseCaseDiagram:	jeremybennett	kataka	bobtarling	linus	alexb	jjones	thierrylach	jhraigniac	mvw	tfmorris	euluis
+org.argouml.ui.SystemInfoDialog:	eugenio.alvarez	linus	alexb	jjones	mvw	tfmorris
+org.argouml.state2.diagram.StateDiagramFactory:	bobtarling
+org.argouml.cognitive.UnresolvableException:	d00mst	linus
+org.argouml.uml.diagram.ui.ModeCreatePermission:	bobtarling	tfmorris	linus
+org.argouml.ui.explorer.rules.GoProfileConfigurationToProfile:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.diagram.collaboration.ui.ActionAddClassifierRole:	tfmorris	bobtarling
+org.argouml.state2.StateDiagramPropPanelFactory:	bobtarling
+org.argouml.uml.ui.ActionNavigateOppositeAssocEnd:	mkl	mvw	bobtarling	linus	tfmorris
+org.argouml.uml.diagram.ui.ActionStereotypeViewTextual:	maurelio1234	tfmorris	mvw	linus
+org.argouml.profile.internal.ocl.ComputeDesignMaterials:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.deployment.ui.UMLDeploymentDiagram:	kataka	linus	bobtarling	thierrylach	alexb	jjones	jhraigniac	mvw	tfmorris	euluis	bszanto
+org.argouml.model.euml.XmiReaderEUMLImpl:	tfmorris	thn	linus
+org.argouml.uml.diagram.ui.ActionRemoveFromDiagram:	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.UMLModelElementStereotypeListModel:	bobtarling	mvw
+org.argouml.uml.ui.ActionNewDiagram:	mvw	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLPlainTextDocument:	bobtarling	linus
+org.argouml.ui.cmd.ActionExit:	mvw	bobtarling
+org.argouml.model.euml.ModelManagementFactoryEUMLImpl:	tfmorris	thn	linus
+org.argouml.uml.diagram.ui.FigEdgeModelElement:	mkl	kataka	alexb	d00mst	linus	bobtarling	thierrylach	jjones	jhraigniac	mvw	rastaman	tfmorris	dthompson	thn
+org.argouml.core.propertypanels.ui.UMLMessageActionListModel:	bobtarling	linus
+org.argouml.uml.util.namespace.NamespaceElement:	mkl
+org.argouml.ui.cmd.ActionAdjustSnap:	mvw	tfmorris	linus
+org.argouml.model.euml.CoreHelperEUMLImpl:	tfmorris	mvw	thn	bobtarling	linus	andreas
+org.argouml.uml.diagram.ui.ActionModifierLeaf:	mvw	linus	tfmorris	bobtarling
+org.argouml.ui.explorer.rules.GoPackageToClass:	linus	tfmorris
+org.argouml.uml.generator.TempFileUtils:	tfmorris	linus
+org.argouml.sequence2.diagram.FigLifeLine:	penyaskito	bobtarling	tfmorris	thn	linus	mvw
+org.argouml.uml.diagram.static_structure.ui.ClassDiagramRenderer:	kataka	mkl	alexb	linus	bobtarling	thierrylach	mvw	tfmorris	euluis
+org.argouml.persistence.UmlVersionException:	tfmorris	mvw
+org.argouml.uml.diagram.ui.ModeAddToDiagram:	bobtarling	bszanto	tfmorris	linus
+org.argouml.model.mdr.CommonBehaviorFactoryMDRImpl:	tfmorris	bobtarling
+org.argouml.uml.ui.ActionNavigateUpNextDown:	mvw	linus	tfmorris
+org.argouml.model.StateDiagram:	bobtarling
+org.argouml.uml.ui.foundation.core.ActionAddClientDependencyAction:	mvw	tfmorris	linus
+org.argouml.i18n.Translator:	jhraigniac	kataka	linus	thierrylach	mkl	mvw	bobtarling	tfmorris	thn
+org.argouml.model.euml.StateMachinesHelperEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.ui.explorer.ActionManageProfiles:	maurelio1234	linus
+org.argouml.uml.diagram.state.ui.FigStateVertex:	kataka	linus	bobtarling	alexb	mvw	mkl	tfmorris	penyaskito
+org.argouml.model.CoreFactory:	linus	mvw	tfmorris	bobtarling	thn
+org.argouml.ui.cmd.ActionNewProfile:	thn	linus
+org.argouml.ui.explorer.rules.GoAssocRoleToMessages:	linus	tfmorris
+org.argouml.uml.ui.foundation.core.UMLAssociationEndTargetScopeCheckbox:	kataka	bobtarling	linus	alexb	jhraigniac	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLStateVertexIncomingListModel:	bobtarling	linus
+org.argouml.cognitive.ui.AbstractGoList2:	tfmorris	linus
+org.argouml.util.osdep.StartBrowser:	linus	mkl	alexb	jhraigniac	mvw	bobtarling	tfmorris	andrea_nironi
+org.argouml.application.events.ArgoNotationEventListener:	linus	thierrylach	mkl
+org.argouml.model.mdr.ExtensionMechanismsFactoryMDRImpl:	tfmorris	mvw	bobtarling
+org.argouml.ui.explorer.rules.GoGeneralizableElementToSpecialized:	linus	tfmorris
+org.argouml.uml.diagram.deployment.ui.FigComponent:	mkl	kataka	linus	bobtarling	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.ui.cmd.ActionAdjustPageBreaks:	mvw	linus
+org.argouml.uml.cognitive.critics.ProfileGoodPractices:	maurelio1234	linus	tfmorris
+org.argouml.uml.ui.ActionNavigateOwner:	mkl	linus
+org.argouml.uml.cognitive.critics.WizCueCards:	linus	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.ui.explorer.rules.AttributesNode:	alexb	d00mst
+org.argouml.uml.cognitive.critics.CrMultipleInitialStates:	kataka	mkl	linus	alexb	bobtarling	thierrylach	mvw	tfmorris	maurelio1234
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramGeneralizationEdge:	mkl	linus	jhraigniac	mvw	tfmorris
+org.argouml.notation.providers.uml.CallStateNotationUml:	mvw	tfmorris
+org.argouml.transformer.Transformer:	bobtarling	mvw
+org.argouml.uml.diagram.ui.ModeCreateAssociationEnd:	bobtarling	mvw
+org.argouml.model.mdr.CopyHelper:	tfmorris	mvw
+org.argouml.core.propertypanels.ui.UMLMessageSenderListModel:	bobtarling	linus
+org.argouml.uml.diagram.state.ui.ButtonActionNewSignalEvent:	mvw
+org.argouml.uml.ui.behavior.state_machines.ActionNewSynchState:	kataka	linus	jhraigniac	mvw
+org.argouml.gefext.ArgoFigPoly:	mvw	penyaskito	linus
+org.argouml.cognitive.checklist.ui.TabChecklist:	jhraigniac	kataka	alexb	linus	bobtarling	thierrylach	d00mst	mkl	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoClassifierToSequenceDiagram:	kataka	alexb	d00mst	mvw	linus	tfmorris
+org.argouml.uml.diagram.static_structure.ui.SelectionGeneralizableElement:	tfmorris	mvw	linus
+org.argouml.ui.explorer.rules.GoClassifierToInstance:	kataka	alexb	d00mst	mvw	linus	tfmorris
+org.argouml.uml.ui.foundation.extension_mechanisms.ActionNewTagDefinition:	rastaman	tfmorris	mvw	bobtarling	thn
+org.argouml.cognitive.ui.WizDescription:	linus	jhraigniac	bobtarling	kataka	mkl	mvw	tfmorris
+org.argouml.profile.ReaderModelLoader:	euluis	tfmorris	bobtarling	linus
+org.argouml.util.UIUtils:	andrea_nironi	linus
+org.argouml.uml.diagram.ui.ModeCreateGeneralization:	bobtarling	linus
+org.argouml.profile.StreamModelLoader:	maurelio1234	tfmorris	euluis	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.ui.StatusBarAdapter:	tfmorris	linus
+org.argouml.taskmgmt.ProgressMonitor:	tfmorris	mvw	linus
+org.argouml.sequence2.diagram.FigMessageSpline:	penyaskito	bszanto	bobtarling	linus
+org.argouml.model.StateMachinesHelper:	linus	mvw	rastaman	tfmorris
+org.argouml.model.euml.CoreFactoryEUMLImpl:	tfmorris	thn	bobtarling	linus
+org.argouml.cognitive.ui.GoListToPosterToItem:	linus	alexb	mvw	mkl	bobtarling	tfmorris
+org.argouml.uml.ui.ActionRevertToSaved:	jjones	jhraigniac	linus	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.use_cases.ActionNewUseCaseExtensionPoint:	kataka	mkl	linus	bobtarling	mvw
+org.argouml.sequence2.diagram.FigDestroy:	penyaskito	bobtarling	tfmorris	linus	mvw
+org.argouml.uml.generator.AbstractSection:	thn	kataka	linus	bobtarling	mkl	mvw	penyaskito	tfmorris
+org.argouml.uml.diagram.deployment.ui.DeploymentDiagramPropPanelFactory:	mvw	linus
+org.argouml.uml.cognitive.critics.ClClassName:	linus	alexb	mvw	mkl	bobtarling
+org.argouml.ui.GUIProjectSettingsTabInterface:	mvw	linus
+org.argouml.uml.ui.UMLTimeExpressionModel:	mkl
+org.argouml.core.propertypanels.ui.NavigatePreviousAction:	bobtarling
+org.argouml.persistence.TodoParser:	bobtarling	tfmorris
+org.argouml.persistence.SaveException:	bobtarling	tfmorris
+org.argouml.uml.diagram.ui.ArgoFigUtil:	tfmorris	mvw	linus
+org.argouml.ui.explorer.rules.GoLinkToStimuli:	linus	tfmorris
+org.argouml.uml.diagram.ui.SelectionEdgeClarifiers:	linus	jhraigniac	mkl	tfmorris	bobtarling	dthompson
+org.argouml.uml.ActionAddStereotype:	bobtarling	mvw	rastaman	tfmorris	thn
+org.argouml.activity2.diagram.FigNamedConcavePentagon:	bobtarling
+org.argouml.uml.cognitive.critics.CrUtilityViolated:	kataka	mkl	linus	mvw	tfmorris	maurelio1234
+org.argouml.uml.diagram.deployment.ui.SelectionComponentInstance:	thierrylach	kataka	mkl	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.ui.DnDJGraph:	mvw	bobtarling	tfmorris	andrea_nironi	euluis	bszanto
+org.argouml.core.propertypanels.ui.UMLValueSpecificationValueField:	thn
+org.argouml.core.propertypanels.model.IconIdentifiable:	bobtarling
+org.argouml.uml.diagram.deployment.DeploymentDiagramGraphModel:	thierrylach	kataka	linus	mkl	bobtarling	alexb	mvw	tfmorris
+org.argouml.core.propertypanels.ui.AbstractActionAddModelElement:	bobtarling
+org.argouml.persistence.XmlInputStream:	bobtarling	linus	mvw	thn	tfmorris	euluis
+org.argouml.kernel.UndoManager:	bobtarling	tfmorris	linus
+org.argouml.model.ChangeableKind:	linus	tfmorris
+org.argouml.ui.ZoomSliderButton:	jjones	jhraigniac	linus	d00mst	mvw	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoProjectToRoots:	tfmorris	linus
+org.argouml.notation.NotationName:	mvw
+org.argouml.uml.diagram.ui.ActionVisibilityPrivate:	mvw	linus	tfmorris	bobtarling
+org.argouml.model.DummyModelMemento:	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.use_cases.UMLExtensionPointLocationDocument:	kataka	linus	bobtarling	mvw
+org.argouml.cognitive.ui.ToDoByPoster:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	bobtarling	tfmorris
+org.argouml.configuration.ConfigurationHandler:	linus	kataka	thierrylach	alexb	mvw	mkl	rastaman	tfmorris
+org.argouml.uml.ui.UMLStereotypeListModel:	bobtarling
+org.argouml.uml.ui.foundation.core.UMLDiscriminatorNameDocument:	mkl	mvw	linus
+org.argouml.uml.diagram.state.ui.FigSubmachineState:	mvw	bobtarling	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLObjectFlowStateParameterListModel:	penyaskito	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLAssociationEndSpecificationListModel:	bobtarling	linus
+org.argouml.sequence2.diagram.SelectionMessage:	penyaskito	bobtarling	linus	mvw
+org.argouml.notation.InitNotation:	mvw	tfmorris	linus
+org.argouml.taskmgmt.ProgressEvent:	bobtarling	mvw
+org.argouml.ui.cmd.ActionHelp:	andreas	linus
+org.argouml.uml.diagram.ui.ActionSetMode:	jjones	kataka	linus	bobtarling	tfmorris	mvw
+org.argouml.model.euml.AggregationKindEUMLImpl:	tfmorris	linus
+org.argouml.uml.cognitive.critics.CrForkOutgoingTransition:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.ui.SwingWorker:	mvw	tfmorris	linus
+org.argouml.profile.internal.ui.PropPanelCritic:	maurelio1234	tfmorris	linus	bobtarling
+org.argouml.cognitive.Decision:	jhraigniac	linus	mkl	tfmorris
+org.argouml.cognitive.ui.ActionOpenDecisions:	mvw	linus	tfmorris
+org.argouml.ui.CheckboxTableModel:	thn	tfmorris
+org.argouml.core.propertypanels.ui.UMLClassifierCreateActionListModel:	bobtarling	linus
+org.argouml.ui.StylePanelFig:	jeremybennett	linus	kataka	jjones	thierrylach	jhraigniac	bobtarling	mkl	mvw	tfmorris	thn
+org.argouml.core.propertypanels.ui.OldScrollList:	bobtarling	linus
+org.argouml.uml.ui.ActionActivityDiagram:	thierrylach	kataka	mkl	bobtarling	thn	jhraigniac	linus	mvw	tfmorris
+org.argouml.cognitive.Designer:	linus	kataka	d00mst	alexb	mkl	bobtarling	thierrylach	jhraigniac	mvw	tfmorris	andrea_nironi	penyaskito
+org.argouml.uml.diagram.ui.FigSingleLineText:	bobtarling	linus	mvw	tfmorris
+org.argouml.uml.diagram.ui.PathItemPlacement:	tfmorris	dthompson	bobtarling	mvw	linus
+org.argouml.application.api.ArgoEventListener:	kataka	linus	thierrylach	mkl
+org.argouml.uml.cognitive.critics.WizMEName:	jhraigniac	kataka	linus	thierrylach	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrInstanceWithoutClassifier:	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.uml.diagram.activity.ui.ActionCreatePartition:	bobtarling	tfmorris	mvw	linus
+org.argouml.persistence.ToDoItemXMLHelper:	bobtarling	tfmorris
+org.argouml.uml.ui.ActionImportFromSources:	thierrylach	kataka	mkl	linus	lepekhine	jhraigniac	bobtarling	mvw	thn	tfmorris
+org.argouml.uml.ui.ActionOpenProject:	thierrylach	kataka	mkl	linus	jhraigniac	d00mst	alexb	jjones	bobtarling	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelToBaseElements:	alexb	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.persistence.ZipFilePersister:	bobtarling	rastaman	mvw	tfmorris	euluis
+org.argouml.application.helpers.ApplicationVersion:	mvw	linus
+org.argouml.uml.diagram.activity.ActivityDiagramGraphModel:	kataka	mkl	linus	bobtarling
+org.argouml.notation.providers.uml.MultiplicityNotationUml:	mvw	tfmorris	linus
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramNoteEdge:	mvw	linus
+org.argouml.core.propertypanels.ui.UMLClassifierPowertypeRangeListModel:	bobtarling	linus
+org.argouml.model.XmiWriter:	bobtarling	tfmorris
+org.argouml.model.euml.EUMLModelImplementation:	tfmorris	thn	linus	bobtarling
+org.argouml.cognitive.ui.GoListToDecisionsToItems:	linus	alexb	mvw	mkl	tfmorris
+org.argouml.uml.reveng.ImportSettingsInternal:	tfmorris	linus
+org.argouml.uml.diagram.static_structure.ui.FigSubsystem:	mkl	linus	bobtarling	thierrylach	mvw	tfmorris
+org.argouml.ui.StylePanelFigNodeModelElement:	mkl	mvw	linus	bobtarling	tfmorris
+org.argouml.uml.GenDescendantClasses:	mkl	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoStateToInternalTrans:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.util.namespace.Namespace:	mkl
+org.argouml.core.propertypanels.ui.UMLAssociationEndAssociationListModel:	bobtarling	linus
+org.argouml.profile.init.InitProfileSubsystem:	euluis	tfmorris	mvw	maurelio1234	linus
+org.argouml.core.propertypanels.ui.UMLComboBoxNavigator:	bobtarling
+org.argouml.notation.ui.SettingsTabNotation:	mvw	linus	tfmorris	thn	penyaskito	euluis
+org.argouml.uml.ui.ActionGenerateProjectCode:	thn	kataka	jhraigniac	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.state.ui.FigDeepHistoryState:	kataka	mkl	linus	bobtarling	mvw	tfmorris
+org.argouml.profile.internal.ocl.EvaluateInvariant:	maurelio1234	tfmorris	linus
+org.argouml.uml.reveng.ConfigPanelExtension:	tfmorris	thn	mvw	linus
+org.argouml.uml.diagram.collaboration.ui.PropPanelUMLCollaborationDiagram:	kataka	linus	jhraigniac	mvw
+org.argouml.uml.generator.CodeGenerator:	mvw	tfmorris
+org.argouml.uml.diagram.layout.LayoutedNode:	mkl	linus
+org.argouml.uml.ui.foundation.core.UMLAssociationEndNavigableCheckBox:	kataka	linus	bobtarling	jhraigniac	mvw
+org.argouml.kernel.Project:	tfmorris	mvw	bobtarling	euluis	thn	linus
+org.argouml.model.ModelMemento:	bobtarling
+org.argouml.uml.generator.ui.ClassGenerationDialog:	linus	kataka	jhraigniac	thn	thierrylach	jjones	alexb	mvw	bobtarling	mkl	tfmorris	penyaskito
+org.argouml.ui.cmd.ActionAboutArgoUML:	mvw	tfmorris
+org.argouml.cognitive.ui.ToDoByDecision:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	d00mst	mkl	tfmorris	bobtarling
+org.argouml.uml.cognitive.critics.ChildGenUML:	kataka	mkl	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLMessageInteractionListModel:	bobtarling	linus
+org.argouml.cognitive.ui.WizStepChoice:	linus	alexb	mkl	mvw	andrea_nironi	tfmorris
+org.argouml.util.PredicateEquals:	tfmorris	linus
+org.argouml.uml.ui.AbstractActionNewModelElement:	kataka	jhraigniac	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.notation.providers.java.AssociationNameNotationJava:	mvw	tfmorris	linus
+org.argouml.model.UUIDManager:	linus
+org.argouml.uml.ui.TabStereotype:	bobtarling	tfmorris	mvw	linus	penyaskito	thn
+org.argouml.core.propertypanels.ui.UMLGeneralizableElementGeneralizationListModel:	bobtarling	linus
+org.argouml.uml.diagram.layout.LayoutHelper:	mkl	linus	jhraigniac
+org.argouml.uml.diagram.ui.FigEnumLiteralsCompartment:	tfmorris	mvw	bobtarling	thn
+org.argouml.core.propertypanels.ui.UMLMessageActivatorComboBox:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.collaboration.CollabDiagramGraphModel:	thierrylach	linus	kataka	mkl	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.ui.TabModelTarget:	alexb	linus	mvw
+org.argouml.ocl.CriticOclEvaluator:	bobtarling	linus	tfmorris
+org.argouml.model.euml.ExtensionMechanismsFactoryEUMLImpl:	tfmorris	thn	linus	bobtarling
+org.argouml.core.propertypanels.ui.UMLTemplateParameterParameterComboBoxModel:	bobtarling	linus
+org.argouml.application.Main:	linus	thierrylach	jhraigniac	mkl	kataka	thn	d00mst	bobtarling	alexb	mvw	tfmorris	euluis	penyaskito	dthompson	andreas
+org.argouml.notation.NotationProviderFactory2:	mvw	tfmorris	bobtarling	linus
+org.argouml.uml.ui.SourcePathTableModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLDocument:	bobtarling	linus
+org.argouml.configuration.Configuration:	linus	kataka	thierrylach	bobtarling	mvw	rastaman	tfmorris
+org.argouml.ui.explorer.ExplorerTree:	alexb	d00mst	jhraigniac	mvw	linus	kataka	mkl	bobtarling	tfmorris	thn
+org.argouml.cognitive.ui.TabToDo:	bobtarling	jhraigniac	kataka	alexb	linus	d00mst	mvw	mkl	andrea_nironi	tfmorris
+org.argouml.core.propertypanels.ui.UMLIncludeListModel:	bobtarling	linus
+org.argouml.moduleloader.InitModuleLoader:	mvw	tfmorris	linus
+org.argouml.uml.cognitive.critics.WizAddInstanceVariable:	d00mst	linus	mkl	bobtarling	tfmorris	mvw
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramEdge:	mkl	linus	jhraigniac	mvw	tfmorris
+org.argouml.util.osdep.OsUtil:	bobtarling	tfmorris
+org.argouml.uml.diagram.use_case.UseCaseDiagramGraphModel:	jeremybennett	linus	kataka	mkl	bobtarling	thierrylach	alexb	jhraigniac	mvw	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionSetActionAsynchronous:	mkl	mvw	tfmorris	bobtarling
+org.argouml.uml.ui.behavior.common_behavior.ActionAddInstanceClassifier:	mkl	linus	mvw	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLMetaClassComboBoxModel:	bobtarling	linus
+org.argouml.uml.diagram.ui.FigEdgePort:	bobtarling	tfmorris	mvw
+org.argouml.uml.cognitive.critics.CrInterfaceAllPublic:	linus	bobtarling	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.model.mdr.UndoDataTypesHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLAssociationRoleAssociationEndRoleListModel:	bobtarling	linus
+org.argouml.uml.ui.ActionNavigateAssociation:	mkl	linus
+org.argouml.uml.ui.ActionSetSourcePath:	thn	kataka	jhraigniac	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.model.CopyHelper:	mvw	tfmorris
+org.argouml.util.CustomSeparator:	d00mst	linus	mvw
+org.argouml.uml.diagram.ExtensionPointsCompartmentContainer:	mvw
+org.argouml.uml.ui.behavior.use_cases.ActionAddExtendExtensionPoint:	kataka	mkl	linus	bobtarling	jhraigniac	tfmorris
+org.argouml.uml.cognitive.critics.CrCrossNamespaceAssoc:	linus	kataka	alexb	d00mst	mvw	mkl	maurelio1234
+org.argouml.uml.diagram.ui.FigOperationsCompartment:	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementRoot:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.uml.cognitive.critics.CrMultipleAgg:	linus	bobtarling	alexb	mkl	mvw	d00mst	maurelio1234
+org.argouml.core.propertypanels.ui.UMLLinkAssociationComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.uml.diagram.ui.FigEdgeAssociationClass:	bobtarling	tfmorris	mvw
+org.argouml.uml.diagram.state.ui.FigJunctionState:	mvw	bobtarling	tfmorris
+org.argouml.uml.diagram.ui.ActionAddNote:	alexb	mkl	jhraigniac	jjones	linus	mvw	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoStereotypeToTagDefinition:	rastaman	tfmorris
+org.argouml.uml.diagram.ui.FigAssociation:	bobtarling	kataka	mkl	d00mst	alexb	linus	jjones	jhraigniac	mvw	rastaman	tfmorris	penyaskito	dthompson	thn
+org.argouml.application.api.Argo:	bobtarling	thierrylach	kataka	linus	jhraigniac	jjones	alexb	mvw	lepekhine	tfmorris	thn
+org.argouml.model.AbstractUmlHelperDecorator:	linus	tfmorris	bobtarling
+org.argouml.uml.diagram.static_structure.ui.FigOperation:	bobtarling	mvw	tfmorris	linus
+org.argouml.model.euml.CommandStackImpl:	tfmorris	linus
+org.argouml.ocl.OCLExpander:	linus	bobtarling
+org.argouml.notation.providers.ComponentInstanceNotation:	mvw
+org.argouml.uml.diagram.activity.ui.FigSubactivityState:	mvw	linus	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLValueSpecificationModel:	thn
+org.argouml.uml.ui.UMLCheckBox2:	kataka	linus	bobtarling	d00mst	mvw	mkl	tfmorris
+org.argouml.uml.diagram.layout.LayoutedObject:	linus
+org.argouml.uml.diagram.ui.PathConvPercent2:	mkl	linus
+org.argouml.util.Predicate:	tfmorris	linus
+org.argouml.uml.ui.ActionDeploymentDiagram:	kataka	mkl	bobtarling	thn	linus	alexb	jhraigniac	mvw	tfmorris
+org.argouml.core.propertypanels.model.PanelData:	bobtarling
+org.argouml.uml.ui.behavior.use_cases.ActionNewExtensionPoint:	mvw
+org.argouml.application.helpers.ResourceLoaderWrapper:	kataka	mkl	linus	alexb	thierrylach	mvw	bobtarling	rastaman	tfmorris	andrea_nironi	lepekhine	thn
+org.argouml.profile.internal.ocl.LambdaEvaluator:	maurelio1234	tfmorris	linus
+org.argouml.uml.ui.ActionNavigateNamespace:	mkl	linus	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementLeaf:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.uml.ui.UMLScriptExpressionModel:	mkl	mvw	linus
+org.argouml.cognitive.critics.WizardItem:	mkl	mvw
+org.argouml.uml.diagram.ui.FigPermission:	mkl	linus	alexb	bobtarling	tfmorris	mvw
+org.argouml.model.ClassDiagram:	bobtarling
+org.argouml.model.AttributeChangeEvent:	bobtarling
+org.argouml.uml.cognitive.critics.CrComponentInstanceWithoutClassifier:	linus	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.diagram.ui.FigNodeAssociation:	bobtarling	linus	tfmorris	mvw	mkl
+org.argouml.ui.explorer.rules.GoNamespaceToOwnedElements:	alexb	kataka	d00mst	linus	mvw	tfmorris	thn
+org.argouml.model.mdr.UndoCollaborationsHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoClassifierToCollaboration:	alexb	kataka	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLGeneralizationPowertypeComboBoxModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrComponentWithoutNode:	linus	alexb	mkl	bobtarling	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrSubclassReference:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLTextArea:	bobtarling	linus
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramNote:	mvw	linus	tfmorris
+org.argouml.model.AggregationKind:	linus
+org.argouml.uml.reveng.SettingsTypes:	tfmorris	linus
+org.argouml.uml.diagram.ui.ActionAddMessage:	alexb	mvw	linus	bobtarling
+org.argouml.uml.diagram.ui.UMLDiagram:	kataka	alexb	bobtarling	linus	jjones	thierrylach	jhraigniac	d00mst	mvw	mkl	tfmorris	euluis
+org.argouml.uml.diagram.ui.ActionAggregation:	alexb	jhraigniac	mkl	mvw	linus	tfmorris	bobtarling
+org.argouml.model.mdr.MessageSortMDRImpl:	bobtarling
+org.argouml.persistence.XmiExtensionParser:	bobtarling
+org.argouml.model.ExtensionMechanismsFactory:	linus	bobtarling	mvw	rastaman	tfmorris
+org.argouml.ui.explorer.rules.GoModelToElements:	alexb	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.model.mdr.CoreFactoryMDRImpl:	tfmorris	mvw	bobtarling	thn
+org.argouml.uml.diagram.static_structure.ui.FigEnumeration:	tfmorris	mvw	bobtarling	thn
+org.argouml.state2.diagram.StateDiagramGraphModel:	bobtarling
+org.argouml.core.propertypanels.ui.UMLModelElementElementResidenceListModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrTooManyAttr:	linus	bobtarling	alexb	jhraigniac	mkl	mvw	maurelio1234
+org.argouml.core.propertypanels.ui.ScrollListFactory:	bobtarling	linus
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementAbstractCheckBox:	kataka	linus	bobtarling	jhraigniac	mvw	mkl	tfmorris	penyaskito
+org.argouml.uml.cognitive.critics.CrNoIncomingTransitions:	mkl	linus	bobtarling	alexb	mvw	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLConstraintConstrainedElementListModel:	bobtarling	linus
+org.argouml.model.mdr.ModelManagementFactoryMDRImpl:	tfmorris	mvw	thn
+org.argouml.uml.cognitive.critics.CrTooManyAssoc:	linus	bobtarling	alexb	mkl	mvw	maurelio1234
+org.argouml.persistence.ZargoFilePersister:	bobtarling	linus	mvw	tfmorris	euluis	thn
+org.argouml.profile.internal.ocl.uml14.ModelAccessModelInterpreter:	maurelio1234	tfmorris	bobtarling	euluis	mvw	linus	thn
+org.argouml.uml.diagram.activity.ui.InitActivityDiagram:	mvw	linus
+org.argouml.uml.cognitive.critics.CrNodeInsideElement:	linus	alexb	mkl	bobtarling	mvw	tfmorris
+org.argouml.ui.ArgoStatusBar:	tfmorris	linus
+org.argouml.model.XmiReferenceRuntimeException:	tfmorris	euluis	linus
+org.argouml.profile.internal.ocl.OclExpressionEvaluator:	maurelio1234	tfmorris	linus
+org.argouml.ui.targetmanager.TargetListener:	kataka
+org.argouml.uml.diagram.state.PredIsStartState:	linus	bobtarling	alexb
+org.argouml.cognitive.ui.WizStepManyTextFields:	linus	alexb	mkl	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementRootCheckBox:	kataka	linus	bobtarling	jhraigniac	mvw	mkl	tfmorris
+org.argouml.core.propertypanels.ui.LabelledLayout:	bobtarling	linus
+org.argouml.cognitive.critics.ui.TableModelCritics:	mvw	linus
+org.argouml.uml.cognitive.critics.CrUselessAbstract:	linus	bobtarling	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.ui.behavior.state_machines.ActionNewTransition:	kataka	linus	mvw
+org.argouml.uml.diagram.static_structure.ui.FigSignal:	tfmorris	mvw	bobtarling	linus
+org.argouml.model.DiDiagram:	bobtarling
+org.argouml.util.IteratorEnumeration:	tfmorris	linus
+org.argouml.activity2.diagram.BaseDiagram:	bobtarling
+org.argouml.core.propertypanels.ui.UMLSignalComboBoxModel:	bobtarling
+org.argouml.uml.ui.behavior.state_machines.UMLSynchStateBoundDocument:	mvw	linus	tfmorris
+org.argouml.ui.MultiEditorPane:	kataka	bobtarling	linus	alexb	thierrylach	d00mst	jhraigniac	mvw	tfmorris	dthompson
+org.argouml.notation.providers.StateBodyNotation:	mvw
+org.argouml.uml.diagram.ui.ModeLabelDragFactory:	dthompson	linus
+org.argouml.uml.diagram.DiagramEdgeSettings:	bobtarling	linus
+org.argouml.uml.diagram.state.ui.ButtonActionNewChangeEvent:	mvw
+org.argouml.configuration.ConfigurationKeyImpl:	linus	thierrylach	mvw	mkl
+org.argouml.uml.ui.AbstractActionRemoveElement:	kataka	linus	mvw	tfmorris	bobtarling
+org.argouml.uml.diagram.use_case.ui.SelectionActor:	thierrylach	kataka	linus	alexb	mvw	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrOperNameConflict:	linus	kataka	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.diagram.state.ui.ButtonActionNewEffect:	mvw	tfmorris	bobtarling
+org.argouml.ui.cmd.InitUiCmdSubsystem:	mvw	tfmorris	linus
+org.argouml.uml.cognitive.critics.CrZeroLengthEdge:	mkl	mvw	tfmorris
+org.argouml.util.ThreadUtils:	mvw	linus
+org.argouml.ui.explorer.rules.GoModelToCollaboration:	alexb	kataka	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.uml.ui.foundation.extension_mechanisms.UMLStereotypeTagDefinitionListModel:	mvw	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLModelElementClientDependencyListModel:	bobtarling	linus
+org.argouml.uml.diagram.static_structure.ui.FigComment:	kataka	linus	bobtarling	thierrylach	alexb	mvw	mkl	tfmorris
+org.argouml.cognitive.checklist.ChecklistStatus:	linus	alexb	tfmorris
+org.argouml.ui.TransferableModelElements:	mvw
+org.argouml.uml.diagram.collaboration.ui.InitCollaborationDiagram:	mvw	linus
+org.argouml.notation.providers.uml.StateBodyNotationUml:	mvw	tfmorris
+org.argouml.application.StartCritics:	mkl	linus	alexb	thierrylach	jhraigniac	mvw	tfmorris	thn
+org.argouml.uml.diagram.ui.ActionNavigability:	alexb	jhraigniac	mvw	mkl	linus	bobtarling
+org.argouml.util.IItemUID:	tfmorris	linus
+org.argouml.uml.diagram.layout.LayoutedContainer:	linus
+org.argouml.uml.cognitive.critics.CrEmptyPackage:	kataka	mkl	linus	alexb	thierrylach	jhraigniac	mvw	tfmorris	maurelio1234
+org.argouml.persistence.DiagramMemberFilePersister:	bobtarling	mkl	tfmorris
+org.argouml.cognitive.ui.ActionSnooze:	mvw	tfmorris
+org.argouml.pattern.cognitive.critics.InitPatternCritics:	mvw	tfmorris	linus
+org.argouml.uml.generator.Language:	mvw	tfmorris	penyaskito
+org.argouml.transformer.TransformerManager:	bobtarling	mvw
+org.argouml.cognitive.critics.ui.TableCritics:	mvw	penyaskito	linus
+org.argouml.model.AbstractCollaborationsHelperDecorator:	linus	mvw	tfmorris	bobtarling
+org.argouml.uml.ui.foundation.core.ActionSetChangeability:	alexb	d00mst	mvw	linus	tfmorris	bobtarling
+org.argouml.sequence2.diagram.ActionSetOperation:	thn	linus
+org.argouml.application.events.ArgoEventPump:	mkl	kataka	linus	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoSummaryToIncomingDependency:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.uml.diagram.deployment.ui.PropPanelUMLDeploymentDiagram:	kataka	linus	jhraigniac	mvw
+org.argouml.activity2.diagram.CreateDiagramElementAction:	bobtarling
+org.argouml.core.propertypanels.ui.UMLReceptionSpecificationDocument:	bobtarling
+org.argouml.uml.diagram.static_structure.ui.FigEnumerationLiteral:	mvw	tfmorris	linus
+org.argouml.ui.explorer.rules.GoSummaryToInheritance:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.application.events.ArgoProfileEventListener:	mvw	linus
+org.argouml.uml.ui.behavior.state_machines.ActionAddSignalsToSignalEvent:	mkl	tfmorris	mvw
+org.argouml.notation.providers.uml.AssociationRoleNotationUml:	mvw	tfmorris
+org.argouml.uml.diagram.ui.ActionAddConcurrentRegion:	mvw	linus	tfmorris	bobtarling
+org.argouml.uml.cognitive.critics.WizAssocComposite:	kataka	bobtarling	linus	alexb	thierrylach	mkl	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoComponentToResidentModelElement:	mvw	tfmorris
+org.argouml.sequence2.diagram.SequenceDiagramGraphModel:	penyaskito	tfmorris	mvw	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLStateVertexOutgoingListModel:	bobtarling	linus
+org.argouml.model.euml.ScopeKindEUMLImpl:	tfmorris	linus
+org.argouml.uml.diagram.ui.AddExistingNodeCommand:	bobtarling	mvw	tfmorris	euluis
+org.argouml.model.mdr.MDRModelImplementation:	tfmorris	linus	bobtarling	euluis
+org.argouml.uml.util.PathComparator:	tfmorris	linus
+org.argouml.ui.explorer.rules.IncomingDependencyNode:	alexb	d00mst	linus
+org.argouml.application.events.ArgoDiagramAppearanceEvent:	mvw	linus
+org.argouml.profile.internal.ocl.uml14.HashBag:	maurelio1234	tfmorris	linus
+org.argouml.profile.internal.ocl.InvalidOclException:	maurelio1234	tfmorris	linus
+org.argouml.model.mdr.CollaborationsFactoryMDRImpl:	tfmorris	bobtarling
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementLeafCheckBox:	kataka	linus	bobtarling	jhraigniac	mvw	mkl	tfmorris	penyaskito
+org.argouml.profile.UserDefinedProfileHelper:	thn	linus
+org.argouml.notation.providers.MessageNotation:	mvw	bobtarling
+org.argouml.uml.diagram.state.ui.FigSimpleState:	kataka	linus	thierrylach	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.model.euml.ModelManagementHelperEUMLImpl:	tfmorris	linus	thn
+org.argouml.gefext.ArgoFigSpline:	mvw	penyaskito	linus
+org.argouml.uml.ui.TabConstraints:	jhraigniac	thierrylach	kataka	sz9	bobtarling	alexb	linus	d00mst	mvw	tfmorris
+org.argouml.model.mdr.XmiReaderImpl:	tfmorris	bobtarling	linus	euluis	thn
+org.argouml.cognitive.Offender:	mkl	thn
+org.argouml.uml.diagram.state.ui.FigStubState:	mvw	bobtarling	linus	tfmorris
+org.argouml.uml.ui.behavior.state_machines.ActionNewPseudoState:	kataka	linus	jhraigniac	mvw
+org.argouml.uml.diagram.static_structure.ui.SelectionComment:	mvw	bobtarling	linus	tfmorris
+org.argouml.uml.cognitive.critics.CrNavFromInterface:	linus	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.cognitive.ui.ToDoByType:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	tfmorris	bobtarling
+org.argouml.ui.explorer.rules.GoBehavioralFeatureToStateMachine:	alexb	kataka	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.uml.diagram.ui.ModeCreateUsage:	bobtarling	linus
+org.argouml.model.DataTypesHelper:	linus	mvw	tfmorris
+org.argouml.uml.ui.behavior.activity_graphs.ActionSetSynch:	tfmorris	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLStructuralFeatureTypeComboBoxModel:	bobtarling	linus	thn
+org.argouml.notation.providers.java.AssociationEndNameNotationJava:	mvw	bobtarling	tfmorris
+org.argouml.model.mdr.XmiReference:	tfmorris
+org.argouml.cognitive.ControlMech:	mkl	linus	alexb	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrClassWithoutComponent:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLUseCaseIncludeListModel:	bobtarling	linus
+org.argouml.uml.ui.ActionStateDiagram:	thierrylach	kataka	mkl	bobtarling	thn	jhraigniac	linus	mvw	d00mst	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.ActionNewArgument:	mkl	tfmorris
+org.argouml.uml.diagram.collaboration.ui.SelectionClassifierRole:	mkl	linus	thierrylach	alexb	mvw	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.ExpressionBodyField:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLCreateActionClassifierListModel:	bobtarling	linus
+org.argouml.ui.ProjectSettingsTabProperties:	mvw
+org.argouml.uml.ui.ActionLayout:	jhraigniac	kataka	linus	bobtarling	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoProjectToProfileConfiguration:	maurelio1234	tfmorris	linus
+org.argouml.uml.cognitive.critics.CrInvalidJoin:	mkl	linus	alexb	mvw	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLAssociationConnectionListModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrNodeInstanceWithoutClassifier:	linus	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.moduleloader.SettingsTabModules:	linus	mvw	bobtarling	tfmorris
+org.argouml.gefext.ArgoModeCreateFigCircle:	mvw	linus
+org.argouml.uml.ui.ActionNavigateContainerElement:	mkl	linus
+org.argouml.uml.reveng.Import:	thierrylach	linus	kataka	thn	alexb	lepekhine	jhraigniac	mkl	mvw	d00mst	bobtarling	tfmorris	andrea_nironi	penyaskito
+org.argouml.ui.explorer.rules.GoClassToNavigableClass:	alexb	kataka	d00mst	mvw	linus	tfmorris
+org.argouml.model.mdr.UndoCoreHelperDecorator:	linus	bobtarling	mvw	tfmorris	thn
+org.argouml.configuration.ConfigurationKey:	linus	thierrylach	mkl	mvw
+org.argouml.uml.ui.UMLUserInterfaceComponent:	linus	jhraigniac	mvw	bobtarling
+org.argouml.model.mdr.DataTypesHelperMDRImpl:	tfmorris	mvw	linus
+org.argouml.cognitive.ToDoListListener:	linus	tfmorris
+org.argouml.sequence2.diagram.SequenceDiagramRenderer:	penyaskito	euluis	bszanto	tfmorris	bobtarling	linus
+org.argouml.profile.URLModelLoader:	tfmorris	euluis	bobtarling	maurelio1234	thn	linus
+org.argouml.uml.cognitive.critics.CrUnconventionalClassName:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLTemplateParameterParameterListModel:	bobtarling	linus
+org.argouml.uml.diagram.ui.PropPanelString:	kataka	alexb	linus	mvw	tfmorris
+org.argouml.model.euml.UMLUtil:	tfmorris	linus	thn
+org.argouml.uml.cognitive.critics.CrInvalidForkTriggerOrGuard:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.ui.SettingsTabLayout:	bobtarling	jjones	linus	mvw
+org.argouml.uml.diagram.use_case.ui.UseCaseDiagramRenderer:	jeremybennett	kataka	linus	bobtarling	thierrylach	mkl	tfmorris	mvw	euluis
+org.argouml.core.propertypanels.ui.Expandable:	bobtarling
+org.argouml.uml.diagram.ui.RadioAction:	bobtarling	linus	jjones	d00mst	mvw	tfmorris
+org.argouml.ui.ArgoJMenu:	linus	alexb	jjones	jhraigniac	mvw
+org.argouml.uml.ui.UMLComboBoxNavigator:	kataka	linus	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.ClassDiagramGraphModel:	thierrylach	kataka	linus	mkl	alexb	bobtarling	d00mst	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelElementToContents:	mvw	tfmorris
+org.argouml.persistence.TodoTokenTable:	bobtarling	tfmorris
+org.argouml.structure2.StructureDiagram2Module:	bobtarling	linus
+org.argouml.profile.init.ProfileLoader:	maurelio1234	tfmorris	linus	euluis
+org.argouml.uml.cognitive.critics.CrTooManyTransitions:	linus	bobtarling	alexb	mkl	mvw	maurelio1234
+org.argouml.profile.internal.ocl.uml14.Bag:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.ui.ActionSaveDiagramToClipboard:	alexb	linus	mvw	mkl	tfmorris
+org.argouml.ui.targetmanager.TargetManager:	kataka	linus	thierrylach	d00mst	bobtarling	mkl	mvw	tfmorris	andrea_nironi
+org.argouml.uml.ui.UMLStereotypeList:	kataka	linus	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.ProjectMemberModel:	thierrylach	d00mst	kataka	linus	alexb	bobtarling	mvw	thn
+org.argouml.profile.internal.DependencyChecker:	euluis
+org.argouml.core.propertypanels.ui.UMLMutableLinkedList:	bobtarling	linus
+org.argouml.uml.cognitive.critics.UMLWizard:	mkl	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.DiagramFactoryInterface:	bobtarling	tfmorris	linus
+org.argouml.notation.providers.uml.ObjectNotationUml:	mvw	tfmorris	penyaskito
+org.argouml.notation.providers.CallStateNotation:	mvw
+org.argouml.uml.cognitive.critics.CrUselessInterface:	linus	kataka	alexb	mvw	mkl	maurelio1234
+org.argouml.uml.ui.behavior.common_behavior.ActionNewReception:	kataka	mvw	linus	mkl	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrUnconventionalAttrName:	kataka	mkl	linus	bobtarling	alexb	mvw	d00mst	rastaman	tfmorris	maurelio1234
+org.argouml.ui.explorer.rules.GoCollaborationToDiagram:	linus	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelToDiagrams:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.uml.ui.behavior.use_cases.ActionNewActor:	mvw	bobtarling	linus	mkl
+org.argouml.core.propertypanels.ui.UMLSynchStateBoundDocument:	bobtarling	linus
+org.argouml.uml.diagram.state.StateDiagramGraphModel:	thierrylach	linus	kataka	mkl	alexb	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.TabStyle:	jeremybennett	thn	kataka	mkl	alexb	jhraigniac	linus	d00mst	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetBehavioralFeatureQuery:	mkl	mvw	linus	bobtarling
+org.argouml.ui.explorer.rules.GoProjectToDiagram:	alexb	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.uml.ui.UMLExpressionExpressionModel:	mvw	linus	mkl
+org.argouml.ui.explorer.rules.GoNamespaceToDiagram:	alexb	kataka	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.profile.CoreProfileReference:	euluis	tfmorris	thn	linus
+org.argouml.uml.diagram.ui.ActionSetAddAssociationClassMode:	bobtarling	tfmorris	mvw
+org.argouml.ui.explorer.rules.GoSubmachineStateToStateMachine:	mkl	tfmorris
+org.argouml.uml.cognitive.critics.CrNameConfusion:	linus	kataka	bobtarling	alexb	mkl	d00mst	mvw	andrea_nironi	tfmorris	maurelio1234
+org.argouml.uml.ui.foundation.core.UMLClassActiveCheckBox:	mkl	linus
+org.argouml.uml.ui.behavior.state_machines.ActionNewFinalState:	kataka	linus	jhraigniac	mvw
+org.argouml.profile.internal.ocl.uml14.OclEnumLiteral:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.ui.FigDependency:	mkl	kataka	alexb	linus	bobtarling	mvw	tfmorris	dthompson
+org.argouml.persistence.XMLTokenTableBase:	bobtarling
+org.argouml.model.IllegalModelElementConnectionException:	linus	bobtarling
+org.argouml.uml.ui.foundation.core.ActionSetAssociationEndOrdering:	kataka	linus	bobtarling	mvw
+org.argouml.activity2.diagram.DiagramElementBuilder:	bobtarling
+org.argouml.uml.ui.behavior.state_machines.ButtonActionNewGuard:	mvw	bobtarling	linus
+org.argouml.ui.ProgressMonitorWindow:	mvw	bobtarling	linus	tfmorris
+org.argouml.uml.ui.UMLDocument:	tfmorris
+org.argouml.model.AssociationChangeEvent:	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrNoInstanceVariables:	linus	kataka	mkl	alexb	bobtarling	thierrylach	d00mst	mvw	tfmorris	maurelio1234
+org.argouml.sequence2.diagram.ModePlaceClassifierRole:	penyaskito	bobtarling	linus
+org.argouml.uml.ui.behavior.common_behavior.ActionNewCallAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.transformer.TransformerAction:	bobtarling	mvw
+org.argouml.core.propertypanels.ui.UMLInitialValueExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.ui.cmd.ActionGotoDiagram:	linus	mvw	tfmorris	bobtarling
+org.argouml.gefext.ArgoFigCircle:	mvw	linus
+org.argouml.notation.SDNotationSettings:	tfmorris	linus
+org.argouml.uml.diagram.ui.StylePanelFigMessage:	kataka	jjones	linus	jhraigniac	bobtarling	mkl	mvw	tfmorris
+org.argouml.sequence2.diagram.ModeCreateMessage:	penyaskito	bobtarling	linus
+org.argouml.uml.ui.TabTaggedValuesModel:	rastaman	tfmorris	mvw	linus	thn
+org.argouml.uml.diagram.ui.FigAssociationEnd:	bobtarling	linus	mvw	tfmorris
+org.argouml.uml.diagram.deployment.ui.AbstractFigComponent:	tfmorris	mvw	linus
+org.argouml.model.DeleteInstanceEvent:	bobtarling
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramNode:	mkl	linus	alexb	mvw	bobtarling	tfmorris
+org.argouml.notation.providers.AssociationRoleNotation:	mvw
+org.argouml.notation.providers.AssociationEndNameNotation:	mvw	bobtarling
+org.argouml.uml.cognitive.critics.CrDisambigClassName:	linus	bobtarling	alexb	jhraigniac	mkl	mvw	d00mst	tfmorris	maurelio1234
+org.argouml.uml.cognitive.critics.CrDupParamName:	kataka	linus	bobtarling	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.cognitive.ProjectMemberTodoList:	mkl	bobtarling	linus	mvw	tfmorris
+org.argouml.ui.TabResults:	kataka	mkl	jjones	linus	bobtarling	thierrylach	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrOppEndConflict:	kataka	linus	alexb	mvw	mkl	maurelio1234
+org.argouml.uml.cognitive.critics.CrMissingStateName:	kataka	linus	bobtarling	mkl	mvw	tfmorris	maurelio1234
+org.argouml.ui.explorer.DnDExplorerTree:	alexb	linus	mvw	tfmorris	bobtarling
+org.argouml.profile.ProfileModelLoader:	maurelio1234	tfmorris	euluis	linus
+org.argouml.core.propertypanels.ui.XMLPropPanelFactory:	penyaskito	bobtarling	linus	tfmorris
+org.argouml.uml.ui.foundation.core.ActionAddOperation:	bobtarling	tfmorris	mvw
+org.argouml.core.propertypanels.ui.UMLIncludeBaseListModel:	bobtarling	linus
+org.argouml.uml.diagram.use_case.ui.FigExtend:	jeremybennett	thierrylach	kataka	alexb	mkl	linus	bobtarling	mvw	tfmorris	dthompson
+org.argouml.ui.cmd.CmdSetPreferredSize:	mkl	linus	alexb	bobtarling	jhraigniac	mvw	tfmorris
+org.argouml.application.ArgoVersion:	linus
+org.argouml.model.UmlFactoryDefaults:	bobtarling
+org.argouml.core.propertypanels.ui.UMLExtensionPointLocationDocument:	bobtarling	linus
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedMissingStaticAttr:	linus	kataka	alexb	mvw	mkl	thn	tfmorris
+org.argouml.uml.diagram.collaboration.ui.UMLCollaborationDiagram:	kataka	linus	bobtarling	mkl	alexb	thierrylach	jjones	jhraigniac	mvw	tfmorris	euluis	bszanto
+org.argouml.cognitive.critics.ui.CriticBrowserDialog:	thn	kataka	jhraigniac	mkl	jjones	linus	alexb	thierrylach	mvw	andrea_nironi	tfmorris
+org.argouml.ui.explorer.rules.GoProfileToCritics:	maurelio1234	mvw	tfmorris
+org.argouml.ui.ActionUndo:	bobtarling	tfmorris	linus
+org.argouml.model.mdr.ActivityGraphsHelperMDRImpl:	tfmorris	mvw	bobtarling
+org.argouml.model.mdr.ExtensionMechanismsHelperMDRImpl:	tfmorris	mvw	thn	bobtarling
+org.argouml.util.ChildGenerator:	tfmorris	linus
+org.argouml.core.propertypanels.ui.EnumerationListModel:	penyaskito	bobtarling	linus
+org.argouml.ui.ActionCreateEdgeModelElement:	bobtarling	linus
+org.argouml.ui.explorer.ActionPerspectiveConfig:	mkl	linus	mvw
+org.argouml.notation.providers.uml.ObjectFlowStateTypeNotationUml:	mvw	tfmorris
+org.argouml.ui.GotoDialog:	mvw	linus	tfmorris
+org.argouml.uml.cognitive.critics.CrWrongLinkEnds:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLActionSequenceActionListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrUML:	linus	jhraigniac	kataka	mkl	alexb	thierrylach	mvw	bobtarling	rastaman	tfmorris	maurelio1234
+org.argouml.util.osdep.OSXAdapter:	tfmorris	linus
+org.argouml.activity2.diagram.UMLActivityDiagram:	bobtarling
+org.argouml.core.propertypanels.ui.UMLClassifierRoleAvailableContentsListModel:	bobtarling	linus
+org.argouml.uml.diagram.state.ui.FigTransition:	kataka	mkl	linus	bobtarling	thierrylach	mvw	rastaman	tfmorris	dthompson
+org.argouml.ui.explorer.rules.GoInteractionToMessages:	linus	tfmorris
+org.argouml.activity2.diagram.FigBasePresentation:	bobtarling
+org.argouml.uml.ui.AbstractActionAddModelElement2:	tfmorris	mvw	bobtarling	linus
+org.argouml.activity2.diagram.ActivityDiagramRenderer:	bobtarling
+org.argouml.uml.diagram.DiagramElement:	bobtarling	linus
+org.argouml.uml.ui.UMLModelElementListModel2:	kataka	linus	bobtarling	d00mst	mvw	mkl	tfmorris
+org.argouml.model.mdr.CommonBehaviorHelperMDRImpl:	tfmorris	mvw
+org.argouml.uml.diagram.DiagramSettings:	tfmorris	mvw	linus
+org.argouml.uml.ui.SourcePathControllerImpl:	bobtarling	linus	tfmorris
+org.argouml.model.AbstractExtensionMechanismsHelperDecorator:	linus	mvw	tfmorris	thn	bobtarling
+org.argouml.uml.diagram.ui.FigSingleLineTextWithNotation:	mvw	tfmorris	linus
+org.argouml.uml.ui.model_management.ActionRemovePackageImport:	mvw
+org.argouml.uml.reveng.DiagramInterface:	kataka	linus	thn	lepekhine	alexb	jhraigniac	bobtarling	mkl	tfmorris	mvw
+org.argouml.uml.ui.PropPanelFactoryManager:	mvw	bobtarling	linus
+org.argouml.ui.explorer.rules.GoStateMachineToTop:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.model.StateMachinesFactory:	linus	mvw	tfmorris
+org.argouml.ui.ProjectActions:	tfmorris	bobtarling	linus
+org.argouml.uml.ui.UMLSearchableComboBox:	kataka	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.pattern.cognitive.critics.CrSingletonViolatedOnlyPrivateConstructors:	linus	kataka	alexb	mvw	mkl	thn	tfmorris
+org.argouml.cognitive.critics.ui.ActionOpenCritics:	mvw	tfmorris
+org.argouml.uml.ui.model_management.ActionAddPackageImport:	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLCollaborationInteractionListModel:	bobtarling	linus
+org.argouml.model.UseCaseDiagram:	bobtarling
+org.argouml.model.ModelCommandCreationObserver:	bobtarling	tfmorris
+org.argouml.uml.diagram.ui.SelectionMoveClarifiers:	linus	jhraigniac	mkl	tfmorris
+org.argouml.model.DiElement:	bobtarling
+org.argouml.model.XmiExtensionWriter:	bobtarling	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLGeneralizableElementSpecializationListModel:	bobtarling	linus
+org.argouml.model.euml.MetaTypesEUMLImpl:	tfmorris	thn	linus	bobtarling
+org.argouml.ui.explorer.rules.OutgoingDependencyNode:	alexb	d00mst	linus
+org.argouml.model.UseCasesHelper:	linus	tfmorris	mvw
+org.argouml.ui.explorer.rules.GoTransitionToSource:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.diagram.ui.FigExtensionPointsCompartment:	mvw	bobtarling	linus
+org.argouml.uml.diagram.ui.FigEmptyRect:	bobtarling	mvw
+org.argouml.sequence2.diagram.ModeBroomMessages:	penyaskito	bobtarling	linus
+org.argouml.persistence.PGMLStackParser:	bobtarling	mvw	linus	tfmorris	penyaskito	thn
+org.argouml.ui.explorer.rules.InheritanceNode:	alexb	d00mst	linus
+org.argouml.cognitive.ui.ToDoByOffender:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	mkl	bobtarling	tfmorris
+org.argouml.cognitive.ui.GoalsDialog:	linus	alexb	jjones	mvw	mkl	thn	tfmorris
+org.argouml.model.CommonBehaviorFactory:	linus	tfmorris	mvw
+org.argouml.transformer.TransformerModule:	bobtarling	mvw
+org.argouml.uml.diagram.ui.ActionCompartmentDisplay:	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.ui.behavior.state_machines.ActionNewTimeEvent:	kataka	mkl	linus	jhraigniac	mvw	bobtarling
+org.argouml.uml.diagram.UmlDiagramRenderer:	bobtarling	linus	mvw	tfmorris	penyaskito
+org.argouml.cognitive.DecisionModel:	linus	mkl	alexb	mvw	tfmorris
+org.argouml.uml.diagram.deployment.ui.SelectionComponent:	thierrylach	kataka	linus	mkl	alexb	bobtarling	mvw	tfmorris
+org.argouml.model.mdr.CoreHelperMDRImpl:	tfmorris	bobtarling	mvw	linus	thn
+org.argouml.cognitive.checklist.Checklist:	kataka	linus	alexb	tfmorris	penyaskito
+org.argouml.core.propertypanels.ui.UMLStateVertexContainerListModel:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoBehavioralFeatureToStateDiagram:	alexb	kataka	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.uml.diagram.use_case.ui.StylePanelFigUseCase:	jeremybennett	jjones	linus	mkl	mvw	bobtarling
+org.argouml.uml.ui.ActionNavigateUpPreviousDown:	mvw	linus	tfmorris
+org.argouml.cognitive.ui.ToDoTreeRenderer:	linus	kataka	bobtarling	alexb	mkl	thn	tfmorris
+org.argouml.core.propertypanels.ui.UMLEditableComboBox:	bobtarling	linus
+org.argouml.cognitive.Critic:	linus	jhraigniac	mkl	kataka	thierrylach	alexb	mvw	bobtarling	andrea_nironi	thn	tfmorris	maurelio1234
+org.argouml.uml.diagram.ui.SelectionRerouteEdge:	alexb	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.ActionNavigateContext:	mkl	linus
+org.argouml.notation.providers.ModelElementNameNotation:	mvw
+org.argouml.activity2.diagram.ModePlaceDiagramElement:	bobtarling
+org.argouml.model.ModelImplementation:	linus	bobtarling	mvw	tfmorris
+org.argouml.uml.ui.behavior.collaborations.ActionNewActionForMessage:	mvw	linus	tfmorris
+org.argouml.notation.providers.ActionStateNotation:	mvw
+org.argouml.uml.cognitive.ChildGenSearch:	tfmorris	linus
+org.argouml.uml.ui.behavior.common_behavior.ActionNewSendAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrNodeInstanceInsideElement:	linus	alexb	mkl	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.ui.InitDiagramAppearanceUI:	mvw	tfmorris	linus
+org.argouml.uml.ui.UMLExpressionBodyField:	kataka	alexb	linus	thierrylach	bobtarling	jhraigniac	d00mst	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.model.ControlData:	bobtarling
+org.argouml.ui.SettingsTabProfile:	maurelio1234	tfmorris	euluis	mvw	thn	linus
+org.argouml.uml.reveng.Setting:	tfmorris	linus
+org.argouml.uml.diagram.ui.FigAttributesCompartment:	bobtarling	mvw	tfmorris
+org.argouml.model.ScopeKind:	linus	tfmorris
+org.argouml.ocl.OCLEvaluator:	mkl	linus	bobtarling	tfmorris	maurelio1234
+org.argouml.uml.diagram.DiagramAppearance:	mvw	linus
+org.argouml.core.propertypanels.ui.UMLSearchableComboBox:	bobtarling	linus
+org.argouml.uml.diagram.ui.ArgoFigText:	mvw	tfmorris	linus	bobtarling
+org.argouml.profile.ProfileReference:	euluis	tfmorris	linus
+org.argouml.model.Defaults:	bobtarling
+org.argouml.core.propertypanels.ui.UMLModelElementSupplierDependencyListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLAssociationEndTypeComboBoxModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrIllegalGeneralization:	mkl	linus	bobtarling	alexb	mvw	tfmorris	maurelio1234
+org.argouml.util.KeyEventUtils:	andrea_nironi	linus	mvw
+org.argouml.model.mdr.ActivityGraphsFactoryMDRImpl:	tfmorris	mvw
+org.argouml.uml.ui.TabProps:	jeremybennett	bobtarling	kataka	alexb	jhraigniac	linus	thierrylach	d00mst	mkl	mvw	thn	rastaman	tfmorris	maurelio1234
+org.argouml.core.propertypanels.ui.UMLTemplateParameterDefaultElementComboBoxModel:	bobtarling	linus
+org.argouml.uml.diagram.collaboration.ui.FigAssociationRole:	bobtarling	kataka	mkl	linus	mvw	tfmorris	dthompson
+org.argouml.uml.ui.behavior.state_machines.ActionNewCompositeState:	kataka	linus	jhraigniac	mvw
+org.argouml.model.euml.ChangeableKindEUMLImpl:	tfmorris	linus
+org.argouml.notation.providers.ObjectFlowStateTypeNotation:	mvw
+org.argouml.uml.ui.foundation.core.UMLDiagramNameDocument:	mkl	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrNWayAgg:	linus	bobtarling	alexb	d00mst	mvw	mkl	maurelio1234
+org.argouml.uml.diagram.state.ui.FigSynchState:	mvw	linus	bobtarling	tfmorris
+org.argouml.uml.cognitive.critics.CrInterfaceOperOnly:	linus	bobtarling	alexb	jhraigniac	mvw	mkl	maurelio1234
+org.argouml.uml.diagram.ui.AbstractActionCheckBoxMenuItem:	mvw	bobtarling
+org.argouml.uml.cognitive.critics.CrMissingAttrName:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.uml.ui.foundation.core.ActionAddEnumeration:	mvw
+org.argouml.model.mdr.MetaTypesMDRImpl:	tfmorris	mvw	bobtarling	thn
+org.argouml.uml.ui.behavior.activity_graphs.ActionAddEventAsTrigger:	mkl	tfmorris	mvw
+org.argouml.activity2.diagram.FigBaseNode:	bobtarling
+org.argouml.uml.diagram.ui.ModeCreateCommentEdge:	bobtarling	tfmorris	mvw
+org.argouml.model.ExtensionMechanismsHelper:	linus	mvw	tfmorris	thn
+org.argouml.uml.diagram.state.ui.FigShallowHistoryState:	kataka	mkl	linus	bobtarling	mvw	tfmorris
+org.argouml.util.FileFilters:	kataka	mkl	lepekhine	linus	d00mst	tfmorris	mvw
+org.argouml.kernel.DefaultUndoManager:	bobtarling	tfmorris	linus
+org.argouml.gefext.ArgoFigLine:	mvw	penyaskito	tfmorris	linus
+org.argouml.ui.GUI:	linus	mvw	tfmorris	andrea_nironi
+org.argouml.uml.diagram.static_structure.ui.UMLClassDiagram:	kataka	mkl	bobtarling	linus	thn	alexb	jjones	jhraigniac	mvw	tfmorris	euluis
+org.argouml.model.DiagramInterchangeModel:	bobtarling
+org.argouml.model.AbstractModelEventPump:	linus	bobtarling	tfmorris
+org.argouml.kernel.DelayedVChangeListener:	linus	alexb	mkl
+org.argouml.core.propertypanels.ui.CheckBox:	bobtarling	linus
+org.argouml.uml.UUIDHelper:	bobtarling	linus	mvw
+org.argouml.uml.diagram.activity.ui.ActivityDiagramPropPanelFactory:	mvw	linus
+org.argouml.notation.providers.uml.ClassifierRoleNotationUml:	mvw	tfmorris	penyaskito
+org.argouml.model.mdr.XmiWriterMDRImpl:	tfmorris	bobtarling
+org.argouml.model.mdr.XmiReferenceProviderImpl:	tfmorris
+org.argouml.uml.cognitive.critics.CrInvalidHistory:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.uml.diagram.activity.ui.FigActionState:	mkl	thierrylach	kataka	linus	jjones	jhraigniac	bobtarling	mvw	rastaman	tfmorris
+org.argouml.util.SuffixFilter:	linus	bobtarling	mvw	tfmorris	thn
+org.argouml.core.propertypanels.ui.UMLNodeDeployedComponentListModel:	penyaskito	bobtarling	linus
+org.argouml.profile.FormatingStrategy:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.ui.foundation.core.UMLBehavioralFeatureQueryCheckBox:	mkl	linus
+org.argouml.uml.diagram.static_structure.ui.FigDataType:	tfmorris	mvw	bobtarling
+org.argouml.uml.diagram.layout.Layouter:	linus
+org.argouml.uml.diagram.ui.FigMessage:	kataka	d00mst	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.persistence.OpenException:	bobtarling
+org.argouml.swingext.JLinkButton:	euluis	linus
+org.argouml.profile.internal.FormatingStrategyUML:	maurelio1234	tfmorris	euluis	linus
+org.argouml.uml.diagram.static_structure.ui.SelectionEnumeration:	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoStatemachineToDiagram:	kataka	mvw	linus	tfmorris
+org.argouml.core.propertypanels.ui.UMLExtensionPointExtendListModel:	bobtarling	linus
+org.argouml.uml.ui.TabDocumentation:	linus	thn	jhraigniac	bobtarling	kataka	alexb	mvw	d00mst	mkl	tfmorris
+org.argouml.cognitive.checklist.CheckManager:	linus	alexb	bobtarling	thn
+org.argouml.ui.SettingsTabPreferences:	thierrylach	jhraigniac	linus	alexb	mkl	mvw	tfmorris
+org.argouml.uml.ui.UMLTaggedValueCheckBox:	tfmorris	linus
+org.argouml.uml.diagram.ui.PropPanelDiagram:	jhraigniac	kataka	linus	alexb	jjones	mvw	bobtarling	mkl	tfmorris
+org.argouml.cognitive.ui.DismissToDoItemDialog:	mkl	kataka	d00mst	linus	thierrylach	jjones	mvw	jhraigniac	bobtarling	andrea_nironi
+org.argouml.ui.explorer.ExplorerTreeNode:	alexb	jhraigniac	d00mst	linus	mvw	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoModelElementToBehavior:	mvw	tfmorris
+org.argouml.model.mdr.FacadeMDRImpl:	tfmorris	bobtarling	mvw	linus	thn
+org.argouml.uml.ui.UMLTreeCellRenderer:	mkl	linus	kataka	alexb	jjones	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.ui.ModeCreateDependency:	bobtarling	linus
+org.argouml.cognitive.AbstractCognitiveTranslator:	mkl
+org.argouml.uml.cognitive.critics.CrInvalidJoinTriggerOrGuard:	mvw	mkl	tfmorris	maurelio1234
+org.argouml.util.Tools:	linus	mkl	alexb	thierrylach	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.use_case.ui.PropPanelUMLUseCaseDiagram:	kataka	linus	jhraigniac	mvw
+org.argouml.ui.ActionSettings:	jhraigniac	kataka	jjones	linus	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLMessageReceiverListModel:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoStateToExit:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.ui.ActionGenerateOne:	linus	mkl	jhraigniac	kataka	d00mst	mvw	tfmorris	thn	bobtarling
+org.argouml.model.UmlException:	linus	bobtarling
+org.argouml.util.JavaRuntimeUtility:	bobtarling	linus
+org.argouml.uml.diagram.ui.FigAssociationClass:	bobtarling	mvw	tfmorris
+org.argouml.profile.UserDefinedProfile:	maurelio1234	tfmorris	euluis	thn	linus
+org.argouml.uml.diagram.static_structure.ui.SelectionDataType:	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoStateToIncomingTrans:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.uml.cognitive.UMLToDoItem:	mkl	linus	mvw	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.UMLStateMachineTopListModel:	bobtarling	linus
+org.argouml.uml.ui.ActionNavigateAction:	mkl
+org.argouml.activity2.diagram.FigNamedPentagon:	bobtarling
+org.argouml.uml.cognitive.critics.CrTooManyOper:	mkl	linus	bobtarling	alexb	jhraigniac	mvw	maurelio1234
+org.argouml.uml.diagram.ui.FigStereotypesGroup:	bobtarling	mvw	tfmorris	penyaskito
+org.argouml.notation.providers.ExtensionPointNotation:	mvw
+org.argouml.model.CoreHelper:	linus	mvw	bobtarling	rastaman	tfmorris	mkl	thn
+org.argouml.notation.providers.EnumerationLiteralNotation:	mvw	linus
+org.argouml.cognitive.GoalModel:	kataka	linus	alexb	tfmorris
+org.argouml.state2.StateDiagramModule:	bobtarling
+org.argouml.persistence.OffenderXMLHelper:	bobtarling
+org.argouml.uml.diagram.ui.ActionAddStereotype:	maurelio1234	tfmorris	bobtarling	linus	thn
+org.argouml.kernel.ProjectSettings:	mvw	tfmorris	thn	penyaskito	bobtarling
+org.argouml.ui.cmd.ShortcutChangedEvent:	andrea_nironi	linus
+org.argouml.ui.explorer.ActionExportProfileXMI:	maurelio1234	tfmorris	euluis	mvw	bobtarling	linus
+org.argouml.uml.diagram.ui.ActionAddExistingNodes:	thn	tfmorris	mvw	bobtarling	euluis	linus
+org.argouml.uml.ui.UMLChangeDispatch:	jeremybennett	mkl	linus	kataka	bobtarling	mvw	tfmorris
+org.argouml.uml.diagram.DiagramUtils:	tfmorris	penyaskito	linus
+org.argouml.cognitive.ui.WizStep:	jhraigniac	kataka	linus	alexb	bobtarling	thierrylach	d00mst	mkl	mvw	andrea_nironi	tfmorris
+org.argouml.uml.diagram.DiagramFactoryInterface2:	tfmorris	linus
+org.argouml.ui.explorer.PerspectiveConfigurator:	alexb	jjones	linus	mvw	mkl	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetParameterDirectionKind:	mkl	mvw	linus	tfmorris	bobtarling
+org.argouml.uml.cognitive.critics.CrMissingClassName:	linus	bobtarling	alexb	mkl	mvw	tfmorris	maurelio1234
+org.argouml.ui.explorer.rules.GoClassToAssociatedClass:	alexb	kataka	d00mst	mvw	linus	tfmorris
+org.argouml.ui.CmdCreateNode:	kataka	mkl	linus	bobtarling	jjones	alexb	mvw	tfmorris
+org.argouml.ui.cmd.GenericArgoMenuBar:	mvw	linus	bobtarling	tfmorris	mkl	andrea_nironi	andreas	thn
+org.argouml.persistence.FigEdgeHandler:	bobtarling	mvw	thn
+org.argouml.persistence.XmiFilePersister:	bobtarling	mvw	linus	rastaman	tfmorris	thn
+org.argouml.notation.NotationSettings:	tfmorris	mvw	linus
+org.argouml.ui.cmd.SettingsTabShortcuts:	andrea_nironi	linus	mvw	tfmorris
+org.argouml.uml.ui.behavior.activity_graphs.UMLActionSynchCheckBox:	tfmorris	linus
+org.argouml.ui.explorer.rules.PerspectiveRule:	alexb	d00mst
+org.argouml.notation.providers.TransitionNotation:	mvw
+org.argouml.uml.diagram.static_structure.ui.StylePanelFigClass:	kataka	linus	jjones	mkl	bobtarling	mvw
+org.argouml.uml.diagram.static_structure.ui.FigException:	tfmorris	mvw	linus
+org.argouml.cognitive.ListSet:	bobtarling	tfmorris	andrea_nironi	penyaskito
+org.argouml.core.propertypanels.model.MetaDataCache:	bobtarling	tfmorris
+org.argouml.application.api.Predicate:	mvw
+org.argouml.persistence.PersistenceManager:	bobtarling	linus	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLModelElementConstraintListModel:	bobtarling	linus
+org.argouml.uml.ui.foundation.core.UMLModelElementNameDocument:	kataka	linus	bobtarling	mvw
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramRealizationEdge:	mkl	linus	jhraigniac	mvw	tfmorris
+org.argouml.util.ArgoFrame:	tfmorris	mvw
+org.argouml.uml.ui.ActionCopy:	mkl	jhraigniac	kataka	jjones	linus
+org.argouml.ui.cmd.ActionSelectInvert:	mvw	linus
+org.argouml.core.propertypanels.ui.UMLCollaborationRepresentedClassifierComboBoxModel:	penyaskito	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrObjectWithoutClassifier:	linus	alexb	bobtarling	mkl	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoDiagramToEdge:	alexb	kataka	jhraigniac	bobtarling	d00mst	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLTagDefinitionTypedValuesListModel:	penyaskito	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrNoTriggerOrGuard:	linus	bobtarling	alexb	mvw	mkl	tfmorris	maurelio1234
+org.argouml.notation.providers.uml.AbstractMessageNotationUml:	penyaskito	mvw	linus
+org.argouml.ui.cmd.ActionPrint:	mvw	bobtarling	mkl	linus
+org.argouml.profile.ProfileManager:	maurelio1234	tfmorris	euluis	linus
+org.argouml.kernel.ProjectMember:	kataka	d00mst	linus	thierrylach	jhraigniac	alexb	bobtarling	mvw
+org.argouml.configuration.ConfigurationFactory:	mkl	kataka	linus	bobtarling	jhraigniac	jjones	mvw	tfmorris
+org.argouml.uml.diagram.state.ui.FigState:	kataka	mkl	linus	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelElementToComment:	alexb	jhraigniac	d00mst	mvw	mkl	linus	tfmorris
+org.argouml.uml.ui.model_management.ActionAddPackage:	mvw	linus
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory:	mkl	linus	kataka	thierrylach	mvw	tfmorris
+org.argouml.persistence.OldModelMemberFilePersister:	bobtarling	linus	thn	mvw	tfmorris
+org.argouml.ui.StylePanel:	kataka	alexb	linus	thierrylach	d00mst	mkl	mvw	rastaman	tfmorris
+org.argouml.ui.explorer.rules.OperationsNode:	alexb	d00mst	linus
+org.argouml.uml.diagram.ui.ActionSetPath:	mvw	linus
+org.argouml.kernel.ProfileConfiguration:	maurelio1234	tfmorris	euluis	mvw	thn	linus
+org.argouml.uml.ui.UMLUserInterfaceContainer:	kataka	linus	bobtarling	mvw	thn	mkl	tfmorris	euluis
+org.argouml.model.DeploymentDiagram:	bobtarling
+org.argouml.util.SingleElementIterator:	tfmorris	linus
+org.argouml.uml.diagram.ui.FigMultiLineTextWithBold:	mvw	tfmorris	linus
+org.argouml.application.api.CommandLineInterface:	linus	jhraigniac	mkl
+org.argouml.model.euml.RunnableClass:	tfmorris	linus
+org.argouml.core.propertypanels.ui.ScrollListImpl:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoCompositeStateToSubvertex:	alexb	kataka	d00mst	mvw	linus	tfmorris
+org.argouml.uml.diagram.ui.ActionAddExistingEdge:	kataka	mkl	linus	mvw	bobtarling	tfmorris
+org.argouml.uml.diagram.use_case.ui.UseCaseDiagramPropPanelFactory:	mvw	linus
+org.argouml.cognitive.ui.PriorityNode:	jhraigniac	linus	alexb	mkl	tfmorris	mvw
+org.argouml.uml.diagram.deployment.ui.FigNodeInstance:	mkl	kataka	thn	linus	bobtarling	jhraigniac	mvw	tfmorris
+org.argouml.model.RemoveAssociationEvent:	bobtarling
+org.argouml.profile.internal.ProfileMeta:	maurelio1234	tfmorris	linus
+org.argouml.uml.diagram.state.ui.ButtonActionNewCallEvent:	mvw
+org.argouml.uml.ui.foundation.core.UMLStructuralFeatureChangeabilityRadioButtonPanel:	kataka	linus	bobtarling	d00mst	alexb	jhraigniac	mvw	tfmorris
+org.argouml.swingext.GlassPane:	mvw	thn	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLAssociationLinkListModel:	bobtarling	linus
+org.argouml.ui.ShadowComboBox:	jjones	jhraigniac	linus	mvw	bobtarling
+org.argouml.notation.providers.uml.ObjectFlowStateStateNotationUml:	mvw	tfmorris
+org.argouml.model.euml.NotYetImplementedException:	tfmorris	linus
+org.argouml.uml.diagram.ui.ActionModifierRoot:	mvw	linus	tfmorris	bobtarling
+org.argouml.uml.diagram.state.ui.FigFinalState:	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.persistence.XMLElement:	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.common_behavior.UMLActionAsynchronousCheckBox:	mkl
+org.argouml.profile.internal.ocl.DefaultOclEvaluator:	maurelio1234	tfmorris	lepekhine	linus
+org.argouml.notation.providers.OperationNotation:	mvw	tfmorris	thn
+org.argouml.core.propertypanels.ui.UMLModelElementTargetFlowListModel:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrNoTransitions:	linus	bobtarling	alexb	mvw	mkl	tfmorris	maurelio1234
+org.argouml.model.euml.MessageSortEUMLImpl:	bobtarling
+org.argouml.core.propertypanels.ui.UMLCollaborationConstrainingElementListModel:	bobtarling	linus
+org.argouml.uml.ui.behavior.state_machines.ActionNewGuard:	kataka	linus	mvw
+org.argouml.ui.explorer.rules.GoStateToDoActivity:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.model.ModelEventPump:	linus	bobtarling	tfmorris
+org.argouml.persistence.XmlFilePersister:	tfmorris	mvw	bobtarling
+org.argouml.profile.FigNodeStrategy:	maurelio1234	tfmorris	euluis	linus
+org.argouml.ui.explorer.rules.GoProfileToModel:	maurelio1234	tfmorris	euluis	linus
+org.argouml.model.AbstractModelFactory:	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLOperationSpecificationDocument:	bobtarling	linus
+org.argouml.ui.explorer.rules.GoModelElementToTemplateParameter:	penyaskito	linus
+org.argouml.model.VisibilityKind:	linus	tfmorris
+org.argouml.profile.FileModelLoader:	maurelio1234	tfmorris	euluis	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrSeqInstanceWithoutClassifier:	linus	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.uml.diagram.ui.ArgoModeCreateFigText:	mvw	tfmorris	linus
+org.argouml.uml.ui.foundation.core.ActionSetStructuralFeatureTargetScope:	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.uml.cognitive.critics.CrIllegalName:	mkl	linus	bobtarling	alexb	mvw	maurelio1234
+org.argouml.moduleloader.ModuleLoader2:	linus	bobtarling	tfmorris	mvw	maurelio1234	dthompson
+org.argouml.ui.cmd.ActionNotation:	mvw	bobtarling	tfmorris
+org.argouml.model.XmiReferenceException:	tfmorris	linus
+org.argouml.uml.ui.behavior.common_behavior.UMLReceptionSpecificationDocument:	mkl	linus	mvw	tfmorris
+org.argouml.profile.internal.ProfileManagerImpl:	maurelio1234	tfmorris	euluis	thn	linus	bobtarling
+org.argouml.notation.NotationRenderer:	mvw
+org.argouml.model.euml.ModelEventPumpEUMLImpl:	tfmorris	penyaskito	bobtarling	linus	thn
+org.argouml.core.propertypanels.ui.UMLDependencySupplierListModel:	bobtarling	linus
+org.argouml.activity2.diagram.FigGravityPoly:	bobtarling
+org.argouml.ui.explorer.rules.GoPackageToElementImport:	mvw	tfmorris	thn	linus
+org.argouml.sequence2.diagram.ActionSetAddMessageMode:	penyaskito	bobtarling	linus
+org.argouml.notation.providers.uml.NotationUtilityUml:	mvw	tfmorris	linus	penyaskito
+org.argouml.uml.ui.foundation.core.ActionSetClassActive:	mkl	mvw	linus	bobtarling
+org.argouml.profile.internal.ocl.uml14.OclAPIModelInterpreter:	maurelio1234	tfmorris	linus
+org.argouml.uml.ui.behavior.common_behavior.ActionNewReturnAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.activity.ui.SelectionCallState:	mvw
+org.argouml.model.mdr.KindsMDRImpl:	tfmorris	linus
+org.argouml.uml.ui.UMLStimulusActionTextProperty:	alexb	kataka	linus	bobtarling	mvw
+org.argouml.cognitive.ui.GoListToOffenderToItem:	linus	alexb	mkl	mvw	bobtarling	tfmorris
+org.argouml.uml.ui.behavior.state_machines.ActionNewCallEvent:	kataka	linus	jhraigniac	mvw	bobtarling
+org.argouml.uml.diagram.use_case.ui.InitUseCaseDiagram:	mvw	linus
+org.argouml.application.events.ArgoNotationEvent:	kataka	linus	thierrylach	mvw
+org.argouml.uml.ui.behavior.common_behavior.ActionAddContextSignal:	mvw	linus	bobtarling	tfmorris
+org.argouml.ui.explorer.rules.GoStateToOutgoingTrans:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.uml.diagram.static_structure.ui.FigInterface:	thn	thierrylach	kataka	d00mst	linus	mkl	bobtarling	alexb	jjones	jhraigniac	mvw	tfmorris
+org.argouml.uml.diagram.state.ui.InitStateDiagram:	mvw	linus
+org.argouml.ui.explorer.rules.GoClassToSummary:	alexb	kataka	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.uml.cognitive.critics.WizNavigable:	linus	kataka	alexb	thierrylach	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.diagram.collaboration.ui.FigClassifierRole:	jeremybennett	d00mst	kataka	linus	mkl	jjones	bobtarling	alexb	jhraigniac	mvw	tfmorris
+org.argouml.cognitive.ui.KnowledgeTypeNode:	linus	alexb	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoModelToNode:	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLChangeExpressionModel:	penyaskito	mvw	linus
+org.argouml.kernel.AbstractProjectMember:	bobtarling	linus	mvw	tfmorris
+org.argouml.uml.diagram.deployment.ui.AbstractFigNode:	tfmorris	mvw	linus
+org.argouml.gefext.ArgoModeCreateFigLine:	mvw	tfmorris	linus
+org.argouml.uml.ui.foundation.core.ActionAddEnumerationLiteral:	tfmorris	bobtarling
+org.argouml.core.propertypanels.ui.SwingUIFactory:	penyaskito	bobtarling	linus	tfmorris	thn
+org.argouml.uml.ui.UMLTextField2:	kataka	linus	mkl	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionSetModelElementVisibility:	kataka	linus	bobtarling	alexb	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLActivityGraphContextComboBoxModel:	bobtarling
+org.argouml.model.InvalidElementException:	tfmorris
+org.argouml.transformer.SimpleStateTransformer:	bobtarling	mvw
+org.argouml.model.mdr.UndoCommonBehaviorHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.model.ActivityDiagram:	bobtarling
+org.argouml.cognitive.ui.ToDoByGoal:	kataka	jhraigniac	linus	alexb	thierrylach	mvw	tfmorris	bobtarling
+org.argouml.ui.AbstractArgoJPanel:	bobtarling	tfmorris	linus
+org.argouml.persistence.MemberFilePersister:	bobtarling	mvw	tfmorris
+org.argouml.activity2.diagram.FigNamedRRect:	bobtarling
+org.argouml.ui.explorer.rules.AssociationsNode:	alexb	d00mst
+org.argouml.uml.diagram.state.ui.FigConcurrentRegion:	mvw	linus	bobtarling	tfmorris
+org.argouml.uml.diagram.ui.FigNodeModelElement:	thn	linus	kataka	mkl	d00mst	alexb	jjones	bobtarling	thierrylach	jhraigniac	mvw	rastaman	tfmorris	penyaskito	euluis
+org.argouml.uml.cognitive.critics.CrNameConflict:	kataka	mkl	linus	mvw	bobtarling	tfmorris	maurelio1234
+org.argouml.uml.cognitive.critics.CrMultipleDeepHistoryStates:	mvw	bobtarling	mkl	tfmorris	maurelio1234
+org.argouml.uml.diagram.DiagramUndoManager:	bobtarling	tfmorris	mvw	linus
+org.argouml.uml.diagram.deployment.ui.SelectionNode:	thierrylach	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.notation.providers.uml.ModelElementNameNotationUml:	mvw	tfmorris	penyaskito
+org.argouml.uml.diagram.state.ui.FigJoinState:	kataka	linus	bobtarling	mvw	mkl	tfmorris
+org.argouml.notation.NotationNameImpl:	mvw	tfmorris
+org.argouml.uml.diagram.ui.ActionModifierActive:	mvw	linus	tfmorris	bobtarling
+org.argouml.kernel.ProjectImpl:	linus	jeremybennett	mkl	kataka	thierrylach	d00mst	bobtarling	alexb	jjones	jhraigniac	sz9	mvw	tfmorris	thn	penyaskito	euluis	maurelio1234
+org.argouml.ui.explorer.rules.GoProjectToModel:	alexb	jhraigniac	d00mst	mvw	linus	tfmorris
+org.argouml.uml.ui.ActionClassDiagram:	kataka	mkl	bobtarling	thn	linus	jhraigniac	thierrylach	mvw	tfmorris
+org.argouml.cognitive.ui.GoListToTypeToItem:	linus	alexb	mvw	mkl	tfmorris
+org.argouml.uml.cognitive.critics.CrNonAggDataType:	linus	alexb	mvw	mkl	maurelio1234
+org.argouml.ui.explorer.rules.GoSignalToReception:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.diagram.ArgoDiagramImpl:	kataka	linus	d00mst	bobtarling	alexb	mkl	mvw	tfmorris
+org.argouml.uml.ui.foundation.core.ActionAddLiteral:	mvw
+org.argouml.model.euml.StateMachinesFactoryEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.uml.diagram.ProjectMemberDiagram:	linus	kataka	bobtarling	alexb	thierrylach	mvw	tfmorris
+org.argouml.notation.providers.NodeInstanceNotation:	mvw
+org.argouml.ui.explorer.rules.GoSummaryToOutgoingDependency:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.uml.util.namespace.StringNamespaceElement:	mkl
+org.argouml.core.propertypanels.ui.UMLEventTransitionListModel:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLAssociationAssociationRoleListModel:	bobtarling	linus
+org.argouml.uml.GenCompositeClasses2:	tfmorris	linus	bobtarling
+org.argouml.model.PseudostateKind:	linus	tfmorris
+org.argouml.swingext.UpArrowIcon:	mvw	linus
+org.argouml.ui.ContextActionFactory:	bobtarling	linus
+org.argouml.ocl.ArgoFacade:	kataka	linus	thn	alexb	bobtarling	thierrylach	jjones	tfmorris	mvw
+org.argouml.ui.explorer.rules.GoTransitiontoEffect:	mkl	mvw	tfmorris
+org.argouml.core.propertypanels.ui.XmlPropertyPanel:	penyaskito	bobtarling	mvw	linus
+org.argouml.uml.cognitive.critics.ProfileCodeGeneration:	maurelio1234	linus	tfmorris
+org.argouml.ui.explorer.rules.GoMessageToAction:	linus	tfmorris
+org.argouml.uml.diagram.static_structure.ui.SelectionClass:	thierrylach	kataka	mkl	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.ui.DetailsPane:	bobtarling	linus	kataka	mkl	alexb	jhraigniac	thierrylach	d00mst	mvw	tfmorris	dthompson
+org.argouml.uml.ui.behavior.common_behavior.ActionNewDestroyAction:	kataka	linus	jhraigniac	mvw	tfmorris
+org.argouml.model.mdr.ModelManagementHelperMDRImpl:	tfmorris	mvw	bobtarling	thn
+org.argouml.ui.explorer.rules.GoTransitionToGuard:	mkl	tfmorris
+org.argouml.cognitive.ui.InitCognitiveUI:	mvw	linus
+org.argouml.core.propertypanels.ui.UMLComponentInstanceClassifierComboBoxModel:	bobtarling
+org.argouml.uml.ui.behavior.use_cases.ActionNewExtendExtensionPoint:	kataka	mkl	linus	bobtarling	mvw
+org.argouml.core.propertypanels.ui.UMLMethodSpecificationComboBoxModel:	bobtarling	linus
+org.argouml.model.mdr.CollectionHelper:	tfmorris	linus
+org.argouml.ui.ActionExportXMI:	kataka	linus	jhraigniac	bobtarling	mvw	tfmorris
+org.argouml.ui.ArgoJFontChooser:	mvw	tfmorris	linus
+org.argouml.persistence.OldZargoFilePersister:	bobtarling	linus	thn	mvw	tfmorris	euluis
+org.argouml.moduleloader.DetailsTabProvider:	mvw	tfmorris	linus
+org.argouml.core.propertypanels.model.GetterSetterManagerImpl:	bobtarling	linus	thn
+org.argouml.uml.cognitive.critics.AbstractCrTooMany:	mkl	mvw	linus
+org.argouml.uml.ui.foundation.core.ActionNewInnerClass:	mvw	linus
+org.argouml.sequence2.diagram.FigHead:	penyaskito	bobtarling	tfmorris	thn	linus	mvw
+org.argouml.ui.explorer.rules.GoStimulusToAction:	alexb	jhraigniac	d00mst	linus	mvw	mkl	tfmorris
+org.argouml.uml.diagram.ui.FigCompartmentBox:	bobtarling	linus	tfmorris	mvw
+org.argouml.uml.diagram.deployment.ui.FigMNode:	mkl	kataka	thn	linus	bobtarling	jhraigniac	mvw	tfmorris
+org.argouml.model.AbstractActivityGraphsHelperDecorator:	linus	mvw	tfmorris	bobtarling
+org.argouml.uml.cognitive.critics.CrTooManyClasses:	linus	alexb	bobtarling	mkl	mvw	maurelio1234
+org.argouml.application.events.ArgoGeneratorEvent:	mvw	tfmorris
+org.argouml.uml.cognitive.critics.WizBreakCircularComp:	linus	kataka	alexb	thierrylach	bobtarling	mkl	mvw	tfmorris
+org.argouml.uml.ui.UMLExpressionLanguageField:	alexb	linus	bobtarling	jhraigniac	mkl	mvw
+org.argouml.uml.ui.ActionCollaborationDiagram:	thierrylach	kataka	mkl	bobtarling	thn	linus	alexb	jhraigniac	d00mst	mvw	tfmorris
+org.argouml.persistence.ResolvedCriticXMLHelper:	bobtarling	tfmorris
+org.argouml.uml.diagram.ui.FigGeneralization:	kataka	mkl	linus	bobtarling	alexb	mvw	tfmorris	dthompson
+org.argouml.ui.cmd.PrintManager:	bobtarling	tfmorris
+org.argouml.uml.ui.ActionSaveAllGraphics:	mvw	tfmorris	thn
+org.argouml.uml.ChildGenRelated:	mkl	tfmorris
+org.argouml.uml.ui.foundation.core.ActionAddSupplierDependencyAction:	mvw	tfmorris	linus
+org.argouml.sequence2.diagram.SelectionClassifierRole:	bobtarling	tfmorris	bszanto	linus
+org.argouml.ui.ExceptionDialog:	bobtarling	tfmorris	mvw
+org.argouml.uml.diagram.use_case.ui.FigExtensionPoint:	mvw
+org.argouml.core.propertypanels.ui.UMLStateMachineSubmachineStateListModel:	bobtarling	linus
+org.argouml.model.AbstractStateMachinesHelperDecorator:	linus	rastaman	mvw	tfmorris	bobtarling
+org.argouml.sequence2.diagram.FigClassifierRole:	penyaskito	bobtarling	mvw	tfmorris	thn	linus
+org.argouml.notation.NotationProvider:	mvw	linus	tfmorris
+org.argouml.ui.explorer.WeakExplorerNode:	d00mst	mvw
+org.argouml.uml.StereotypeUtility:	bobtarling	tfmorris	mvw	linus	thn
+org.argouml.model.mdr.DataTypesFactoryMDRImpl:	tfmorris
+org.argouml.uml.diagram.state.ui.FigCompositeState:	kataka	linus	thierrylach	bobtarling	mvw	tfmorris
+org.argouml.profile.UserProfileReference:	euluis	linus
+org.argouml.persistence.ArgoParser:	bobtarling	linus	mvw	thn	tfmorris	penyaskito
+org.argouml.util.ToolBarUtility:	mvw	bobtarling	linus
+org.argouml.uml.diagram.ui.ActionSetAddAssociationEndMode:	bobtarling	tfmorris	mvw
+org.argouml.model.mdr.UndoUseCasesHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.core.propertypanels.ui.ListFactory:	bobtarling	penyaskito	linus
+org.argouml.uml.cognitive.critics.CrDupRoleNames:	linus	alexb	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.util.FileConstants:	mkl	linus	mvw
+org.argouml.uml.diagram.deployment.ui.SelectionNodeInstance:	thierrylach	kataka	linus	alexb	bobtarling	mvw	tfmorris
+org.argouml.model.mdr.ModelEventPumpMDRImpl:	tfmorris	bobtarling	linus	mvw
+org.argouml.uml.reveng.ImportClassLoader:	alexb	mvw	linus	tfmorris	penyaskito
+org.argouml.uml.diagram.use_case.ui.FigUseCase:	thn	jeremybennett	linus	mkl	kataka	d00mst	jjones	bobtarling	thierrylach	alexb	jhraigniac	mvw	tfmorris	penyaskito
+org.argouml.uml.ui.ActionRemoveModelElement:	kataka	mkl	linus	bobtarling
+org.argouml.uml.diagram.ui.ActionSetAddAssociationMode:	bobtarling	tfmorris	mvw
+org.argouml.notation.providers.MultiplicityNotation:	mvw	dthompson	linus
+org.argouml.cognitive.ui.ActionAutoCritique:	mvw	tfmorris	bobtarling	linus
+org.argouml.cognitive.StandardCM:	linus	alexb	mkl	mvw	tfmorris
+org.argouml.persistence.ArgoTokenTable:	bobtarling	mvw	thn	tfmorris	penyaskito
+org.argouml.ui.targetmanager.TargetEvent:	kataka	linus	d00mst	mvw	tfmorris
+org.argouml.model.euml.CollaborationsFactoryEUMLImpl:	tfmorris	linus	bobtarling
+org.argouml.util.PredicateType:	tfmorris	linus
+org.argouml.ocl.OCLUtil:	thn	alexb	linus	bobtarling	tfmorris
+org.argouml.gefext.ArgoModeCreateFigRect:	mvw	linus
+org.argouml.model.mdr.CollaborationsHelperMDRImpl:	tfmorris	mvw	linus	bobtarling
+org.argouml.model.euml.UseCasesFactoryEUMLImpl:	tfmorris	linus
+org.argouml.ui.ActionProjectSettings:	mvw	euluis
+org.argouml.notation.Notation:	mvw	tfmorris	linus	thn	penyaskito
+org.argouml.uml.diagram.UMLMutableGraphSupport:	mkl	bobtarling	linus	alexb	thierrylach	kataka	mvw	tfmorris
+org.argouml.core.propertypanels.ui.Ordered:	bobtarling	linus
+org.argouml.application.events.ArgoEvent:	linus	thierrylach	mvw	mkl
+org.argouml.model.XmiException:	tfmorris	linus
+org.argouml.model.AddAssociationEvent:	bobtarling
+org.argouml.core.propertypanels.ui.NavigateUpAction:	bobtarling
+org.argouml.kernel.ProjectManager:	kataka	alexb	linus	mkl	thierrylach	jhraigniac	sz9	bobtarling	mvw	tfmorris	thn
+org.argouml.cognitive.ui.WizStepConfirm:	linus	alexb	mkl	mvw
+org.argouml.model.mdr.UndoUmlHelperDecorator:	linus	bobtarling	tfmorris
+org.argouml.ui.cmd.ActionFind:	mvw	tfmorris	bobtarling
+org.argouml.uml.ui.foundation.core.ActionAddAssociationSpecification:	kataka	linus	bobtarling	jhraigniac	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLScriptExpressionModel:	penyaskito	bobtarling	mvw	linus
+org.argouml.ui.explorer.rules.GoProjectToCollaboration:	alexb	jhraigniac	d00mst	linus	mvw	tfmorris
+org.argouml.core.propertypanels.ui.UMLDependencyClientListModel:	bobtarling	linus
+org.argouml.model.CollaborationsFactory:	linus	tfmorris	bobtarling
+org.argouml.uml.cognitive.critics.CrCircularInheritance:	kataka	linus	alexb	thierrylach	mkl	d00mst	mvw	bobtarling	maurelio1234
+org.argouml.uml.diagram.ui.ActionList:	bobtarling	tfmorris	linus
+org.argouml.uml.diagram.static_structure.ui.StylePanelFigInterface:	thn	jjones	linus	mkl	bobtarling	mvw
+org.argouml.cognitive.checklist.ui.InitCheckListUI:	mvw	tfmorris	linus
+org.argouml.uml.diagram.ui.DiagramNameDocument:	mvw	linus	tfmorris
+org.argouml.uml.diagram.use_case.ui.FigActor:	kataka	linus	bobtarling	mkl	mvw	tfmorris
+org.argouml.notation.providers.uml.ActionStateNotationUml:	mvw	tfmorris
+org.argouml.ui.explorer.rules.GoSummaryToAssociation:	alexb	jhraigniac	mvw	d00mst	linus	tfmorris
+org.argouml.notation.providers.uml.AssociationNameNotationUml:	mvw	tfmorris	linus
+org.argouml.uml.ui.behavior.state_machines.ActionNewSimpleState:	kataka	linus	jhraigniac	mvw
+org.argouml.persistence.PgmlUtility:	bobtarling	mvw	thn	tfmorris
+org.argouml.cognitive.Goal:	jhraigniac	linus	alexb	mkl	tfmorris
+org.argouml.ui.ArgoToolbarManager:	mvw	linus
+org.argouml.core.propertypanels.ui.ComponentFactory:	bobtarling	linus
+org.argouml.uml.cognitive.critics.InitCognitiveCritics:	linus	mkl	kataka	alexb	mvw	bobtarling	tfmorris	maurelio1234
+org.argouml.util.PredicateTrue:	tfmorris	linus
+org.argouml.core.propertypanels.ui.UMLModelElementNameDocument:	bobtarling	linus
+org.argouml.uml.cognitive.critics.CrAttrNameConflict:	linus	kataka	alexb	thierrylach	d00mst	mvw	mkl	tfmorris	maurelio1234
+org.argouml.ui.ProjectSettingsTabProfile:	maurelio1234	tfmorris	euluis	mvw	thn
+org.argouml.uml.cognitive.checklist.Init:	linus	alexb	tfmorris
+org.argouml.model.euml.RootContainerAdapter:	tfmorris	linus
+org.argouml.application.events.ArgoDiagramAppearanceEventListener:	mvw	linus
+org.argouml.core.propertypanels.ui.SingleListFactory:	bobtarling	linus
+org.argouml.core.propertypanels.ui.UMLContainerResidentListModel:	bobtarling	linus
+org.argouml.notation.providers.java.NotationUtilityJava:	mvw	tfmorris	penyaskito

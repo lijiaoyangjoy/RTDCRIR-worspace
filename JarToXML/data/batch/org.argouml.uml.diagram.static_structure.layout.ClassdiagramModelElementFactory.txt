@@ -1,0 +1,5 @@
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory.LOG
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory.SINGLETON
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory.ClassdiagramModelElementFactory()
+org.argouml.uml.diagram.static_structure.layout.ClassdiagramModelElementFactory.getInstance(Object)

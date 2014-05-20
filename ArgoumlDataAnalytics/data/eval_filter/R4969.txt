@@ -1,0 +1,6 @@
+org.argouml.kernel.ProjectSettings
+org.argouml.notation.Notation
+org.argouml.notation.providers.uml.AssociationNameNotationUml
+org.argouml.notation.ui.SettingsTabNotation
+org.argouml.persistence.ArgoParser
+org.argouml.persistence.ArgoTokenTable

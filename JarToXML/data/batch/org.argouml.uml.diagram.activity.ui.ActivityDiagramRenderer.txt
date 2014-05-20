@@ -1,0 +1,4 @@
+org.argouml.activity2.diagram.ActivityDiagramRenderer
+org.argouml.activity2.diagram.ActivityDiagramRenderer.LOG
+org.argouml.activity2.diagram.ActivityDiagramRenderer.getFigNodeFor(GraphModel, Layer, Object, Map)
+org.argouml.activity2.diagram.ActivityDiagramRenderer.getFigEdgeFor(GraphModel, Layer, Object, Map)

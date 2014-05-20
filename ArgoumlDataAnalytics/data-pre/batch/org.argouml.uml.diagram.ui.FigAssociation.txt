@@ -1,0 +1,64 @@
+org.argouml.uml.diagram.ui.FigAssociation
+org.argouml.uml.diagram.ui.FigAssociation.LOG
+org.argouml.uml.diagram.ui.FigAssociation.srcEnd
+org.argouml.uml.diagram.ui.FigAssociation.destEnd
+org.argouml.uml.diagram.ui.FigAssociation.middleGroup
+org.argouml.uml.diagram.ui.FigAssociation.FigAssociation(DiagramEdgeSettings, DiagramSettings)
+org.argouml.uml.diagram.ui.FigAssociation.removeFromDiagramImpl()
+org.argouml.uml.diagram.ui.FigAssociation.propertyChange(PropertyChangeEvent)
+org.argouml.uml.diagram.ui.FigAssociation.createEndFigs(Object, Object, DiagramSettings, int)
+org.argouml.uml.diagram.ui.FigAssociation.createEnd(Object, DiagramSettings, int, int, int, int)
+org.argouml.uml.diagram.ui.FigAssociation.createNameLabel(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigAssociation.renderingChanged()
+org.argouml.uml.diagram.ui.FigAssociation.initNotationProviders(Object)
+org.argouml.uml.diagram.ui.FigAssociation.initializeNotationProvidersInternal(Object)
+org.argouml.uml.diagram.ui.FigAssociation.updateListeners(Object, Object)
+org.argouml.uml.diagram.ui.FigAssociation.getNotationProviderType()
+org.argouml.uml.diagram.ui.FigAssociation.getSource()
+org.argouml.uml.diagram.ui.FigAssociation.getDestination()
+org.argouml.uml.diagram.ui.FigAssociation.getSourceConnector()
+org.argouml.uml.diagram.ui.FigAssociation.getDestinationConnector()
+org.argouml.uml.diagram.ui.FigAssociation.textEdited(FigText)
+org.argouml.uml.diagram.ui.FigAssociation.textEditStarted(FigText)
+org.argouml.uml.diagram.ui.FigAssociation.applyArrowHeads()
+org.argouml.uml.diagram.ui.FigAssociation.getPopUpActions(MouseEvent)
+org.argouml.uml.diagram.ui.FigAssociation.isPointCloseToEdgeEnd(Point)
+org.argouml.uml.diagram.ui.FigAssociation.buildMultiplicityMenu(Vector)
+org.argouml.uml.diagram.ui.FigAssociation.buildNavigationMenu(Vector, Object, Object)
+org.argouml.uml.diagram.ui.FigAssociation.buildAggregationMenu(Vector, Object, Object)
+org.argouml.uml.diagram.ui.FigAssociation.updateMultiplicity()
+org.argouml.uml.diagram.ui.FigAssociation.paint(Graphics)
+org.argouml.uml.diagram.ui.FigAssociation.getMiddleGroup()
+org.argouml.uml.diagram.ui.FigAssociation.layoutEdge()
+org.argouml.uml.diagram.ui.FigAssociation.updateNameText()
+org.argouml.uml.diagram.ui.FigAssociation.EndDecoration
+org.argouml.uml.diagram.ui.FigMultiplicity
+org.argouml.uml.diagram.ui.FigMultiplicity.FigMultiplicity(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigMultiplicity.getNotationProviderType()
+org.argouml.uml.diagram.ui.FigOrdering
+org.argouml.uml.diagram.ui.FigOrdering.serialVersionUID
+org.argouml.uml.diagram.ui.FigOrdering.FigOrdering(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigOrdering.setText()
+org.argouml.uml.diagram.ui.FigOrdering.getOrderingName(Object)
+org.argouml.uml.diagram.ui.FigRole
+org.argouml.uml.diagram.ui.FigRole.FigRole(Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigRole.getNotationProviderType()
+org.argouml.uml.diagram.ui.FigRole.propertyChange(PropertyChangeEvent)
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.serialVersionUID
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.NAV_AGGR
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.NAV_COMP
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.NONE
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.AGGREGATE
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.COMPOSITE
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.NAV
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.ARROW_HEADS
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.{...}
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.role
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.ordering
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.figEdge
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.FigAssociationEndAnnotation(FigEdgeModelElement, Object, DiagramSettings)
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.removeFromDiagram()
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.propertyChange(PropertyChangeEvent)
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.getArrowType()
+org.argouml.uml.diagram.ui.FigAssociationEndAnnotation.getRole()

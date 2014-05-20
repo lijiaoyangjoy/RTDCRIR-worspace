@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Config>
+<SaveXmlPath>C:/workspace/JarToXML/data/argouml.xml</SaveXmlPath>
+<JarFilePath>C:/workspace/JarToXML/data/</JarFilePath>
+<PackagaName>org</PackagaName>
+<JarName>argouml.jar</JarName>
+</Config>

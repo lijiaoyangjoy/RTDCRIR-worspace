@@ -1,0 +1,17 @@
+org.argouml.ui.explorer.ActionManageProfiles	-1
+org.argouml.ui.ProjectSettingsTabProfile	-1
+org.argouml.ui.SettingsTabProfile	-1
+org.argouml.profile.ProfileManager	-1
+org.argouml.profile.CoreProfileReference	-1
+org.argouml.profile.init.ProfileLoader	-1
+org.argouml.uml.ui.foundation.core.ActionSetClassActive	-1
+org.argouml.profile.internal.ProfileManagerImpl	-1
+org.argouml.persistence.ProfileConfigurationFilePersister	-1
+org.argouml.uml.ui.foundation.core.UMLClassActiveCheckBox	-1
+org.argouml.ui.explorer.rules.GoProfileToCritics	-1
+org.argouml.uml.diagram.ui.ActionStereotypeViewTextual	-1
+org.argouml.profile.UserDefinedProfile	-1
+org.argouml.profile.internal.ProfileUML	-1
+org.argouml.uml.ui.foundation.core.ActionSetGeneralizableElementRoot	-1
+org.argouml.persistence.UmlFilePersister	-1
+org.argouml.uml.ui.foundation.core.UMLGeneralizableElementLeafCheckBox	-1
